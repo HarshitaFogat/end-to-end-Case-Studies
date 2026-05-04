@@ -1,0 +1,398 @@
+ProductSK,ProductKey,ProductSubcategoryKey,Product,Color,Model,Subcategory,Category,AvgUnitPrice,PriceBand,ProductTier,ProductSegment,EffectiveDate,EndDate,IsCurrent,RowVersion
+1,226,21,"Long-Sleeve Logo Jersey, S",Multi,Long-Sleeve Logo Jersey,Jerseys,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+2,227,21,"Long-Sleeve Logo Jersey, S",Multi,Long-Sleeve Logo Jersey,Jerseys,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+3,228,21,"Long-Sleeve Logo Jersey, S",Multi,Long-Sleeve Logo Jersey,Jerseys,Clothing,21.802097902097902,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+4,229,21,"Long-Sleeve Logo Jersey, M",Multi,Long-Sleeve Logo Jersey,Jerseys,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+5,230,21,"Long-Sleeve Logo Jersey, M",Multi,Long-Sleeve Logo Jersey,Jerseys,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+6,231,21,"Long-Sleeve Logo Jersey, M",Multi,Long-Sleeve Logo Jersey,Jerseys,Clothing,22.933235294117647,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+7,232,21,"Long-Sleeve Logo Jersey, L",Multi,Long-Sleeve Logo Jersey,Jerseys,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+8,233,21,"Long-Sleeve Logo Jersey, L",Multi,Long-Sleeve Logo Jersey,Jerseys,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+9,234,21,"Long-Sleeve Logo Jersey, L",Multi,Long-Sleeve Logo Jersey,Jerseys,Clothing,22.29400442477876,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+10,235,21,"Long-Sleeve Logo Jersey, Xl",Multi,Long-Sleeve Logo Jersey,Jerseys,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+11,236,21,"Long-Sleeve Logo Jersey, Xl",Multi,Long-Sleeve Logo Jersey,Jerseys,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+12,237,21,"Long-Sleeve Logo Jersey, Xl",Multi,Long-Sleeve Logo Jersey,Jerseys,Clothing,23.798498789346247,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+13,391,10,Ll Fork,NA,Ll Fork,Forks,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+14,392,10,Ml Fork,NA,Ml Fork,Forks,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+15,393,10,Hl Fork,NA,Hl Fork,Forks,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+16,397,4,Ll Mountain Handlebars,NA,Ll Mountain Handlebars,Handlebars,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+17,398,4,Ll Mountain Handlebars,NA,Ll Mountain Handlebars,Handlebars,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+18,410,17,Ll Mountain Front Wheel,Black,Ll Mountain Front Wheel,Wheels,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+19,411,17,Ml Mountain Front Wheel,Black,Ml Mountain Front Wheel,Wheels,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+20,412,17,Hl Mountain Front Wheel,Black,Hl Mountain Front Wheel,Wheels,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+21,416,17,Touring Front Wheel,Black,Touring Front Wheel,Wheels,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+22,419,17,Ll Mountain Rear Wheel,Black,Ll Mountain Rear Wheel,Wheels,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+23,420,17,Ml Mountain Rear Wheel,Black,Ml Mountain Rear Wheel,Wheels,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+24,421,17,Hl Mountain Rear Wheel,Black,Hl Mountain Rear Wheel,Wheels,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+25,425,17,Touring Rear Wheel,Black,Touring Rear Wheel,Wheels,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+26,445,22,"Men'S Sports Shorts, S",Black,Men'S Sports Shorts,Shorts,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+27,447,34,Cable Lock,NA,Cable Lock,Locks,Accessories,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+28,448,36,Minipump,NA,Minipump,Pumps,Accessories,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+29,449,36,Mountain Pump,NA,Mountain Pump,Pumps,Accessories,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+30,450,33,Taillights - Battery-Powered,NA,Taillight,Lights,Accessories,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+31,451,33,Headlights - Dual-Beam,NA,Headlights - Dual-Beam,Lights,Accessories,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+32,452,33,Headlights - Weatherproof,NA,Headlights - Weatherproof,Lights,Accessories,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+33,453,22,"Men'S Sports Shorts, M",Black,Men'S Sports Shorts,Shorts,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+34,454,22,"Men'S Sports Shorts, L",Black,Men'S Sports Shorts,Shorts,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+35,455,22,"Men'S Sports Shorts, Xl",Black,Men'S Sports Shorts,Shorts,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+36,474,22,"Women'S Mountain Shorts, S",Black,Women'S Mountain Shorts,Shorts,Clothing,61.930855263157895,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+37,475,22,"Women'S Mountain Shorts, M",Black,Women'S Mountain Shorts,Shorts,Clothing,62.035568181818185,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+38,476,22,"Women'S Mountain Shorts, L",Black,Women'S Mountain Shorts,Shorts,Clothing,60.92669421487603,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+39,477,28,Water Bottle - 30 Oz.,NA,Water Bottle,Bottles And Cages,Accessories,2.820311027332705,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+40,479,28,Road Bottle Cage,NA,Road Bottle Cage,Bottles And Cages,Accessories,4.1712091121495325,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+41,480,37,Patch Kit/8 Patches,NA,Patch Kit,Tires And Tubes,Accessories,0.9867126292698214,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+42,488,21,"Short-Sleeve Classic Jersey, S",Yellow,Short-Sleeve Classic Jersey,Jerseys,Clothing,25.06258620689655,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+43,489,21,"Short-Sleeve Classic Jersey, M",Yellow,Short-Sleeve Classic Jersey,Jerseys,Clothing,25.927297297297297,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+44,490,21,"Short-Sleeve Classic Jersey, L",Yellow,Short-Sleeve Classic Jersey,Jerseys,Clothing,25.258877005347593,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+45,491,21,"Short-Sleeve Classic Jersey, Xl",Yellow,Short-Sleeve Classic Jersey,Jerseys,Clothing,24.333300733496333,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+46,515,15,Ll Mountain Seat/Saddle,NA,Ll Mountain Seat/Saddle 2,Saddles,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+47,530,37,Touring Tire Tube,NA,Touring Tire Tube,Tires And Tubes,Accessories,3.7368010752688177,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+48,537,37,Hl Mountain Tire,NA,Hl Mountain Tire,Tires And Tubes,Accessories,24.779448424068768,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+49,540,37,Hl Road Tire,NA,Hl Road Tire,Tires And Tubes,Accessories,23.74108391608392,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+50,548,13,Touring Pedal,Silver/Black,Touring Pedal,Pedals,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+51,559,7,Chain,Silver,Chain,Chains,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+52,212,31,"Sport-100 Helmet, Red",Red,Sport-100,Helmets,Accessories,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+53,213,31,"Sport-100 Helmet, Red",Red,Sport-100,Helmets,Accessories,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+54,214,31,"Sport-100 Helmet, Red",Red,Sport-100,Helmets,Accessories,14.74406278026906,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+55,215,31,"Sport-100 Helmet, Black",Black,Sport-100,Helmets,Accessories,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+56,216,31,"Sport-100 Helmet, Black",Black,Sport-100,Helmets,Accessories,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+57,217,31,"Sport-100 Helmet, Black",Black,Sport-100,Helmets,Accessories,14.680489208633093,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+58,218,23,"Mountain Bike Socks, M",White,Mountain Bike Socks,Socks,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+59,219,23,"Mountain Bike Socks, L",White,Mountain Bike Socks,Socks,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+60,220,31,"Sport-100 Helmet, Blue",Blue,Sport-100,Helmets,Accessories,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+61,221,31,"Sport-100 Helmet, Blue",Blue,Sport-100,Helmets,Accessories,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+62,222,31,"Sport-100 Helmet, Blue",Blue,Sport-100,Helmets,Accessories,14.708357647058824,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+63,223,19,Awc Logo Cap,Multi,Cycling Cap,Caps,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+64,224,19,Awc Logo Cap,Multi,Cycling Cap,Caps,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+65,225,19,Awc Logo Cap,Multi,Cycling Cap,Caps,Clothing,4.312972602739726,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+66,394,11,Ll Headset,NA,Ll Headset,Headsets,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+67,395,11,Ml Headset,NA,Ml Headset,Headsets,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+68,396,11,Hl Headset,NA,Hl Headset,Headsets,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+69,399,4,Ml Mountain Handlebars,NA,Ml Mountain Handlebars,Handlebars,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+70,400,4,Ml Mountain Handlebars,NA,Ml Mountain Handlebars,Handlebars,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+71,401,4,Hl Mountain Handlebars,NA,Hl Mountain Handlebars,Handlebars,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+72,402,4,Hl Mountain Handlebars,NA,Hl Mountain Handlebars,Handlebars,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+73,403,4,Ll Road Handlebars,NA,Ll Road Handlebars,Handlebars,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+74,404,4,Ll Road Handlebars,NA,Ll Road Handlebars,Handlebars,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+75,405,4,Ml Road Handlebars,NA,Ml Road Handlebars,Handlebars,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+76,406,4,Ml Road Handlebars,NA,Ml Road Handlebars,Handlebars,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+77,407,4,Hl Road Handlebars,NA,Hl Road Handlebars,Handlebars,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+78,408,4,Hl Road Handlebars,NA,Hl Road Handlebars,Handlebars,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+79,446,35,"Touring-Panniers, Large",Grey,Touring-Panniers,Panniers,Accessories,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+80,456,24,"Women'S Tights, S",Black,Women'S Tights,Tights,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+81,457,24,"Women'S Tights, M",Black,Women'S Tights,Tights,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+82,458,24,"Women'S Tights, L",Black,Women'S Tights,Tights,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+83,459,18,"Men'S Bib-Shorts, S",Multi,Men'S Bib-Shorts,Bib-Shorts,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+84,460,18,"Men'S Bib-Shorts, M",Multi,Men'S Bib-Shorts,Bib-Shorts,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+85,461,18,"Men'S Bib-Shorts, L",Multi,Men'S Bib-Shorts,Bib-Shorts,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+86,462,20,"Half-Finger Gloves, S",Black,Half-Finger Gloves,Gloves,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+87,463,20,"Half-Finger Gloves, S",Black,Half-Finger Gloves,Gloves,Clothing,9.021967213114754,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+88,464,20,"Half-Finger Gloves, M",Black,Half-Finger Gloves,Gloves,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+89,465,20,"Half-Finger Gloves, M",Black,Half-Finger Gloves,Gloves,Clothing,9.603306613226453,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+90,466,20,"Half-Finger Gloves, L",Black,Half-Finger Gloves,Gloves,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+91,467,20,"Half-Finger Gloves, L",Black,Half-Finger Gloves,Gloves,Clothing,8.836365688487586,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+92,468,20,"Full-Finger Gloves, S",Black,Full-Finger Gloves,Gloves,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+93,469,20,"Full-Finger Gloves, M",Black,Full-Finger Gloves,Gloves,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+94,470,20,"Full-Finger Gloves, L",Black,Full-Finger Gloves,Gloves,Clothing,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+95,471,25,"Classic Vest, S",Blue,Classic Vest,Vests,Clothing,25.981607142857143,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+96,472,25,"Classic Vest, M",Blue,Classic Vest,Vests,Clothing,28.74180904522613,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+97,473,25,"Classic Vest, L",Blue,Classic Vest,Vests,Clothing,25.733384615384615,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+98,478,28,Mountain Bottle Cage,NA,Mountain Bottle Cage,Bottles And Cages,Accessories,6.157679012345679,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+99,481,23,"Racing Socks, M",White,Racing Socks,Socks,Clothing,3.8122483221476506,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+100,482,23,"Racing Socks, L",White,Racing Socks,Socks,Clothing,3.8199629629629634,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+101,483,26,Hitch Rack - 4-Bike,NA,Hitch Rack - 4-Bike,Bike Racks,Accessories,55.3780487804878,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+102,484,29,Bike Wash - Dissolver,NA,Bike Wash,Cleaners,Accessories,3.237081497797357,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+103,485,30,Fender Set - Mountain,NA,Fender Set - Mountain,Fenders,Accessories,15.108236680810938,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+104,486,27,All-Purpose Bike Stand,NA,All-Purpose Bike Stand,Bike Stands,Accessories,63.40385542168674,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+105,487,32,Hydration Pack - 70 Oz.,Silver,Hydration Pack,Hydration Packs,Accessories,21.71368349249659,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+106,516,15,Ml Mountain Seat/Saddle,NA,Ml Mountain Seat/Saddle 2,Saddles,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+107,517,15,Hl Mountain Seat/Saddle,NA,Hl Mountain Seat/Saddle 2,Saddles,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+108,518,15,Ll Road Seat/Saddle,NA,Ll Road Seat/Saddle 1,Saddles,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+109,519,15,Ml Road Seat/Saddle,NA,Ml Road Seat/Saddle 2,Saddles,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+110,520,15,Hl Road Seat/Saddle,NA,Hl Road Seat/Saddle 2,Saddles,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+111,521,15,Ll Touring Seat/Saddle,NA,Ll Touring Seat/Saddle,Saddles,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+112,522,15,Ml Touring Seat/Saddle,NA,Ml Touring Seat/Saddle,Saddles,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+113,523,15,Hl Touring Seat/Saddle,NA,Hl Touring Seat/Saddle,Saddles,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+114,528,37,Mountain Tire Tube,NA,Mountain Tire Tube,Tires And Tubes,Accessories,3.7135250403877222,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+115,529,37,Road Tire Tube,NA,Road Tire Tube,Tires And Tubes,Accessories,2.8890025252525255,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+116,535,37,Ll Mountain Tire,NA,Ll Mountain Tire,Tires And Tubes,Accessories,20.91824825986079,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+117,536,37,Ml Mountain Tire,NA,Ml Mountain Tire,Tires And Tubes,Accessories,24.717777777777776,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+118,538,37,Ll Road Tire,NA,Ll Road Tire,Tires And Tubes,Accessories,15.923065134099618,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+119,539,37,Ml Road Tire,NA,Ml Road Tire,Tires And Tubes,Accessories,17.644935205183586,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+120,541,37,Touring Tire,NA,Touring Tire,Tires And Tubes,Accessories,22.023176470588233,Low (<$200),Entry,Low Value (<$100),2015-01-01,9999-12-31,1,1
+121,553,4,Ll Touring Handlebars,NA,Ll Touring Handlebars,Handlebars,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+122,554,4,Hl Touring Handlebars,NA,Hl Touring Handlebars,Handlebars,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+123,288,12,"Hl Mountain Frame - Silver, 42",Silver,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+124,289,12,"Hl Mountain Frame - Silver, 42",Silver,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+125,290,12,"Hl Mountain Frame - Silver, 42",Silver,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+126,291,12,"Hl Mountain Frame - Silver, 44",Silver,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+127,292,12,"Hl Mountain Frame - Silver, 48",Silver,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+128,293,12,"Hl Mountain Frame - Silver, 46",Silver,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+129,294,12,"Hl Mountain Frame - Silver, 46",Silver,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+130,295,12,"Hl Mountain Frame - Silver, 46",Silver,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+131,296,12,"Hl Mountain Frame - Black, 42",Black,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+132,297,12,"Hl Mountain Frame - Black, 42",Black,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+133,298,12,"Hl Mountain Frame - Black, 42",Black,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+134,299,12,"Hl Mountain Frame - Black, 44",Black,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+135,300,12,"Hl Mountain Frame - Black, 48",Black,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+136,301,12,"Hl Mountain Frame - Black, 46",Black,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+137,302,12,"Hl Mountain Frame - Black, 46",Black,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+138,303,12,"Hl Mountain Frame - Black, 46",Black,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+139,304,12,"Hl Mountain Frame - Black, 38",Black,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+140,305,12,"Hl Mountain Frame - Black, 38",Black,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+141,306,12,"Hl Mountain Frame - Black, 38",Black,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+142,307,12,"Hl Mountain Frame - Silver, 38",Silver,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+143,308,12,"Hl Mountain Frame - Silver, 38",Silver,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+144,309,12,"Hl Mountain Frame - Silver, 38",Silver,Hl Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+145,413,17,Ll Road Front Wheel,Black,Ll Road Front Wheel,Wheels,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+146,414,17,Ml Road Front Wheel,Black,Ml Road Front Wheel,Wheels,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+147,415,17,Hl Road Front Wheel,Black,Hl Road Front Wheel,Wheels,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+148,422,17,Ll Road Rear Wheel,Black,Ll Road Rear Wheel,Wheels,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+149,423,17,Ml Road Rear Wheel,Black,Ml Road Rear Wheel,Wheels,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+150,424,17,Hl Road Rear Wheel,Black,Hl Road Rear Wheel,Wheels,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+151,493,16,"Ll Touring Frame - Yellow, 62",Yellow,Ll Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+152,501,9,Rear Derailleur,Silver,Rear Derailleur,Derailleurs,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+153,506,16,"Ll Touring Frame - Yellow, 44",Yellow,Ll Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+154,507,16,"Ll Touring Frame - Yellow, 50",Yellow,Ll Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+155,508,16,"Ll Touring Frame - Yellow, 54",Yellow,Ll Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+156,509,16,"Ll Touring Frame - Yellow, 58",Yellow,Ll Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+157,542,13,Ll Mountain Pedal,Silver/Black,Ll Mountain Pedal,Pedals,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+158,543,13,Ml Mountain Pedal,Silver/Black,Ml Mountain Pedal,Pedals,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+159,544,13,Hl Mountain Pedal,Silver/Black,Hl Mountain Pedal,Pedals,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+160,545,13,Ll Road Pedal,Silver/Black,Ll Road Pedal,Pedals,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+161,546,13,Ml Road Pedal,Silver/Black,Ml Road Pedal,Pedals,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+162,547,13,Hl Road Pedal,Silver/Black,Hl Road Pedal,Pedals,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+163,310,2,"Road-150 Red, 62",Red,Road-150,Road Bikes,Bikes,3578.27,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+164,311,2,"Road-150 Red, 44",Red,Road-150,Road Bikes,Bikes,3578.27,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+165,312,2,"Road-150 Red, 48",Red,Road-150,Road Bikes,Bikes,3578.27,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+166,313,2,"Road-150 Red, 52",Red,Road-150,Road Bikes,Bikes,3578.27,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+167,314,2,"Road-150 Red, 56",Red,Road-150,Road Bikes,Bikes,3578.2699999999995,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+168,315,2,"Road-450 Red, 58",Red,Road-450,Road Bikes,Bikes,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+169,316,2,"Road-450 Red, 60",Red,Road-450,Road Bikes,Bikes,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+170,317,2,"Road-450 Red, 44",Red,Road-450,Road Bikes,Bikes,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+171,318,2,"Road-450 Red, 48",Red,Road-450,Road Bikes,Bikes,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+172,319,2,"Road-450 Red, 52",Red,Road-450,Road Bikes,Bikes,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+173,320,2,"Road-650 Red, 58",Red,Road-650,Road Bikes,Bikes,699.1,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+174,321,2,"Road-650 Red, 58",Red,Road-650,Road Bikes,Bikes,782.9899999999999,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+175,322,2,"Road-650 Red, 60",Red,Road-650,Road Bikes,Bikes,699.1,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+176,323,2,"Road-650 Red, 60",Red,Road-650,Road Bikes,Bikes,782.99,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+177,324,2,"Road-650 Red, 62",Red,Road-650,Road Bikes,Bikes,699.1,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+178,325,2,"Road-650 Red, 62",Red,Road-650,Road Bikes,Bikes,782.99,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+179,326,2,"Road-650 Red, 44",Red,Road-650,Road Bikes,Bikes,699.1,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+180,327,2,"Road-650 Red, 44",Red,Road-650,Road Bikes,Bikes,782.99,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+181,328,2,"Road-650 Red, 48",Red,Road-650,Road Bikes,Bikes,699.1000000000001,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+182,329,2,"Road-650 Red, 48",Red,Road-650,Road Bikes,Bikes,782.99,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+183,330,2,"Road-650 Red, 52",Red,Road-650,Road Bikes,Bikes,699.1,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+184,331,2,"Road-650 Red, 52",Red,Road-650,Road Bikes,Bikes,782.99,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+185,332,2,"Road-650 Black, 58",Black,Road-650,Road Bikes,Bikes,699.1,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+186,333,2,"Road-650 Black, 58",Black,Road-650,Road Bikes,Bikes,782.99,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+187,334,2,"Road-650 Black, 60",Black,Road-650,Road Bikes,Bikes,699.1,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+188,335,2,"Road-650 Black, 60",Black,Road-650,Road Bikes,Bikes,782.9900000000001,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+189,336,2,"Road-650 Black, 62",Black,Road-650,Road Bikes,Bikes,699.1,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+190,337,2,"Road-650 Black, 62",Black,Road-650,Road Bikes,Bikes,782.99,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+191,338,2,"Road-650 Black, 44",Black,Road-650,Road Bikes,Bikes,699.1,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+192,339,2,"Road-650 Black, 44",Black,Road-650,Road Bikes,Bikes,782.99,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+193,340,2,"Road-650 Black, 48",Black,Road-650,Road Bikes,Bikes,699.1,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+194,341,2,"Road-650 Black, 48",Black,Road-650,Road Bikes,Bikes,782.99,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+195,342,2,"Road-650 Black, 52",Black,Road-650,Road Bikes,Bikes,699.1,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+196,343,2,"Road-650 Black, 52",Black,Road-650,Road Bikes,Bikes,782.99,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+197,344,1,"Mountain-100 Silver, 38",Silver,Mountain-100,Mountain Bikes,Bikes,3399.99,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+198,345,1,"Mountain-100 Silver, 42",Silver,Mountain-100,Mountain Bikes,Bikes,3399.99,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+199,346,1,"Mountain-100 Silver, 44",Silver,Mountain-100,Mountain Bikes,Bikes,3399.99,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+200,347,1,"Mountain-100 Silver, 48",Silver,Mountain-100,Mountain Bikes,Bikes,3399.99,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+201,348,1,"Mountain-100 Black, 38",Black,Mountain-100,Mountain Bikes,Bikes,3374.99,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+202,349,1,"Mountain-100 Black, 42",Black,Mountain-100,Mountain Bikes,Bikes,3374.99,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+203,350,1,"Mountain-100 Black, 44",Black,Mountain-100,Mountain Bikes,Bikes,3374.99,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+204,351,1,"Mountain-100 Black, 48",Black,Mountain-100,Mountain Bikes,Bikes,3374.99,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+205,352,1,"Mountain-200 Silver, 38",Silver,Mountain-200,Mountain Bikes,Bikes,2071.42,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+206,353,1,"Mountain-200 Silver, 38",Silver,Mountain-200,Mountain Bikes,Bikes,2319.99,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+207,354,1,"Mountain-200 Silver, 42",Silver,Mountain-200,Mountain Bikes,Bikes,2071.42,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+208,355,1,"Mountain-200 Silver, 42",Silver,Mountain-200,Mountain Bikes,Bikes,2319.99,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+209,356,1,"Mountain-200 Silver, 46",Silver,Mountain-200,Mountain Bikes,Bikes,2071.42,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+210,357,1,"Mountain-200 Silver, 46",Silver,Mountain-200,Mountain Bikes,Bikes,2319.99,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+211,358,1,"Mountain-200 Black, 38",Black,Mountain-200,Mountain Bikes,Bikes,2049.1,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+212,359,1,"Mountain-200 Black, 38",Black,Mountain-200,Mountain Bikes,Bikes,2294.99,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+213,360,1,"Mountain-200 Black, 42",Black,Mountain-200,Mountain Bikes,Bikes,2049.1,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+214,361,1,"Mountain-200 Black, 42",Black,Mountain-200,Mountain Bikes,Bikes,2294.99,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+215,362,1,"Mountain-200 Black, 46",Black,Mountain-200,Mountain Bikes,Bikes,2049.1,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+216,363,1,"Mountain-200 Black, 46",Black,Mountain-200,Mountain Bikes,Bikes,2294.99,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+217,364,1,"Mountain-300 Black, 38",Black,Mountain-300,Mountain Bikes,Bikes,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+218,365,1,"Mountain-300 Black, 40",Black,Mountain-300,Mountain Bikes,Bikes,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+219,366,1,"Mountain-300 Black, 44",Black,Mountain-300,Mountain Bikes,Bikes,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+220,367,1,"Mountain-300 Black, 48",Black,Mountain-300,Mountain Bikes,Bikes,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+221,368,2,"Road-250 Red, 44",Red,Road-250,Road Bikes,Bikes,2443.35,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+222,369,2,"Road-250 Red, 48",Red,Road-250,Road Bikes,Bikes,2443.35,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+223,370,2,"Road-250 Red, 52",Red,Road-250,Road Bikes,Bikes,2443.35,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+224,371,2,"Road-250 Red, 58",Red,Road-250,Road Bikes,Bikes,2181.56,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+225,372,2,"Road-250 Red, 58",Red,Road-250,Road Bikes,Bikes,2443.35,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+226,373,2,"Road-250 Black, 44",Black,Road-250,Road Bikes,Bikes,2181.56,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+227,374,2,"Road-250 Black, 44",Black,Road-250,Road Bikes,Bikes,2443.35,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+228,375,2,"Road-250 Black, 48",Black,Road-250,Road Bikes,Bikes,2181.56,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+229,376,2,"Road-250 Black, 48",Black,Road-250,Road Bikes,Bikes,2443.35,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+230,377,2,"Road-250 Black, 52",Black,Road-250,Road Bikes,Bikes,2181.56,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+231,378,2,"Road-250 Black, 52",Black,Road-250,Road Bikes,Bikes,2443.35,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+232,379,2,"Road-250 Black, 58",Black,Road-250,Road Bikes,Bikes,2181.56,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+233,380,2,"Road-250 Black, 58",Black,Road-250,Road Bikes,Bikes,2443.35,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+234,381,2,"Road-550-W Yellow, 38",Yellow,Road-550-W,Road Bikes,Bikes,1000.44,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+235,382,2,"Road-550-W Yellow, 38",Yellow,Road-550-W,Road Bikes,Bikes,1120.49,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+236,383,2,"Road-550-W Yellow, 40",Yellow,Road-550-W,Road Bikes,Bikes,1000.4400000000002,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+237,384,2,"Road-550-W Yellow, 40",Yellow,Road-550-W,Road Bikes,Bikes,1120.49,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+238,385,2,"Road-550-W Yellow, 42",Yellow,Road-550-W,Road Bikes,Bikes,1000.44,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+239,386,2,"Road-550-W Yellow, 42",Yellow,Road-550-W,Road Bikes,Bikes,1120.49,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+240,387,2,"Road-550-W Yellow, 44",Yellow,Road-550-W,Road Bikes,Bikes,1000.44,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+241,388,2,"Road-550-W Yellow, 44",Yellow,Road-550-W,Road Bikes,Bikes,1120.49,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+242,389,2,"Road-550-W Yellow, 48",Yellow,Road-550-W,Road Bikes,Bikes,1000.44,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+243,390,2,"Road-550-W Yellow, 48",Yellow,Road-550-W,Road Bikes,Bikes,1120.49,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+244,560,3,"Touring-2000 Blue, 60",Blue,Touring-2000,Touring Bikes,Bikes,1192.3525925925926,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+245,561,3,"Touring-1000 Yellow, 46",Yellow,Touring-1000,Touring Bikes,Bikes,2335.557151162791,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+246,562,3,"Touring-1000 Yellow, 50",Yellow,Touring-1000,Touring Bikes,Bikes,2376.1757615894044,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+247,563,3,"Touring-1000 Yellow, 54",Yellow,Touring-1000,Touring Bikes,Bikes,2323.7140506329115,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+248,564,3,"Touring-1000 Yellow, 60",Yellow,Touring-1000,Touring Bikes,Bikes,2341.4975,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+249,565,3,"Touring-3000 Blue, 54",Blue,Touring-3000,Touring Bikes,Bikes,735.6014545454545,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+250,566,3,"Touring-3000 Blue, 58",Blue,Touring-3000,Touring Bikes,Bikes,735.838245614035,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+251,567,3,"Touring-3000 Blue, 62",Blue,Touring-3000,Touring Bikes,Bikes,736.55046875,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+252,568,3,"Touring-3000 Yellow, 44",Yellow,Touring-3000,Touring Bikes,Bikes,723.4769491525424,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+253,569,3,"Touring-3000 Yellow, 50",Yellow,Touring-3000,Touring Bikes,Bikes,736.0589830508475,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+254,570,3,"Touring-3000 Yellow, 54",Yellow,Touring-3000,Touring Bikes,Bikes,734.6172916666668,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+255,571,3,"Touring-3000 Yellow, 58",Yellow,Touring-3000,Touring Bikes,Bikes,742.3500000000001,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+256,572,3,"Touring-3000 Yellow, 62",Yellow,Touring-3000,Touring Bikes,Bikes,720.0798,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+257,573,3,"Touring-1000 Blue, 46",Blue,Touring-1000,Touring Bikes,Bikes,2357.1314689265537,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+258,574,3,"Touring-1000 Blue, 50",Blue,Touring-1000,Touring Bikes,Bikes,2352.2825333333335,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+259,575,3,"Touring-1000 Blue, 54",Blue,Touring-1000,Touring Bikes,Bikes,2384.07,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+260,576,3,"Touring-1000 Blue, 60",Blue,Touring-1000,Touring Bikes,Bikes,2343.524761904762,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+261,577,3,"Touring-2000 Blue, 46",Blue,Touring-2000,Touring Bikes,Bikes,1183.5391752577318,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+262,578,3,"Touring-2000 Blue, 50",Blue,Touring-2000,Touring Bikes,Bikes,1186.1976415094339,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+263,579,3,"Touring-2000 Blue, 54",Blue,Touring-2000,Touring Bikes,Bikes,1201.0447727272726,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+264,580,2,"Road-350-W Yellow, 40",Yellow,Road-350-W,Road Bikes,Bikes,1690.6181707317073,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+265,581,2,"Road-350-W Yellow, 42",Yellow,Road-350-W,Road Bikes,Bikes,1700.99,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+266,582,2,"Road-350-W Yellow, 44",Yellow,Road-350-W,Road Bikes,Bikes,1697.0525462962962,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+267,583,2,"Road-350-W Yellow, 48",Yellow,Road-350-W,Road Bikes,Bikes,1693.6581896551725,High (>$1000),Flagship,High Value (>$500),2015-01-01,9999-12-31,1,1
+268,584,2,"Road-750 Black, 58",Black,Road-750,Road Bikes,Bikes,534.3315269461078,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+269,585,3,"Touring-3000 Blue, 44",Blue,Touring-3000,Touring Bikes,Bikes,735.3467924528303,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+270,586,3,"Touring-3000 Blue, 50",Blue,Touring-3000,Touring Bikes,Bikes,734.6172916666668,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+271,587,1,"Mountain-400-W Silver, 38",Silver,Mountain-400-W,Mountain Bikes,Bikes,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+272,588,1,"Mountain-400-W Silver, 40",Silver,Mountain-400-W,Mountain Bikes,Bikes,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+273,589,1,"Mountain-400-W Silver, 42",Silver,Mountain-400-W,Mountain Bikes,Bikes,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+274,590,1,"Mountain-400-W Silver, 46",Silver,Mountain-400-W,Mountain Bikes,Bikes,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+275,604,2,"Road-750 Black, 44",Black,Road-750,Road Bikes,Bikes,535.4901666666666,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+276,605,2,"Road-750 Black, 48",Black,Road-750,Road Bikes,Bikes,535.5273553719009,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+277,606,2,"Road-750 Black, 52",Black,Road-750,Road Bikes,Bikes,536.4927202072539,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+278,409,12,"Ml Mountain Frame - Black, 38",Black,Ml Mountain Frame-W,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+279,417,14,"Ml Road Frame-W - Yellow, 38",Yellow,Ml Road Frame-W,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+280,418,14,"Ml Road Frame-W - Yellow, 38",Yellow,Ml Road Frame-W,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+281,549,12,"Ml Mountain Frame-W - Silver, 38",Silver,Ml Mountain Frame-W,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+282,550,12,"Ll Mountain Frame - Black, 40",Black,Ll Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+283,551,12,"Ll Mountain Frame - Silver, 40",Silver,Ll Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+284,210,14,"Hl Road Frame - Black, 58",Black,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+285,211,14,"Hl Road Frame - Red, 58",Red,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+286,238,14,"Hl Road Frame - Red, 62",Red,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+287,239,14,"Hl Road Frame - Red, 62",Red,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+288,240,14,"Hl Road Frame - Red, 62",Red,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+289,241,14,"Hl Road Frame - Red, 44",Red,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+290,242,14,"Hl Road Frame - Red, 44",Red,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+291,243,14,"Hl Road Frame - Red, 44",Red,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+292,244,14,"Hl Road Frame - Red, 48",Red,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+293,245,14,"Hl Road Frame - Red, 48",Red,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+294,246,14,"Hl Road Frame - Red, 48",Red,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+295,247,14,"Hl Road Frame - Red, 52",Red,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+296,248,14,"Hl Road Frame - Red, 52",Red,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+297,249,14,"Hl Road Frame - Red, 52",Red,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+298,250,14,"Hl Road Frame - Red, 56",Red,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+299,251,14,"Hl Road Frame - Red, 56",Red,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+300,252,14,"Hl Road Frame - Red, 56",Red,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+301,253,14,"Ll Road Frame - Black, 58",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+302,254,14,"Ll Road Frame - Black, 58",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+303,255,14,"Ll Road Frame - Black, 58",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+304,256,14,"Ll Road Frame - Black, 60",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+305,257,14,"Ll Road Frame - Black, 60",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+306,258,14,"Ll Road Frame - Black, 60",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+307,259,14,"Ll Road Frame - Black, 62",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+308,260,14,"Ll Road Frame - Black, 62",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+309,261,14,"Ll Road Frame - Black, 62",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+310,262,14,"Ll Road Frame - Red, 44",Red,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+311,263,14,"Ll Road Frame - Red, 44",Red,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+312,264,14,"Ll Road Frame - Red, 48",Red,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+313,265,14,"Ll Road Frame - Red, 48",Red,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+314,266,14,"Ll Road Frame - Red, 52",Red,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+315,267,14,"Ll Road Frame - Red, 52",Red,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+316,268,14,"Ll Road Frame - Red, 58",Red,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+317,269,14,"Ll Road Frame - Red, 58",Red,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+318,270,14,"Ll Road Frame - Red, 60",Red,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+319,271,14,"Ll Road Frame - Red, 60",Red,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+320,272,14,"Ll Road Frame - Red, 62",Red,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+321,273,14,"Ll Road Frame - Red, 62",Red,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+322,274,14,"Ml Road Frame - Red, 44",Red,Ml Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+323,275,14,"Ml Road Frame - Red, 48",Red,Ml Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+324,276,14,"Ml Road Frame - Red, 52",Red,Ml Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+325,277,14,"Ml Road Frame - Red, 58",Red,Ml Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+326,278,14,"Ml Road Frame - Red, 60",Red,Ml Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+327,279,14,"Ll Road Frame - Black, 44",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+328,280,14,"Ll Road Frame - Black, 44",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+329,281,14,"Ll Road Frame - Black, 44",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+330,282,14,"Ll Road Frame - Black, 48",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+331,283,14,"Ll Road Frame - Black, 48",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+332,284,14,"Ll Road Frame - Black, 48",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+333,285,14,"Ll Road Frame - Black, 52",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+334,286,14,"Ll Road Frame - Black, 52",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+335,287,14,"Ll Road Frame - Black, 52",Black,Ll Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+336,426,12,"Ml Mountain Frame - Black, 40",Black,Ml Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+337,427,12,"Ml Mountain Frame - Black, 44",Black,Ml Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+338,428,12,"Ml Mountain Frame - Black, 48",Black,Ml Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+339,429,14,"Ml Road Frame-W - Yellow, 40",Yellow,Ml Road Frame-W,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+340,430,14,"Ml Road Frame-W - Yellow, 40",Yellow,Ml Road Frame-W,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+341,431,14,"Ml Road Frame-W - Yellow, 42",Yellow,Ml Road Frame-W,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+342,432,14,"Ml Road Frame-W - Yellow, 42",Yellow,Ml Road Frame-W,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+343,433,14,"Ml Road Frame-W - Yellow, 44",Yellow,Ml Road Frame-W,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+344,434,14,"Ml Road Frame-W - Yellow, 44",Yellow,Ml Road Frame-W,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+345,435,14,"Ml Road Frame-W - Yellow, 48",Yellow,Ml Road Frame-W,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+346,436,14,"Ml Road Frame-W - Yellow, 48",Yellow,Ml Road Frame-W,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+347,437,14,"Hl Road Frame - Black, 62",Black,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+348,438,14,"Hl Road Frame - Black, 62",Black,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+349,439,14,"Hl Road Frame - Black, 44",Black,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+350,440,14,"Hl Road Frame - Black, 44",Black,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+351,441,14,"Hl Road Frame - Black, 48",Black,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+352,442,14,"Hl Road Frame - Black, 48",Black,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+353,443,14,"Hl Road Frame - Black, 52",Black,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+354,444,14,"Hl Road Frame - Black, 52",Black,Hl Road Frame,Road Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+355,492,16,"Hl Touring Frame - Yellow, 60",Yellow,Hl Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+356,494,16,"Hl Touring Frame - Yellow, 46",Yellow,Hl Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+357,495,16,"Hl Touring Frame - Yellow, 50",Yellow,Hl Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+358,496,16,"Hl Touring Frame - Yellow, 54",Yellow,Hl Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+359,497,16,"Hl Touring Frame - Blue, 46",Blue,Hl Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+360,498,16,"Hl Touring Frame - Blue, 50",Blue,Hl Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+361,499,16,"Hl Touring Frame - Blue, 54",Blue,Hl Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+362,500,16,"Hl Touring Frame - Blue, 60",Blue,Hl Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+363,502,16,"Ll Touring Frame - Blue, 50",Blue,Ll Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+364,503,16,"Ll Touring Frame - Blue, 54",Blue,Ll Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+365,504,16,"Ll Touring Frame - Blue, 58",Blue,Ll Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+366,505,16,"Ll Touring Frame - Blue, 62",Blue,Ll Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+367,510,16,"Ll Touring Frame - Blue, 44",Blue,Ll Touring Frame,Touring Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+368,511,12,"Ml Mountain Frame-W - Silver, 40",Silver,Ml Mountain Frame-W,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+369,512,12,"Ml Mountain Frame-W - Silver, 42",Silver,Ml Mountain Frame-W,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+370,513,12,"Ml Mountain Frame-W - Silver, 46",Silver,Ml Mountain Frame-W,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+371,514,6,Rear Brakes,Silver,Rear Brakes,Brakes,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+372,524,12,"Ll Mountain Frame - Silver, 42",Silver,Ll Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+373,525,12,"Ll Mountain Frame - Silver, 44",Silver,Ll Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+374,526,12,"Ll Mountain Frame - Silver, 48",Silver,Ll Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+375,527,12,"Ll Mountain Frame - Silver, 52",Silver,Ll Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+376,531,12,"Ll Mountain Frame - Black, 42",Black,Ll Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+377,532,12,"Ll Mountain Frame - Black, 44",Black,Ll Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+378,533,12,"Ll Mountain Frame - Black, 48",Black,Ll Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+379,534,12,"Ll Mountain Frame - Black, 52",Black,Ll Mountain Frame,Mountain Frames,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+380,552,9,Front Derailleur,Silver,Front Derailleur,Derailleurs,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+381,555,6,Front Brakes,Silver,Front Brakes,Brakes,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+382,556,8,Ll Crankset,Black,Ll Crankset,Cranksets,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+383,557,8,Ml Crankset,Black,Ml Crankset,Cranksets,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+384,558,8,Hl Crankset,Black,Hl Crankset,Cranksets,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+385,601,5,Ll Bottom Bracket,NA,Ll Bottom Bracket,Bottom Brackets,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+386,602,5,Ml Bottom Bracket,NA,Ml Bottom Bracket,Bottom Brackets,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+387,603,5,Hl Bottom Bracket,NA,Hl Bottom Bracket,Bottom Brackets,Components,769.49,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+388,591,1,"Mountain-500 Silver, 40",Silver,Mountain-500,Mountain Bikes,Bikes,564.99,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+389,592,1,"Mountain-500 Silver, 42",Silver,Mountain-500,Mountain Bikes,Bikes,546.1573333333333,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+390,593,1,"Mountain-500 Silver, 44",Silver,Mountain-500,Mountain Bikes,Bikes,564.99,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+391,594,1,"Mountain-500 Silver, 48",Silver,Mountain-500,Mountain Bikes,Bikes,564.99,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+392,595,1,"Mountain-500 Silver, 52",Silver,Mountain-500,Mountain Bikes,Bikes,559.1047916666666,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+393,596,1,"Mountain-500 Black, 40",Black,Mountain-500,Mountain Bikes,Bikes,534.3652083333333,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+394,597,1,"Mountain-500 Black, 42",Black,Mountain-500,Mountain Bikes,Bikes,539.99,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+395,598,1,"Mountain-500 Black, 44",Black,Mountain-500,Mountain Bikes,Bikes,539.99,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+396,599,1,"Mountain-500 Black, 48",Black,Mountain-500,Mountain Bikes,Bikes,535.16875,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1
+397,600,1,"Mountain-500 Black, 52",Black,Mountain-500,Mountain Bikes,Bikes,539.99,Mid ($200-$1000),Premium,High Value (>$500),2015-01-01,9999-12-31,1,1

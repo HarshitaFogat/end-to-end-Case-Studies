@@ -1,0 +1,6 @@
+Rating,Performance_Label,Satisfaction_Label,WLB_Label,Sentiment
+1,Needs Improvement,Very Low,Very Poor,Negative
+2,Below Average,Low,Poor,Negative
+3,Average,Neutral,Fair,Neutral
+4,Good,High,Good,Positive
+5,Outstanding,Very High,Excellent,Positive

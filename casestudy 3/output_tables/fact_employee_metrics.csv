@@ -1,0 +1,1001 @@
+Employee_ID,Department_ID,Role_ID,Education_ID,Age,Job_Tenure,Distance_From_Home,Training_Hours,Performance_Rating,Last_Promotion_Year,Years_Since_Promotion,Work_Life_Balance,Job_Satisfaction,Exit_Interview_Score,Attrition_Risk_Score,Attrition_Flag,Salary_Band,Tenure_Bucket,Age_Group,Distance_Band,Promo_Gap_Bucket,Risk_Segment,Performance_Category,Satisfaction_Category,WLB_Category,Exit_Score_Category,Gender_Clean,Marital_Status
+1,1,1,1,22,1,8,28,2,2019,5,3,1,,3.316,0,Band 1 – Low,0–2 yrs,18–25,Near (≤10 km),3–5 yrs,High Risk,Below Average,Very Low,Fair,N/A (Still Employed),Male,Married
+2,2,2,2,38,18,32,174,4,2022,2,3,2,3.0,2.514,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),0–2 yrs,Medium Risk,Good,Low,Fair,Moderate Dissatisfaction,Male,Married
+3,3,3,3,35,4,42,119,1,2022,2,5,4,,2.034,0,Band 1 – Low,3–5 yrs,26–35,Far (26–50 km),0–2 yrs,Low Risk,Needs Improvement,High,Excellent,N/A (Still Employed),Non-Binary / Other,Divorced
+4,4,3,3,37,5,43,82,4,2015,9,4,1,,2.936,0,Band 2 – Mid-Low,3–5 yrs,36–45,Far (26–50 km),9–12 yrs,Medium Risk,Good,Very Low,Good,N/A (Still Employed),Male,Divorced
+5,5,4,2,26,10,33,46,3,2014,10,2,4,,2.766,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),9–12 yrs,Medium Risk,Average,High,Poor,N/A (Still Employed),Female,Single
+6,4,1,2,44,15,15,16,1,2011,13,1,1,,4.43,0,Band 3 – Mid-High,11–20 yrs,36–45,Medium (11–25 km),12+ yrs,High Risk,Needs Improvement,Very Low,Very Poor,N/A (Still Employed),Female,Single
+7,6,2,1,38,7,2,93,1,2010,14,5,4,,2.554,0,Band 1 – Low,6–10 yrs,36–45,Near (≤10 km),12+ yrs,Medium Risk,Needs Improvement,High,Excellent,N/A (Still Employed),Non-Binary / Other,Single
+8,2,1,1,28,19,38,165,5,2017,7,4,2,,2.326,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),6–8 yrs,Low Risk,Outstanding,Low,Good,N/A (Still Employed),Female,Married
+9,6,2,3,22,12,37,102,1,2024,0,2,4,,2.674,0,Band 2 – Mid-Low,11–20 yrs,18–25,Far (26–50 km),0–2 yrs,Medium Risk,Needs Improvement,High,Poor,N/A (Still Employed),Non-Binary / Other,Single
+10,5,5,1,25,2,37,95,4,2020,4,5,1,,2.424,0,Band 1 – Low,0–2 yrs,18–25,Far (26–50 km),3–5 yrs,Medium Risk,Good,Very Low,Excellent,N/A (Still Employed),Male,Divorced
+11,4,4,2,46,1,31,114,5,2012,12,5,4,2.0,1.712,0,Band 1 – Low,0–2 yrs,46–55,Far (26–50 km),9–12 yrs,Low Risk,Outstanding,High,Excellent,High Dissatisfaction,Female,Married
+12,1,3,1,50,7,18,176,2,2017,7,2,4,,2.786,0,Band 1 – Low,6–10 yrs,46–55,Medium (11–25 km),6–8 yrs,Medium Risk,Below Average,High,Poor,N/A (Still Employed),Non-Binary / Other,Married
+13,6,4,2,48,7,45,105,1,2020,4,4,4,3.0,2.39,0,Band 1 – Low,6–10 yrs,46–55,Far (26–50 km),3–5 yrs,Medium Risk,Needs Improvement,High,Good,Moderate Dissatisfaction,Male,Single
+14,1,5,3,32,10,48,130,2,2012,12,3,2,,3.446,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),9–12 yrs,High Risk,Below Average,Low,Fair,N/A (Still Employed),Female,Divorced
+15,6,6,3,48,6,7,85,3,2018,6,3,2,,2.864,0,Band 2 – Mid-Low,6–10 yrs,46–55,Near (≤10 km),6–8 yrs,Medium Risk,Average,Low,Fair,N/A (Still Employed),Female,Single
+16,2,4,1,53,8,38,169,2,2014,10,2,4,,2.976,0,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),9–12 yrs,High Risk,Below Average,High,Poor,N/A (Still Employed),Male,Married
+17,2,4,3,46,9,12,17,1,2019,5,3,5,,2.324,0,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),3–5 yrs,Low Risk,Needs Improvement,Very High,Fair,N/A (Still Employed),Female,Single
+18,5,5,3,44,6,25,51,2,2018,6,5,1,,2.9,0,Band 1 – Low,6–10 yrs,36–45,Medium (11–25 km),6–8 yrs,Medium Risk,Below Average,Very Low,Excellent,N/A (Still Employed),Male,Married
+19,4,4,1,56,11,31,104,1,2020,4,5,1,,3.012,0,Band 2 – Mid-Low,11–20 yrs,55+,Far (26–50 km),3–5 yrs,High Risk,Needs Improvement,Very Low,Excellent,N/A (Still Employed),Female,Married
+20,2,4,3,46,18,42,21,1,2012,12,3,2,,3.634,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Low,Fair,N/A (Still Employed),Non-Binary / Other,Divorced
+21,6,5,2,28,8,45,84,5,2014,10,1,5,,2.34,0,Band 3 – Mid-High,6–10 yrs,26–35,Far (26–50 km),9–12 yrs,Low Risk,Outstanding,Very High,Very Poor,N/A (Still Employed),Male,Divorced
+22,6,5,3,52,6,28,48,4,2017,7,5,5,,1.356,0,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),6–8 yrs,Low Risk,Good,Very High,Excellent,N/A (Still Employed),Male,Single
+23,1,3,3,58,7,20,161,2,2014,10,2,5,,2.64,0,Band 1 – Low,6–10 yrs,55+,Medium (11–25 km),9–12 yrs,Medium Risk,Below Average,Very High,Poor,N/A (Still Employed),Male,Single
+24,3,6,3,36,1,37,16,2,2011,13,3,1,,3.774,0,Band 1 – Low,0–2 yrs,36–45,Far (26–50 km),12+ yrs,High Risk,Below Average,Very Low,Fair,N/A (Still Employed),Male,Single
+25,6,2,2,32,6,9,37,4,2022,2,2,2,,2.718,0,Band 2 – Mid-Low,6–10 yrs,26–35,Near (≤10 km),0–2 yrs,Medium Risk,Good,Low,Poor,N/A (Still Employed),Female,Divorced
+26,1,2,3,50,9,7,165,2,2014,10,4,2,,3.014,0,Band 2 – Mid-Low,6–10 yrs,46–55,Near (≤10 km),9–12 yrs,High Risk,Below Average,Low,Good,N/A (Still Employed),Non-Binary / Other,Divorced
+27,4,6,3,26,4,21,64,5,2010,14,3,1,,3.192,0,Band 2 – Mid-Low,3–5 yrs,26–35,Medium (11–25 km),12+ yrs,High Risk,Outstanding,Very Low,Fair,N/A (Still Employed),Male,Divorced
+28,2,6,1,24,1,5,90,3,2017,7,1,4,2.0,2.81,0,Band 1 – Low,0–2 yrs,18–25,Near (≤10 km),6–8 yrs,Medium Risk,Average,High,Very Poor,High Dissatisfaction,Non-Binary / Other,Divorced
+29,2,6,3,40,5,46,140,4,2010,14,1,5,,2.742,0,Band 2 – Mid-Low,3–5 yrs,36–45,Far (26–50 km),12+ yrs,Medium Risk,Good,Very High,Very Poor,N/A (Still Employed),Male,Divorced
+30,6,5,3,23,13,35,193,4,2013,11,5,3,,2.17,0,Band 3 – Mid-High,11–20 yrs,18–25,Far (26–50 km),9–12 yrs,Low Risk,Good,Neutral,Excellent,N/A (Still Employed),Female,Single
+31,2,2,3,42,4,12,199,3,2014,10,2,3,,3.024,0,Band 1 – Low,3–5 yrs,36–45,Medium (11–25 km),9–12 yrs,High Risk,Average,Neutral,Poor,N/A (Still Employed),Male,Married
+32,4,1,2,38,11,26,140,4,2023,1,4,4,,1.602,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),0–2 yrs,Low Risk,Good,High,Good,N/A (Still Employed),Male,Single
+33,3,1,1,28,7,45,158,1,2019,5,2,2,,3.54,0,Band 1 – Low,6–10 yrs,26–35,Far (26–50 km),3–5 yrs,High Risk,Needs Improvement,Low,Poor,N/A (Still Employed),Non-Binary / Other,Single
+34,5,1,3,26,10,2,192,3,2011,13,4,2,,2.954,0,Band 2 – Mid-Low,6–10 yrs,26–35,Near (≤10 km),12+ yrs,High Risk,Average,Low,Good,N/A (Still Employed),Male,Single
+35,6,3,1,43,15,26,98,1,2010,14,5,1,,3.502,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),12+ yrs,High Risk,Needs Improvement,Very Low,Excellent,N/A (Still Employed),Female,Divorced
+36,4,6,2,32,8,36,65,2,2017,7,3,5,,2.272,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),6–8 yrs,Low Risk,Below Average,Very High,Fair,N/A (Still Employed),Male,Divorced
+37,5,6,1,46,12,35,106,1,2014,10,3,3,,3.22,0,Band 2 – Mid-Low,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Neutral,Fair,N/A (Still Employed),Non-Binary / Other,Divorced
+38,1,2,1,32,12,34,159,1,2010,14,5,4,,2.618,0,Band 2 – Mid-Low,11–20 yrs,26–35,Far (26–50 km),12+ yrs,Medium Risk,Needs Improvement,High,Excellent,N/A (Still Employed),Male,Divorced
+39,3,4,3,26,6,32,18,5,2016,8,4,3,,2.064,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),6–8 yrs,Low Risk,Outstanding,Neutral,Good,N/A (Still Employed),Female,Divorced
+40,6,5,2,57,17,5,178,2,2015,9,5,5,,1.81,0,Band 4 – High,11–20 yrs,55+,Near (≤10 km),9–12 yrs,Low Risk,Below Average,Very High,Excellent,N/A (Still Employed),Female,Single
+41,2,2,3,27,20,34,195,5,2020,4,1,1,,3.218,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),3–5 yrs,High Risk,Outstanding,Very Low,Very Poor,N/A (Still Employed),Female,Married
+42,6,3,3,43,14,38,48,2,2023,1,3,4,1.0,2.276,1,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),0–2 yrs,Low Risk,Below Average,High,Fair,High Dissatisfaction,Male,Divorced
+43,1,4,3,60,3,35,107,1,2010,14,1,1,,4.52,0,Band 1 – Low,3–5 yrs,55+,Far (26–50 km),12+ yrs,High Risk,Needs Improvement,Very Low,Very Poor,N/A (Still Employed),Female,Married
+44,2,6,3,52,4,46,176,4,2010,14,3,1,,3.442,0,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),12+ yrs,High Risk,Good,Very Low,Fair,N/A (Still Employed),Female,Divorced
+45,5,5,2,23,5,42,30,4,2014,10,1,4,,2.834,0,Band 2 – Mid-Low,3–5 yrs,18–25,Far (26–50 km),9–12 yrs,Medium Risk,Good,High,Very Poor,N/A (Still Employed),Male,Married
+46,3,4,1,49,5,8,29,4,2012,12,2,4,,2.616,0,Band 2 – Mid-Low,3–5 yrs,46–55,Near (≤10 km),9–12 yrs,Medium Risk,Good,High,Poor,N/A (Still Employed),Male,Single
+47,5,5,2,32,7,49,67,5,2015,9,4,4,,1.848,0,Band 3 – Mid-High,6–10 yrs,26–35,Far (26–50 km),9–12 yrs,Low Risk,Outstanding,High,Good,N/A (Still Employed),Female,Divorced
+48,6,1,2,60,7,49,154,3,2024,0,4,1,,2.698,0,Band 2 – Mid-Low,6–10 yrs,55+,Far (26–50 km),0–2 yrs,Medium Risk,Average,Very Low,Good,N/A (Still Employed),Female,Single
+49,4,6,1,49,18,14,138,5,2014,10,3,3,,2.378,0,Band 4 – High,11–20 yrs,46–55,Medium (11–25 km),9–12 yrs,Medium Risk,Outstanding,Neutral,Fair,N/A (Still Employed),Female,Divorced
+50,1,6,1,32,13,43,157,5,2022,2,3,3,,2.036,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),0–2 yrs,Low Risk,Outstanding,Neutral,Fair,N/A (Still Employed),Female,Married
+51,6,6,1,25,12,8,171,3,2023,1,1,3,,2.816,0,Band 3 – Mid-High,11–20 yrs,18–25,Near (≤10 km),0–2 yrs,Medium Risk,Average,Neutral,Very Poor,N/A (Still Employed),Male,Single
+52,5,5,2,28,11,12,150,2,2018,6,2,1,,3.624,0,Band 2 – Mid-Low,11–20 yrs,26–35,Medium (11–25 km),6–8 yrs,High Risk,Below Average,Very Low,Poor,N/A (Still Employed),Male,Divorced
+53,4,5,3,43,20,39,197,4,2020,4,3,4,,2.028,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),3–5 yrs,Low Risk,Good,High,Fair,N/A (Still Employed),Male,Single
+54,6,3,2,35,14,45,117,2,2022,2,3,3,,2.64,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),0–2 yrs,Medium Risk,Below Average,Neutral,Fair,N/A (Still Employed),Female,Single
+55,1,3,3,34,8,12,147,3,2018,6,2,2,,3.124,0,Band 2 – Mid-Low,6–10 yrs,26–35,Medium (11–25 km),6–8 yrs,High Risk,Average,Low,Poor,N/A (Still Employed),Female,Married
+56,6,3,2,48,2,1,197,1,2012,12,4,1,5.0,3.602,0,Band 1 – Low,0–2 yrs,46–55,Near (≤10 km),9–12 yrs,High Risk,Needs Improvement,Very Low,Good,Low Dissatisfaction,Male,Single
+57,2,2,3,57,20,36,41,5,2011,13,5,4,,1.772,0,Band 4 – High,11–20 yrs,55+,Far (26–50 km),12+ yrs,Low Risk,Outstanding,High,Excellent,N/A (Still Employed),Male,Divorced
+58,2,1,1,56,19,29,145,4,2021,3,2,4,,2.208,0,Band 4 – High,11–20 yrs,55+,Far (26–50 km),3–5 yrs,Low Risk,Good,High,Poor,N/A (Still Employed),Female,Divorced
+59,4,1,2,38,7,21,23,2,2014,10,1,1,,4.092,0,Band 1 – Low,6–10 yrs,36–45,Medium (11–25 km),9–12 yrs,High Risk,Below Average,Very Low,Very Poor,N/A (Still Employed),Male,Single
+60,5,5,2,40,18,8,165,2,2012,12,4,3,,2.816,0,Band 4 – High,11–20 yrs,36–45,Near (≤10 km),9–12 yrs,Medium Risk,Below Average,Neutral,Good,N/A (Still Employed),Female,Single
+61,2,3,3,41,10,3,130,4,2021,3,5,3,,1.706,0,Band 3 – Mid-High,6–10 yrs,36–45,Near (≤10 km),3–5 yrs,Low Risk,Good,Neutral,Excellent,N/A (Still Employed),Male,Divorced
+62,3,6,3,37,5,9,178,5,2013,11,4,1,,2.768,0,Band 2 – Mid-Low,3–5 yrs,36–45,Near (≤10 km),9–12 yrs,Medium Risk,Outstanding,Very Low,Good,N/A (Still Employed),Female,Single
+63,3,6,2,28,11,37,144,1,2016,8,5,2,,2.924,0,Band 2 – Mid-Low,11–20 yrs,26–35,Far (26–50 km),6–8 yrs,Medium Risk,Needs Improvement,Low,Excellent,N/A (Still Employed),Male,Married
+64,6,1,2,25,8,14,143,2,2019,5,5,2,,2.528,0,Band 2 – Mid-Low,6–10 yrs,18–25,Medium (11–25 km),3–5 yrs,Medium Risk,Below Average,Low,Excellent,N/A (Still Employed),Male,Married
+65,5,1,1,47,2,42,122,4,2024,0,4,2,,2.184,0,Band 1 – Low,0–2 yrs,46–55,Far (26–50 km),0–2 yrs,Low Risk,Good,Low,Good,N/A (Still Employed),Female,Single
+66,3,5,3,58,9,11,91,2,2011,13,4,5,,2.272,0,Band 2 – Mid-Low,6–10 yrs,55+,Medium (11–25 km),12+ yrs,Low Risk,Below Average,Very High,Good,N/A (Still Employed),Male,Divorced
+67,3,5,3,57,5,6,78,5,2014,10,4,1,,2.712,0,Band 2 – Mid-Low,3–5 yrs,55+,Near (≤10 km),9–12 yrs,Medium Risk,Outstanding,Very Low,Good,N/A (Still Employed),Female,Married
+68,1,4,2,53,17,36,59,5,2013,11,2,2,,3.022,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,High Risk,Outstanding,Low,Poor,N/A (Still Employed),Female,Single
+69,1,4,3,31,19,17,157,1,2010,14,3,5,,2.784,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),12+ yrs,Medium Risk,Needs Improvement,Very High,Fair,N/A (Still Employed),Female,Single
+70,3,5,3,25,16,49,85,4,2017,7,3,2,,2.798,0,Band 4 – High,11–20 yrs,18–25,Far (26–50 km),6–8 yrs,Medium Risk,Good,Low,Fair,N/A (Still Employed),Male,Single
+71,1,4,3,45,7,3,72,4,2024,0,5,2,,1.856,0,Band 2 – Mid-Low,6–10 yrs,36–45,Near (≤10 km),0–2 yrs,Low Risk,Good,Low,Excellent,N/A (Still Employed),Male,Married
+72,3,1,3,22,3,6,94,3,2015,9,3,4,,2.412,0,Band 1 – Low,3–5 yrs,18–25,Near (≤10 km),9–12 yrs,Medium Risk,Average,High,Fair,N/A (Still Employed),Female,Divorced
+73,4,5,3,49,16,8,72,4,2013,11,4,1,,2.966,0,Band 4 – High,11–20 yrs,46–55,Near (≤10 km),9–12 yrs,High Risk,Good,Very Low,Good,N/A (Still Employed),Female,Married
+74,1,5,3,27,20,33,102,4,2022,2,4,1,4.0,2.566,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),0–2 yrs,Medium Risk,Good,Very Low,Good,Low Dissatisfaction,Female,Divorced
+75,3,3,3,40,3,20,69,2,2020,4,3,5,,2.09,0,Band 1 – Low,3–5 yrs,36–45,Medium (11–25 km),3–5 yrs,Low Risk,Below Average,Very High,Fair,N/A (Still Employed),Male,Divorced
+76,3,1,2,60,6,24,126,1,2020,4,1,2,,3.698,0,Band 1 – Low,6–10 yrs,55+,Medium (11–25 km),3–5 yrs,High Risk,Needs Improvement,Low,Very Poor,N/A (Still Employed),Male,Single
+77,6,1,3,52,17,35,90,3,2016,8,2,3,,2.97,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),6–8 yrs,High Risk,Average,Neutral,Poor,N/A (Still Employed),Male,Divorced
+78,5,2,1,34,13,11,39,4,2016,8,5,3,,1.972,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),6–8 yrs,Low Risk,Good,Neutral,Excellent,N/A (Still Employed),Female,Divorced
+79,4,2,2,28,17,28,187,2,2016,8,1,5,4.0,2.806,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),6–8 yrs,Medium Risk,Below Average,Very High,Very Poor,Low Dissatisfaction,Male,Divorced
+80,5,3,2,23,12,43,71,3,2024,0,4,4,,1.786,0,Band 3 – Mid-High,11–20 yrs,18–25,Far (26–50 km),0–2 yrs,Low Risk,Average,High,Good,N/A (Still Employed),Female,Single
+81,4,2,3,35,16,1,123,1,2011,13,4,2,3.0,3.352,1,Band 3 – Mid-High,11–20 yrs,26–35,Near (≤10 km),12+ yrs,High Risk,Needs Improvement,Low,Good,Moderate Dissatisfaction,Male,Married
+82,6,4,3,32,17,16,197,1,2024,0,3,4,,2.382,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),0–2 yrs,Medium Risk,Needs Improvement,High,Fair,N/A (Still Employed),Non-Binary / Other,Single
+83,6,5,3,40,15,20,114,1,2014,10,5,2,,2.99,0,Band 3 – Mid-High,11–20 yrs,36–45,Medium (11–25 km),9–12 yrs,High Risk,Needs Improvement,Low,Excellent,N/A (Still Employed),Male,Divorced
+84,5,6,2,27,6,3,102,3,2024,0,4,2,,2.306,0,Band 2 – Mid-Low,6–10 yrs,26–35,Near (≤10 km),0–2 yrs,Low Risk,Average,Low,Good,N/A (Still Employed),Male,Divorced
+85,6,4,2,52,11,34,30,5,2014,10,5,5,,1.318,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,Low Risk,Outstanding,Very High,Excellent,N/A (Still Employed),Male,Single
+86,2,1,3,29,12,19,100,3,2019,5,1,2,,3.338,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),3–5 yrs,High Risk,Average,Low,Very Poor,N/A (Still Employed),Female,Single
+87,3,2,2,41,17,43,153,1,2014,10,2,2,,3.786,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Low,Poor,N/A (Still Employed),Male,Divorced
+88,2,6,1,47,16,35,139,2,2012,12,5,3,,2.62,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,Medium Risk,Below Average,Neutral,Excellent,N/A (Still Employed),Male,Divorced
+89,1,4,3,52,16,29,29,3,2019,5,2,1,,3.408,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),3–5 yrs,High Risk,Average,Very Low,Poor,N/A (Still Employed),Male,Divorced
+90,6,1,2,53,16,9,102,2,2016,8,3,2,,3.168,0,Band 3 – Mid-High,11–20 yrs,46–55,Near (≤10 km),6–8 yrs,High Risk,Below Average,Low,Fair,N/A (Still Employed),Male,Single
+91,5,2,3,38,9,37,177,5,2020,4,5,1,4.0,2.224,0,Band 3 – Mid-High,6–10 yrs,36–45,Far (26–50 km),3–5 yrs,Low Risk,Outstanding,Very Low,Excellent,Low Dissatisfaction,Female,Single
+92,3,5,3,27,19,32,133,1,2024,0,5,4,,1.914,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),0–2 yrs,Low Risk,Needs Improvement,High,Excellent,N/A (Still Employed),Male,Married
+93,3,5,1,56,13,45,164,1,2015,9,2,2,1.0,3.74,1,Band 2 – Mid-Low,11–20 yrs,55+,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Low,Poor,High Dissatisfaction,Male,Divorced
+94,1,2,1,46,19,21,68,2,2022,2,5,3,,2.092,0,Band 4 – High,11–20 yrs,46–55,Medium (11–25 km),0–2 yrs,Low Risk,Below Average,Neutral,Excellent,N/A (Still Employed),Male,Married
+95,5,5,3,33,2,34,124,5,2019,5,2,4,,2.118,0,Band 1 – Low,0–2 yrs,26–35,Far (26–50 km),3–5 yrs,Low Risk,Outstanding,High,Poor,N/A (Still Employed),Female,Single
+96,4,3,1,45,7,23,117,1,2012,12,2,3,,3.546,0,Band 1 – Low,6–10 yrs,36–45,Medium (11–25 km),9–12 yrs,High Risk,Needs Improvement,Neutral,Poor,N/A (Still Employed),Female,Divorced
+97,3,2,2,46,8,39,68,3,2020,4,3,3,4.0,2.528,1,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),3–5 yrs,Medium Risk,Average,Neutral,Fair,Low Dissatisfaction,Male,Divorced
+98,4,3,3,45,7,35,155,2,2022,2,1,5,,2.52,0,Band 1 – Low,6–10 yrs,36–45,Far (26–50 km),0–2 yrs,Medium Risk,Below Average,Very High,Very Poor,N/A (Still Employed),Female,Married
+99,5,2,3,33,15,33,42,5,2013,11,1,3,1.0,2.966,1,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,High Risk,Outstanding,Neutral,Very Poor,High Dissatisfaction,Male,Divorced
+100,3,3,2,50,8,14,147,2,2014,10,3,1,,3.578,0,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),9–12 yrs,High Risk,Below Average,Very Low,Fair,N/A (Still Employed),Female,Single
+101,2,5,2,24,13,45,72,1,2012,12,2,1,,4.19,0,Band 2 – Mid-Low,11–20 yrs,18–25,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Very Low,Poor,N/A (Still Employed),Male,Married
+102,6,5,1,38,7,7,114,2,2016,8,3,3,,2.864,0,Band 1 – Low,6–10 yrs,36–45,Near (≤10 km),6–8 yrs,Medium Risk,Below Average,Neutral,Fair,N/A (Still Employed),Male,Married
+103,5,4,2,50,10,43,182,3,2018,6,4,1,,2.986,0,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),6–8 yrs,High Risk,Average,Very Low,Good,N/A (Still Employed),Female,Married
+104,4,1,3,51,14,3,159,1,2013,11,4,4,,2.656,0,Band 3 – Mid-High,11–20 yrs,46–55,Near (≤10 km),9–12 yrs,Medium Risk,Needs Improvement,High,Good,N/A (Still Employed),Male,Married
+105,2,3,1,38,13,16,180,5,2014,10,2,1,,3.232,0,Band 4 – High,11–20 yrs,36–45,Medium (11–25 km),9–12 yrs,High Risk,Outstanding,Very Low,Poor,N/A (Still Employed),Female,Divorced
+106,5,6,2,36,19,3,45,5,2014,10,4,2,,2.406,0,Band 4 – High,11–20 yrs,36–45,Near (≤10 km),9–12 yrs,Medium Risk,Outstanding,Low,Good,N/A (Still Employed),Female,Single
+107,3,2,3,39,6,13,165,1,2011,13,1,4,,3.526,0,Band 1 – Low,6–10 yrs,36–45,Medium (11–25 km),12+ yrs,High Risk,Needs Improvement,High,Very Poor,N/A (Still Employed),Female,Married
+108,6,5,1,58,12,10,76,5,2014,10,2,1,,3.22,0,Band 4 – High,11–20 yrs,55+,Near (≤10 km),9–12 yrs,High Risk,Outstanding,Very Low,Poor,N/A (Still Employed),Male,Single
+109,2,5,3,25,9,20,83,4,2019,5,2,5,,1.99,0,Band 3 – Mid-High,6–10 yrs,18–25,Medium (11–25 km),3–5 yrs,Low Risk,Good,Very High,Poor,N/A (Still Employed),Female,Single
+110,6,2,3,31,18,14,97,1,2024,0,2,4,,2.628,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),0–2 yrs,Medium Risk,Needs Improvement,High,Poor,N/A (Still Employed),Female,Single
+111,3,1,3,28,3,9,90,1,2020,4,3,5,,2.268,0,Band 1 – Low,3–5 yrs,26–35,Near (≤10 km),3–5 yrs,Low Risk,Needs Improvement,Very High,Fair,N/A (Still Employed),Female,Married
+112,5,2,2,27,5,39,40,3,2017,7,3,5,,2.078,0,Band 1 – Low,3–5 yrs,26–35,Far (26–50 km),6–8 yrs,Low Risk,Average,Very High,Fair,N/A (Still Employed),Male,Married
+113,3,6,3,44,3,36,30,1,2018,6,1,2,,3.822,0,Band 1 – Low,3–5 yrs,36–45,Far (26–50 km),6–8 yrs,High Risk,Needs Improvement,Low,Very Poor,N/A (Still Employed),Female,Divorced
+114,2,3,1,56,10,14,114,3,2012,12,2,2,,3.428,0,Band 2 – Mid-Low,6–10 yrs,55+,Medium (11–25 km),9–12 yrs,High Risk,Average,Low,Poor,N/A (Still Employed),Female,Married
+115,3,3,3,48,15,38,117,1,2016,8,2,1,,3.976,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),6–8 yrs,High Risk,Needs Improvement,Very Low,Poor,N/A (Still Employed),Male,Married
+116,1,6,1,59,17,23,139,3,2022,2,2,1,2.0,3.246,1,Band 4 – High,11–20 yrs,55+,Medium (11–25 km),0–2 yrs,High Risk,Average,Very Low,Poor,High Dissatisfaction,Female,Single
+117,6,6,2,36,12,18,47,3,2024,0,4,3,,2.036,0,Band 3 – Mid-High,11–20 yrs,36–45,Medium (11–25 km),0–2 yrs,Low Risk,Average,Neutral,Good,N/A (Still Employed),Female,Single
+118,3,4,3,57,8,9,157,4,2023,1,1,2,,2.918,0,Band 2 – Mid-Low,6–10 yrs,55+,Near (≤10 km),0–2 yrs,Medium Risk,Good,Low,Very Poor,N/A (Still Employed),Male,Single
+119,3,6,2,25,19,47,136,5,2016,8,2,1,,3.194,0,Band 4 – High,11–20 yrs,18–25,Far (26–50 km),6–8 yrs,High Risk,Outstanding,Very Low,Poor,N/A (Still Employed),Female,Divorced
+120,5,6,3,46,2,40,171,2,2011,13,2,4,,3.13,0,Band 1 – Low,0–2 yrs,46–55,Far (26–50 km),12+ yrs,High Risk,Below Average,High,Poor,N/A (Still Employed),Male,Married
+121,1,2,3,55,15,28,60,3,2012,12,5,1,,3.006,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,High Risk,Average,Very Low,Excellent,N/A (Still Employed),Female,Married
+122,6,5,3,48,17,5,56,4,2018,6,3,1,,2.96,0,Band 4 – High,11–20 yrs,46–55,Near (≤10 km),6–8 yrs,High Risk,Good,Very Low,Fair,N/A (Still Employed),Male,Divorced
+123,4,4,2,56,20,36,126,3,2017,7,1,4,,2.872,0,Band 4 – High,11–20 yrs,55+,Far (26–50 km),6–8 yrs,Medium Risk,Average,High,Very Poor,N/A (Still Employed),Male,Married
+124,1,2,3,52,11,17,13,2,2021,3,4,4,,2.084,0,Band 2 – Mid-Low,11–20 yrs,46–55,Medium (11–25 km),3–5 yrs,Low Risk,Below Average,High,Good,N/A (Still Employed),Non-Binary / Other,Married
+125,1,2,3,58,14,17,52,1,2015,9,2,4,,3.084,0,Band 3 – Mid-High,11–20 yrs,55+,Medium (11–25 km),9–12 yrs,High Risk,Needs Improvement,High,Poor,N/A (Still Employed),Female,Single
+126,6,5,3,37,15,25,40,3,2018,6,3,5,,2.0,0,Band 3 – Mid-High,11–20 yrs,36–45,Medium (11–25 km),6–8 yrs,Low Risk,Average,Very High,Fair,N/A (Still Employed),Female,Single
+127,5,1,1,52,15,42,117,4,2024,0,1,4,,2.334,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),0–2 yrs,Low Risk,Good,High,Very Poor,N/A (Still Employed),Female,Married
+128,1,2,3,41,14,11,77,5,2020,4,4,2,,2.122,0,Band 4 – High,11–20 yrs,36–45,Medium (11–25 km),3–5 yrs,Low Risk,Outstanding,Low,Good,N/A (Still Employed),Female,Divorced
+129,6,4,1,27,14,26,151,1,2021,3,5,5,5.0,1.752,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),3–5 yrs,Low Risk,Needs Improvement,Very High,Excellent,Low Dissatisfaction,Male,Married
+130,5,5,3,47,12,30,192,5,2015,9,4,1,,2.71,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,Medium Risk,Outstanding,Very Low,Good,N/A (Still Employed),Male,Married
+131,1,3,1,24,16,6,130,2,2017,7,2,3,,3.062,0,Band 3 – Mid-High,11–20 yrs,18–25,Near (≤10 km),6–8 yrs,High Risk,Below Average,Neutral,Poor,N/A (Still Employed),Female,Divorced
+132,6,1,2,54,11,17,200,1,2015,9,4,4,,2.584,0,Band 2 – Mid-Low,11–20 yrs,46–55,Medium (11–25 km),9–12 yrs,Medium Risk,Needs Improvement,High,Good,N/A (Still Employed),Male,Married
+133,5,5,3,58,9,44,35,5,2016,8,4,4,,1.788,0,Band 3 – Mid-High,6–10 yrs,55+,Far (26–50 km),6–8 yrs,Low Risk,Outstanding,High,Good,N/A (Still Employed),Male,Single
+134,6,4,2,55,13,28,42,4,2017,7,4,3,5.0,2.206,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),6–8 yrs,Low Risk,Good,Neutral,Good,Low Dissatisfaction,Male,Single
+135,4,2,1,58,1,45,18,4,2016,8,2,2,,3.09,0,Band 1 – Low,0–2 yrs,55+,Far (26–50 km),6–8 yrs,High Risk,Good,Low,Poor,N/A (Still Employed),Non-Binary / Other,Single
+136,5,4,3,31,6,10,120,5,2016,8,1,3,,2.77,0,Band 2 – Mid-Low,6–10 yrs,26–35,Near (≤10 km),6–8 yrs,Medium Risk,Outstanding,Neutral,Very Poor,N/A (Still Employed),Female,Single
+137,3,6,1,29,15,35,16,1,2017,7,4,5,,2.22,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),6–8 yrs,Low Risk,Needs Improvement,Very High,Good,N/A (Still Employed),Male,Married
+138,5,2,2,50,8,14,186,3,2010,14,2,3,,3.228,0,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),12+ yrs,High Risk,Average,Neutral,Poor,N/A (Still Employed),Non-Binary / Other,Divorced
+139,6,5,1,33,9,5,52,2,2024,0,3,5,,1.86,0,Band 2 – Mid-Low,6–10 yrs,26–35,Near (≤10 km),0–2 yrs,Low Risk,Below Average,Very High,Fair,N/A (Still Employed),Female,Single
+140,2,1,2,32,3,41,28,2,2018,6,2,1,,3.682,0,Band 1 – Low,3–5 yrs,26–35,Far (26–50 km),6–8 yrs,High Risk,Below Average,Very Low,Poor,N/A (Still Employed),Male,Married
+141,5,5,3,35,12,47,43,4,2010,14,4,4,,2.294,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),12+ yrs,Low Risk,Good,High,Good,N/A (Still Employed),Non-Binary / Other,Divorced
+142,4,6,2,34,3,18,141,1,2022,2,3,4,,2.486,0,Band 1 – Low,3–5 yrs,26–35,Medium (11–25 km),0–2 yrs,Medium Risk,Needs Improvement,High,Fair,N/A (Still Employed),Female,Divorced
+143,5,6,2,30,10,41,145,1,2016,8,3,5,,2.532,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),6–8 yrs,Medium Risk,Needs Improvement,Very High,Fair,N/A (Still Employed),Non-Binary / Other,Divorced
+144,5,4,2,24,17,45,109,2,2011,13,4,2,,3.24,0,Band 4 – High,11–20 yrs,18–25,Far (26–50 km),12+ yrs,High Risk,Below Average,Low,Good,N/A (Still Employed),Female,Divorced
+145,4,4,2,49,17,42,118,2,2022,2,5,2,,2.434,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),0–2 yrs,Medium Risk,Below Average,Low,Excellent,N/A (Still Employed),Female,Married
+146,3,3,1,27,18,13,100,2,2012,12,4,2,,3.126,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),9–12 yrs,High Risk,Below Average,Low,Good,N/A (Still Employed),Male,Divorced
+147,1,3,3,49,3,46,42,2,2019,5,5,5,,1.692,0,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),3–5 yrs,Low Risk,Below Average,Very High,Excellent,N/A (Still Employed),Male,Married
+148,1,2,3,34,9,24,112,5,2024,0,1,2,,2.698,0,Band 3 – Mid-High,6–10 yrs,26–35,Medium (11–25 km),0–2 yrs,Medium Risk,Outstanding,Low,Very Poor,N/A (Still Employed),Male,Single
+149,6,6,1,31,8,37,188,5,2014,10,3,2,,2.724,0,Band 3 – Mid-High,6–10 yrs,26–35,Far (26–50 km),9–12 yrs,Medium Risk,Outstanding,Low,Fair,N/A (Still Employed),Male,Single
+150,4,4,1,60,4,43,152,5,2022,2,4,2,,2.086,0,Band 2 – Mid-Low,3–5 yrs,55+,Far (26–50 km),0–2 yrs,Low Risk,Outstanding,Low,Good,N/A (Still Employed),Male,Married
+151,6,3,1,38,4,42,71,5,2013,11,5,1,,2.584,0,Band 2 – Mid-Low,3–5 yrs,36–45,Far (26–50 km),9–12 yrs,Medium Risk,Outstanding,Very Low,Excellent,N/A (Still Employed),Non-Binary / Other,Married
+152,2,6,2,42,3,33,192,3,2019,5,1,1,,3.666,0,Band 1 – Low,3–5 yrs,36–45,Far (26–50 km),3–5 yrs,High Risk,Average,Very Low,Very Poor,N/A (Still Employed),Female,Divorced
+153,5,3,3,26,12,39,85,4,2018,6,2,4,,2.378,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),6–8 yrs,Medium Risk,Good,High,Poor,N/A (Still Employed),Female,Divorced
+154,1,5,1,27,2,11,40,2,2015,9,5,3,,2.422,0,Band 1 – Low,0–2 yrs,26–35,Medium (11–25 km),9–12 yrs,Medium Risk,Below Average,Neutral,Excellent,N/A (Still Employed),Male,Married
+155,6,2,1,46,18,27,96,3,2012,12,2,5,,2.554,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,Medium Risk,Average,Very High,Poor,N/A (Still Employed),Female,Divorced
+156,6,1,3,57,7,10,96,3,2019,5,2,1,,3.37,0,Band 2 – Mid-Low,6–10 yrs,55+,Near (≤10 km),3–5 yrs,High Risk,Average,Very Low,Poor,N/A (Still Employed),Female,Married
+157,4,5,3,47,11,21,161,3,2018,6,3,2,,2.892,0,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),6–8 yrs,Medium Risk,Average,Low,Fair,N/A (Still Employed),Non-Binary / Other,Divorced
+158,2,2,3,57,7,28,165,5,2024,0,3,2,,2.206,0,Band 3 – Mid-High,6–10 yrs,55+,Far (26–50 km),0–2 yrs,Low Risk,Outstanding,Low,Fair,N/A (Still Employed),Female,Married
+159,2,2,3,42,11,25,167,4,2019,5,3,3,,2.35,0,Band 3 – Mid-High,11–20 yrs,36–45,Medium (11–25 km),3–5 yrs,Medium Risk,Good,Neutral,Fair,N/A (Still Employed),Female,Married
+160,6,5,2,39,9,2,37,1,2024,0,5,2,,2.454,0,Band 2 – Mid-Low,6–10 yrs,36–45,Near (≤10 km),0–2 yrs,Medium Risk,Needs Improvement,Low,Excellent,N/A (Still Employed),Female,Divorced
+161,2,3,1,55,10,39,194,4,2014,10,1,3,,3.128,0,Band 3 – Mid-High,6–10 yrs,46–55,Far (26–50 km),9–12 yrs,High Risk,Good,Neutral,Very Poor,N/A (Still Employed),Male,Married
+162,2,3,2,51,9,16,21,2,2010,14,5,3,,2.682,0,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),12+ yrs,Medium Risk,Below Average,Neutral,Excellent,N/A (Still Employed),Male,Married
+163,4,6,3,22,7,5,28,2,2022,2,5,4,,1.76,0,Band 1 – Low,6–10 yrs,18–25,Near (≤10 km),0–2 yrs,Low Risk,Below Average,High,Excellent,N/A (Still Employed),Female,Single
+164,5,1,1,59,20,18,199,5,2023,1,4,5,,1.086,0,Band 4 – High,11–20 yrs,55+,Medium (11–25 km),0–2 yrs,Low Risk,Outstanding,Very High,Good,N/A (Still Employed),Female,Married
+165,4,1,3,55,5,8,100,5,2016,8,1,5,,2.166,0,Band 2 – Mid-Low,3–5 yrs,46–55,Near (≤10 km),6–8 yrs,Low Risk,Outstanding,Very High,Very Poor,N/A (Still Employed),Female,Divorced
+166,5,2,3,48,18,35,124,1,2012,12,2,5,,2.97,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Very High,Poor,N/A (Still Employed),Female,Single
+167,2,6,1,29,9,8,114,2,2016,8,2,5,,2.516,0,Band 2 – Mid-Low,6–10 yrs,26–35,Near (≤10 km),6–8 yrs,Medium Risk,Below Average,Very High,Poor,N/A (Still Employed),Male,Divorced
+168,6,1,2,48,1,44,171,5,2020,4,4,3,,1.888,0,Band 1 – Low,0–2 yrs,46–55,Far (26–50 km),3–5 yrs,Low Risk,Outstanding,Neutral,Good,N/A (Still Employed),Female,Single
+169,1,5,1,31,10,36,125,4,2010,14,2,2,,3.372,0,Band 3 – Mid-High,6–10 yrs,26–35,Far (26–50 km),12+ yrs,High Risk,Good,Low,Poor,N/A (Still Employed),Female,Divorced
+170,6,6,3,31,10,27,199,1,2017,7,1,3,,3.554,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),6–8 yrs,High Risk,Needs Improvement,Neutral,Very Poor,N/A (Still Employed),Non-Binary / Other,Single
+171,6,1,1,58,12,5,121,1,2022,2,2,4,,2.71,0,Band 2 – Mid-Low,11–20 yrs,55+,Near (≤10 km),0–2 yrs,Medium Risk,Needs Improvement,High,Poor,N/A (Still Employed),Male,Divorced
+172,1,4,3,59,13,22,84,2,2022,2,3,3,,2.594,0,Band 3 – Mid-High,11–20 yrs,55+,Medium (11–25 km),0–2 yrs,Medium Risk,Below Average,Neutral,Fair,N/A (Still Employed),Female,Married
+173,4,2,3,59,13,41,132,3,2023,1,4,2,,2.432,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),0–2 yrs,Medium Risk,Average,Low,Good,N/A (Still Employed),Non-Binary / Other,Married
+174,6,4,3,28,19,6,189,5,2018,6,1,5,,2.062,0,Band 4 – High,11–20 yrs,26–35,Near (≤10 km),6–8 yrs,Low Risk,Outstanding,Very High,Very Poor,N/A (Still Employed),Male,Divorced
+175,5,2,1,28,1,24,44,1,2017,7,3,1,,3.648,0,Band 1 – Low,0–2 yrs,26–35,Medium (11–25 km),6–8 yrs,High Risk,Needs Improvement,Very Low,Fair,N/A (Still Employed),Female,Single
+176,2,2,2,58,16,22,197,4,2023,1,4,4,,1.594,0,Band 4 – High,11–20 yrs,55+,Medium (11–25 km),0–2 yrs,Low Risk,Good,High,Good,N/A (Still Employed),Female,Single
+177,2,5,1,28,17,50,56,1,2010,14,2,1,,4.3,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),12+ yrs,High Risk,Needs Improvement,Very Low,Poor,N/A (Still Employed),Male,Married
+178,4,3,3,40,5,18,195,4,2011,13,4,2,,2.786,0,Band 2 – Mid-Low,3–5 yrs,36–45,Medium (11–25 km),12+ yrs,Medium Risk,Good,Low,Good,N/A (Still Employed),Female,Married
+179,4,1,2,56,13,10,160,3,2010,14,2,2,,3.52,0,Band 3 – Mid-High,11–20 yrs,55+,Near (≤10 km),12+ yrs,High Risk,Average,Low,Poor,N/A (Still Employed),Female,Married
+180,4,4,2,44,8,15,140,2,2014,10,3,1,,3.58,0,Band 2 – Mid-Low,6–10 yrs,36–45,Medium (11–25 km),9–12 yrs,High Risk,Below Average,Very Low,Fair,N/A (Still Employed),Female,Single
+181,3,1,1,48,8,18,31,3,2023,1,3,2,,2.636,0,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),0–2 yrs,Medium Risk,Average,Low,Fair,N/A (Still Employed),Non-Binary / Other,Single
+182,5,2,1,38,7,1,48,2,2020,4,4,1,4.0,3.002,0,Band 1 – Low,6–10 yrs,36–45,Near (≤10 km),3–5 yrs,High Risk,Below Average,Very Low,Good,Low Dissatisfaction,Male,Married
+183,3,4,3,46,16,7,11,1,2011,13,4,2,,3.364,0,Band 3 – Mid-High,11–20 yrs,46–55,Near (≤10 km),12+ yrs,High Risk,Needs Improvement,Low,Good,N/A (Still Employed),Female,Married
+184,2,4,3,53,8,25,161,3,2015,9,1,2,,3.55,0,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),9–12 yrs,High Risk,Average,Low,Very Poor,N/A (Still Employed),Male,Single
+185,6,6,3,58,17,15,161,5,2019,5,3,4,,1.83,0,Band 4 – High,11–20 yrs,55+,Medium (11–25 km),3–5 yrs,Low Risk,Outstanding,High,Fair,N/A (Still Employed),Male,Single
+186,3,2,3,60,19,25,104,3,2011,13,4,3,,2.7,0,Band 4 – High,11–20 yrs,55+,Medium (11–25 km),12+ yrs,Medium Risk,Average,Neutral,Good,N/A (Still Employed),Female,Single
+187,6,1,2,52,18,7,182,3,2023,1,2,1,,3.164,0,Band 4 – High,11–20 yrs,46–55,Near (≤10 km),0–2 yrs,High Risk,Average,Very Low,Poor,N/A (Still Employed),Female,Divorced
+188,1,4,2,24,15,8,176,1,2014,10,2,5,,2.816,0,Band 3 – Mid-High,11–20 yrs,18–25,Near (≤10 km),9–12 yrs,Medium Risk,Needs Improvement,Very High,Poor,N/A (Still Employed),Male,Married
+189,2,1,1,33,15,12,126,1,2019,5,4,4,,2.374,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),3–5 yrs,Medium Risk,Needs Improvement,High,Good,N/A (Still Employed),Male,Married
+190,3,4,3,39,11,34,107,2,2017,7,5,4,,2.068,0,Band 2 – Mid-Low,11–20 yrs,36–45,Far (26–50 km),6–8 yrs,Low Risk,Below Average,High,Excellent,N/A (Still Employed),Non-Binary / Other,Single
+191,2,3,2,47,3,47,92,4,2021,3,1,3,,2.794,0,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),3–5 yrs,Medium Risk,Good,Neutral,Very Poor,N/A (Still Employed),Male,Single
+192,1,5,1,31,11,20,122,3,2015,9,4,2,,2.79,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),9–12 yrs,Medium Risk,Average,Low,Good,N/A (Still Employed),Non-Binary / Other,Divorced
+193,1,6,3,60,7,38,55,4,2023,1,1,5,,2.076,0,Band 2 – Mid-Low,6–10 yrs,55+,Far (26–50 km),0–2 yrs,Low Risk,Good,Very High,Very Poor,N/A (Still Employed),Male,Single
+194,2,2,1,47,14,32,140,3,2010,14,3,4,,2.714,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),12+ yrs,Medium Risk,Average,High,Fair,N/A (Still Employed),Female,Single
+195,3,5,3,24,14,7,194,4,2011,13,1,4,,2.914,0,Band 4 – High,11–20 yrs,18–25,Near (≤10 km),12+ yrs,Medium Risk,Good,High,Very Poor,N/A (Still Employed),Male,Divorced
+196,5,6,3,47,7,34,160,2,2021,3,4,2,,2.718,0,Band 1 – Low,6–10 yrs,46–55,Far (26–50 km),3–5 yrs,Medium Risk,Below Average,Low,Good,N/A (Still Employed),Non-Binary / Other,Divorced
+197,2,1,3,43,15,23,81,1,2019,5,1,4,,3.146,0,Band 3 – Mid-High,11–20 yrs,36–45,Medium (11–25 km),3–5 yrs,High Risk,Needs Improvement,High,Very Poor,N/A (Still Employed),Male,Married
+198,6,6,2,37,15,45,34,5,2020,4,2,5,,1.79,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),3–5 yrs,Low Risk,Outstanding,Very High,Poor,N/A (Still Employed),Female,Married
+199,6,5,1,25,18,37,69,4,2018,6,3,3,,2.424,0,Band 4 – High,11–20 yrs,18–25,Far (26–50 km),6–8 yrs,Medium Risk,Good,Neutral,Fair,N/A (Still Employed),Female,Divorced
+200,6,5,3,52,1,19,86,1,2021,3,2,5,,2.488,0,Band 1 – Low,0–2 yrs,46–55,Medium (11–25 km),3–5 yrs,Medium Risk,Needs Improvement,Very High,Poor,N/A (Still Employed),Female,Single
+201,6,5,2,39,12,36,136,3,2021,3,5,4,,1.672,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),3–5 yrs,Low Risk,Average,High,Excellent,N/A (Still Employed),Male,Married
+202,6,5,1,45,5,18,97,3,2010,14,5,1,,3.086,0,Band 1 – Low,3–5 yrs,36–45,Medium (11–25 km),12+ yrs,High Risk,Average,Very Low,Excellent,N/A (Still Employed),Male,Married
+203,1,2,1,23,19,39,22,4,2021,3,4,3,,2.028,0,Band 4 – High,11–20 yrs,18–25,Far (26–50 km),3–5 yrs,Low Risk,Good,Neutral,Good,N/A (Still Employed),Female,Single
+204,3,3,2,43,5,7,154,4,2013,11,4,5,,1.764,0,Band 2 – Mid-Low,3–5 yrs,36–45,Near (≤10 km),9–12 yrs,Low Risk,Good,Very High,Good,N/A (Still Employed),Non-Binary / Other,Single
+205,3,6,1,41,10,4,142,5,2018,6,1,3,,2.658,0,Band 3 – Mid-High,6–10 yrs,36–45,Near (≤10 km),6–8 yrs,Medium Risk,Outstanding,Neutral,Very Poor,N/A (Still Employed),Male,Single
+206,4,3,3,41,1,11,144,2,2012,12,4,3,,2.822,0,Band 1 – Low,0–2 yrs,36–45,Medium (11–25 km),9–12 yrs,Medium Risk,Below Average,Neutral,Good,N/A (Still Employed),Male,Single
+207,2,5,2,39,16,21,158,4,2018,6,4,2,,2.442,0,Band 4 – High,11–20 yrs,36–45,Medium (11–25 km),6–8 yrs,Medium Risk,Good,Low,Good,N/A (Still Employed),Non-Binary / Other,Divorced
+208,1,3,3,53,12,49,140,3,2021,3,4,3,,2.248,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),3–5 yrs,Low Risk,Average,Neutral,Good,N/A (Still Employed),Female,Divorced
+209,1,3,2,28,11,25,119,5,2017,7,1,3,,2.75,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),6–8 yrs,Medium Risk,Outstanding,Neutral,Very Poor,N/A (Still Employed),Female,Single
+210,2,2,3,36,8,12,83,5,2012,12,3,4,5.0,2.174,0,Band 3 – Mid-High,6–10 yrs,36–45,Medium (11–25 km),9–12 yrs,Low Risk,Outstanding,High,Fair,Low Dissatisfaction,Female,Married
+211,2,5,3,30,14,23,92,3,2013,11,4,5,,1.996,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),9–12 yrs,Low Risk,Average,Very High,Good,N/A (Still Employed),Male,Single
+212,6,1,3,41,14,48,108,3,2024,0,3,4,,2.046,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),0–2 yrs,Low Risk,Average,High,Fair,N/A (Still Employed),Male,Married
+213,1,5,2,50,13,44,91,1,2020,4,1,1,4.0,4.038,1,Band 2 – Mid-Low,11–20 yrs,46–55,Far (26–50 km),3–5 yrs,High Risk,Needs Improvement,Very Low,Very Poor,Low Dissatisfaction,Male,Married
+214,1,3,1,42,18,35,55,4,2020,4,5,3,,1.82,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),3–5 yrs,Low Risk,Good,Neutral,Excellent,N/A (Still Employed),Male,Divorced
+215,2,1,3,39,10,36,46,5,2023,1,4,5,,1.122,0,Band 3 – Mid-High,6–10 yrs,36–45,Far (26–50 km),0–2 yrs,Low Risk,Outstanding,Very High,Good,N/A (Still Employed),Female,Divorced
+216,2,6,2,48,11,39,20,4,2012,12,5,3,2.0,2.228,1,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,Low Risk,Good,Neutral,Excellent,High Dissatisfaction,Male,Married
+217,3,3,3,60,19,26,198,3,2014,10,3,1,,3.402,0,Band 4 – High,11–20 yrs,55+,Far (26–50 km),9–12 yrs,High Risk,Average,Very Low,Fair,N/A (Still Employed),Male,Married
+218,6,3,3,27,1,31,197,1,2020,4,4,3,,2.662,0,Band 1 – Low,0–2 yrs,26–35,Far (26–50 km),3–5 yrs,Medium Risk,Needs Improvement,Neutral,Good,N/A (Still Employed),Female,Single
+219,4,4,2,34,19,38,63,5,2014,10,3,4,,2.126,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,Low Risk,Outstanding,High,Fair,N/A (Still Employed),Male,Single
+220,6,4,2,50,2,9,120,1,2021,3,5,1,,2.918,0,Band 1 – Low,0–2 yrs,46–55,Near (≤10 km),3–5 yrs,Medium Risk,Needs Improvement,Very Low,Excellent,N/A (Still Employed),Male,Single
+221,1,6,1,35,5,17,142,2,2024,0,3,5,,1.884,0,Band 1 – Low,3–5 yrs,26–35,Medium (11–25 km),0–2 yrs,Low Risk,Below Average,Very High,Fair,N/A (Still Employed),Female,Married
+222,5,4,2,48,5,1,81,5,2010,14,1,2,,3.352,0,Band 2 – Mid-Low,3–5 yrs,46–55,Near (≤10 km),12+ yrs,High Risk,Outstanding,Low,Very Poor,N/A (Still Employed),Female,Single
+223,3,3,3,53,11,44,157,1,2022,2,2,1,,3.688,0,Band 2 – Mid-Low,11–20 yrs,46–55,Far (26–50 km),0–2 yrs,High Risk,Needs Improvement,Very Low,Poor,N/A (Still Employed),Female,Married
+224,5,6,2,55,19,33,167,2,2017,7,4,2,2.0,2.916,1,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),6–8 yrs,Medium Risk,Below Average,Low,Good,High Dissatisfaction,Female,Single
+225,2,5,2,45,20,46,90,1,2019,5,5,4,,2.192,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),3–5 yrs,Low Risk,Needs Improvement,High,Excellent,N/A (Still Employed),Male,Married
+226,4,6,3,25,20,10,35,3,2021,3,4,1,,2.77,0,Band 4 – High,11–20 yrs,18–25,Near (≤10 km),3–5 yrs,Medium Risk,Average,Very Low,Good,N/A (Still Employed),Male,Divorced
+227,1,5,3,54,19,43,98,4,2013,11,1,1,,3.786,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,High Risk,Good,Very Low,Very Poor,N/A (Still Employed),Female,Divorced
+228,4,3,3,32,13,9,82,2,2011,13,2,5,,2.768,0,Band 3 – Mid-High,11–20 yrs,26–35,Near (≤10 km),12+ yrs,Medium Risk,Below Average,Very High,Poor,N/A (Still Employed),Female,Married
+229,5,4,3,26,13,10,52,5,2011,13,1,3,,3.02,0,Band 4 – High,11–20 yrs,26–35,Near (≤10 km),12+ yrs,High Risk,Outstanding,Neutral,Very Poor,N/A (Still Employed),Male,Divorced
+230,5,3,3,41,7,25,40,4,2010,14,3,2,,3.1,0,Band 2 – Mid-Low,6–10 yrs,36–45,Medium (11–25 km),12+ yrs,High Risk,Good,Low,Fair,N/A (Still Employed),Female,Married
+231,6,6,2,54,13,37,83,1,2012,12,5,3,,2.824,0,Band 2 – Mid-Low,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,Medium Risk,Needs Improvement,Neutral,Excellent,N/A (Still Employed),Non-Binary / Other,Divorced
+232,3,5,2,47,3,48,80,2,2019,5,3,3,,2.796,0,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),3–5 yrs,Medium Risk,Below Average,Neutral,Fair,N/A (Still Employed),Male,Divorced
+233,6,5,2,30,18,18,134,4,2024,0,2,4,,2.036,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),0–2 yrs,Low Risk,Good,High,Poor,N/A (Still Employed),Female,Divorced
+234,5,6,2,55,13,4,122,4,2011,13,5,4,,1.908,0,Band 3 – Mid-High,11–20 yrs,46–55,Near (≤10 km),12+ yrs,Low Risk,Good,High,Excellent,N/A (Still Employed),Male,Divorced
+235,2,2,2,58,7,47,67,1,2018,6,5,5,3.0,1.944,0,Band 1 – Low,6–10 yrs,55+,Far (26–50 km),6–8 yrs,Low Risk,Needs Improvement,Very High,Excellent,Moderate Dissatisfaction,Female,Single
+236,3,5,3,23,16,41,53,3,2011,13,4,1,,3.332,0,Band 4 – High,11–20 yrs,18–25,Far (26–50 km),12+ yrs,High Risk,Average,Very Low,Good,N/A (Still Employed),Male,Single
+237,5,2,2,33,4,24,83,4,2013,11,4,5,1.0,1.798,0,Band 1 – Low,3–5 yrs,26–35,Medium (11–25 km),9–12 yrs,Low Risk,Good,Very High,Good,High Dissatisfaction,Female,Single
+238,6,3,3,34,11,46,76,4,2013,11,1,2,,3.492,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,High Risk,Good,Low,Very Poor,N/A (Still Employed),Male,Divorced
+239,4,5,3,34,19,50,165,5,2011,13,4,4,,2.05,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),12+ yrs,Low Risk,Outstanding,High,Good,N/A (Still Employed),Female,Divorced
+240,3,2,3,25,15,16,37,4,2017,7,3,5,,1.832,0,Band 4 – High,11–20 yrs,18–25,Medium (11–25 km),6–8 yrs,Low Risk,Good,Very High,Fair,N/A (Still Employed),Female,Divorced
+241,3,5,2,37,10,44,69,1,2010,14,1,2,1.0,4.238,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),12+ yrs,High Risk,Needs Improvement,Low,Very Poor,High Dissatisfaction,Non-Binary / Other,Single
+242,2,2,2,24,3,39,180,1,2023,1,1,2,3.0,3.578,0,Band 1 – Low,3–5 yrs,18–25,Far (26–50 km),0–2 yrs,High Risk,Needs Improvement,Low,Very Poor,Moderate Dissatisfaction,Female,Divorced
+243,2,5,1,51,6,27,81,2,2018,6,4,2,2.0,2.854,0,Band 1 – Low,6–10 yrs,46–55,Far (26–50 km),6–8 yrs,Medium Risk,Below Average,Low,Good,High Dissatisfaction,Female,Divorced
+244,4,5,1,25,4,46,46,1,2017,7,4,1,,3.442,0,Band 1 – Low,3–5 yrs,18–25,Far (26–50 km),6–8 yrs,High Risk,Needs Improvement,Very Low,Good,N/A (Still Employed),Male,Single
+245,4,1,2,45,18,30,34,4,2016,8,3,2,,2.81,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),6–8 yrs,Medium Risk,Good,Low,Fair,N/A (Still Employed),Male,Single
+246,3,3,3,34,6,12,62,4,2010,14,1,3,,3.274,0,Band 2 – Mid-Low,6–10 yrs,26–35,Medium (11–25 km),12+ yrs,High Risk,Good,Neutral,Very Poor,N/A (Still Employed),Male,Married
+247,1,3,3,39,2,29,151,2,2024,0,5,5,,1.408,0,Band 1 – Low,0–2 yrs,36–45,Far (26–50 km),0–2 yrs,Low Risk,Below Average,Very High,Excellent,N/A (Still Employed),Male,Single
+248,5,5,3,45,20,23,140,4,2011,13,3,5,,2.146,0,Band 4 – High,11–20 yrs,36–45,Medium (11–25 km),12+ yrs,Low Risk,Good,Very High,Fair,N/A (Still Employed),Non-Binary / Other,Divorced
+249,5,2,3,51,16,30,53,3,2014,10,3,2,5.0,3.11,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,High Risk,Average,Low,Fair,Low Dissatisfaction,Male,Divorced
+250,6,4,3,54,1,33,17,1,2016,8,4,5,,2.266,0,Band 1 – Low,0–2 yrs,46–55,Far (26–50 km),6–8 yrs,Low Risk,Needs Improvement,Very High,Good,N/A (Still Employed),Male,Married
+251,3,2,3,47,6,19,163,3,2017,7,3,5,,2.038,0,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),6–8 yrs,Low Risk,Average,Very High,Fair,N/A (Still Employed),Male,Divorced
+252,5,5,3,29,7,18,20,3,2012,12,3,5,,2.286,0,Band 2 – Mid-Low,6–10 yrs,26–35,Medium (11–25 km),9–12 yrs,Low Risk,Average,Very High,Fair,N/A (Still Employed),Non-Binary / Other,Single
+253,5,6,1,23,3,28,148,5,2023,1,1,1,5.0,3.056,1,Band 2 – Mid-Low,3–5 yrs,18–25,Far (26–50 km),0–2 yrs,High Risk,Outstanding,Very Low,Very Poor,Low Dissatisfaction,Non-Binary / Other,Single
+254,4,3,1,37,13,34,147,4,2013,11,5,5,,1.568,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,Low Risk,Good,Very High,Excellent,N/A (Still Employed),Male,Divorced
+255,3,6,3,45,10,46,59,2,2023,1,3,3,,2.592,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),0–2 yrs,Medium Risk,Below Average,Neutral,Fair,N/A (Still Employed),Male,Married
+256,2,2,3,53,7,15,11,4,2023,1,2,5,,1.78,0,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),0–2 yrs,Low Risk,Good,Very High,Poor,N/A (Still Employed),Female,Divorced
+257,6,1,3,60,8,20,135,1,2018,6,3,2,,3.29,0,Band 1 – Low,6–10 yrs,55+,Medium (11–25 km),6–8 yrs,High Risk,Needs Improvement,Low,Fair,N/A (Still Employed),Male,Divorced
+258,3,5,3,50,10,41,16,3,2014,10,3,5,,2.232,0,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),9–12 yrs,Low Risk,Average,Very High,Fair,N/A (Still Employed),Non-Binary / Other,Divorced
+259,2,2,1,33,17,6,104,4,2023,1,4,2,,2.162,0,Band 4 – High,11–20 yrs,26–35,Near (≤10 km),0–2 yrs,Low Risk,Good,Low,Good,N/A (Still Employed),Male,Divorced
+260,6,2,2,52,3,20,62,1,2019,5,1,3,,3.44,0,Band 1 – Low,3–5 yrs,46–55,Medium (11–25 km),3–5 yrs,High Risk,Needs Improvement,Neutral,Very Poor,N/A (Still Employed),Female,Single
+261,6,1,2,59,15,27,82,5,2020,4,4,2,,2.154,0,Band 4 – High,11–20 yrs,55+,Far (26–50 km),3–5 yrs,Low Risk,Outstanding,Low,Good,N/A (Still Employed),Non-Binary / Other,Divorced
+262,1,4,2,57,2,50,156,2,2017,7,3,1,4.0,3.5,0,Band 1 – Low,0–2 yrs,55+,Far (26–50 km),6–8 yrs,High Risk,Below Average,Very Low,Fair,Low Dissatisfaction,Female,Single
+263,2,4,3,44,12,21,119,4,2023,1,3,2,,2.442,0,Band 3 – Mid-High,11–20 yrs,36–45,Medium (11–25 km),0–2 yrs,Medium Risk,Good,Low,Fair,N/A (Still Employed),Male,Divorced
+264,6,2,1,44,17,6,197,2,2020,4,1,5,,2.562,0,Band 4 – High,11–20 yrs,36–45,Near (≤10 km),3–5 yrs,Medium Risk,Below Average,Very High,Very Poor,N/A (Still Employed),Male,Single
+265,5,5,2,32,1,41,123,2,2019,5,5,2,,2.582,0,Band 1 – Low,0–2 yrs,26–35,Far (26–50 km),3–5 yrs,Medium Risk,Below Average,Low,Excellent,N/A (Still Employed),Male,Married
+266,1,6,3,38,6,6,143,3,2011,13,1,2,,3.712,0,Band 2 – Mid-Low,6–10 yrs,36–45,Near (≤10 km),12+ yrs,High Risk,Average,Low,Very Poor,N/A (Still Employed),Female,Single
+267,1,1,2,27,11,5,42,5,2016,8,3,5,,1.66,0,Band 3 – Mid-High,11–20 yrs,26–35,Near (≤10 km),6–8 yrs,Low Risk,Outstanding,Very High,Fair,N/A (Still Employed),Male,Married
+268,3,4,3,40,14,47,126,1,2012,12,1,5,,3.244,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Very High,Very Poor,N/A (Still Employed),Female,Married
+269,5,2,3,23,13,16,85,5,2020,4,5,4,,1.282,0,Band 4 – High,11–20 yrs,18–25,Medium (11–25 km),3–5 yrs,Low Risk,Outstanding,High,Excellent,N/A (Still Employed),Female,Divorced
+270,5,5,3,46,6,6,38,4,2010,14,4,2,,2.812,0,Band 2 – Mid-Low,6–10 yrs,46–55,Near (≤10 km),12+ yrs,Medium Risk,Good,Low,Good,N/A (Still Employed),Non-Binary / Other,Single
+271,4,6,3,25,4,11,193,1,2012,12,2,3,,3.522,0,Band 1 – Low,3–5 yrs,18–25,Medium (11–25 km),9–12 yrs,High Risk,Needs Improvement,Neutral,Poor,N/A (Still Employed),Male,Single
+272,4,4,3,32,5,37,190,3,2012,12,2,1,4.0,3.774,1,Band 1 – Low,3–5 yrs,26–35,Far (26–50 km),9–12 yrs,High Risk,Average,Very Low,Poor,Low Dissatisfaction,Female,Divorced
+273,6,3,3,58,18,4,40,4,2023,1,1,4,,2.308,0,Band 4 – High,11–20 yrs,55+,Near (≤10 km),0–2 yrs,Low Risk,Good,High,Very Poor,N/A (Still Employed),Non-Binary / Other,Divorced
+274,6,6,2,35,14,6,123,4,2021,3,5,3,,1.712,0,Band 4 – High,11–20 yrs,26–35,Near (≤10 km),3–5 yrs,Low Risk,Good,Neutral,Excellent,N/A (Still Employed),Female,Divorced
+275,6,6,3,36,16,48,120,2,2020,4,1,4,,2.946,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),3–5 yrs,Medium Risk,Below Average,High,Very Poor,N/A (Still Employed),Male,Married
+276,3,2,3,36,3,19,136,1,2013,11,2,5,,2.888,0,Band 1 – Low,3–5 yrs,36–45,Medium (11–25 km),9–12 yrs,Medium Risk,Needs Improvement,Very High,Poor,N/A (Still Employed),Male,Divorced
+277,1,1,3,35,13,36,77,2,2012,12,2,4,,3.072,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,High Risk,Below Average,High,Poor,N/A (Still Employed),Female,Divorced
+278,4,5,3,39,7,32,32,1,2018,6,4,4,2.0,2.464,0,Band 1 – Low,6–10 yrs,36–45,Far (26–50 km),6–8 yrs,Medium Risk,Needs Improvement,High,Good,High Dissatisfaction,Female,Single
+279,2,2,1,48,5,1,45,4,2021,3,4,4,,1.652,0,Band 2 – Mid-Low,3–5 yrs,46–55,Near (≤10 km),3–5 yrs,Low Risk,Good,High,Good,N/A (Still Employed),Male,Married
+280,4,4,3,54,7,28,81,3,2021,3,3,3,5.0,2.456,1,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),3–5 yrs,Medium Risk,Average,Neutral,Fair,Low Dissatisfaction,Non-Binary / Other,Married
+281,1,2,3,23,10,44,197,3,2018,6,3,2,,2.938,0,Band 2 – Mid-Low,6–10 yrs,18–25,Far (26–50 km),6–8 yrs,Medium Risk,Average,Low,Fair,N/A (Still Employed),Male,Divorced
+282,1,2,3,22,14,33,181,2,2013,11,4,3,,2.816,0,Band 3 – Mid-High,11–20 yrs,18–25,Far (26–50 km),9–12 yrs,Medium Risk,Below Average,Neutral,Good,N/A (Still Employed),Female,Divorced
+283,2,4,1,52,16,47,39,1,2017,7,5,1,,3.194,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),6–8 yrs,High Risk,Needs Improvement,Very Low,Excellent,N/A (Still Employed),Female,Single
+284,3,3,1,30,6,9,100,2,2017,7,2,1,1.0,3.668,1,Band 1 – Low,6–10 yrs,26–35,Near (≤10 km),6–8 yrs,High Risk,Below Average,Very Low,Poor,High Dissatisfaction,Non-Binary / Other,Divorced
+285,4,5,3,33,20,31,30,1,2014,10,5,3,,2.712,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,Medium Risk,Needs Improvement,Neutral,Excellent,N/A (Still Employed),Female,Single
+286,6,6,3,60,19,32,200,3,2014,10,5,5,,1.714,0,Band 4 – High,11–20 yrs,55+,Far (26–50 km),9–12 yrs,Low Risk,Average,Very High,Excellent,N/A (Still Employed),Female,Divorced
+287,5,6,3,22,10,33,66,4,2020,4,4,3,,2.066,0,Band 3 – Mid-High,6–10 yrs,18–25,Far (26–50 km),3–5 yrs,Low Risk,Good,Neutral,Good,N/A (Still Employed),Female,Married
+288,3,6,3,36,19,44,196,1,2011,13,1,2,5.0,4.188,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),12+ yrs,High Risk,Needs Improvement,Low,Very Poor,Low Dissatisfaction,Female,Married
+289,6,6,3,38,7,44,29,3,2019,5,1,5,,2.488,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),3–5 yrs,Medium Risk,Average,Very High,Very Poor,N/A (Still Employed),Male,Married
+290,4,4,1,60,17,35,93,4,2017,7,3,5,,1.87,0,Band 4 – High,11–20 yrs,55+,Far (26–50 km),6–8 yrs,Low Risk,Good,Very High,Fair,N/A (Still Employed),Male,Divorced
+291,2,6,3,41,15,45,50,4,2015,9,3,1,,3.19,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,High Risk,Good,Very Low,Fair,N/A (Still Employed),Female,Divorced
+292,3,6,2,39,9,8,139,5,2020,4,1,1,,3.166,0,Band 3 – Mid-High,6–10 yrs,36–45,Near (≤10 km),3–5 yrs,High Risk,Outstanding,Very Low,Very Poor,N/A (Still Employed),Female,Single
+293,4,2,3,49,7,26,95,2,2014,10,2,4,,2.952,0,Band 1 – Low,6–10 yrs,46–55,Far (26–50 km),9–12 yrs,High Risk,Below Average,High,Poor,N/A (Still Employed),Female,Married
+294,6,2,3,46,1,1,80,3,2016,8,5,2,,2.452,0,Band 1 – Low,0–2 yrs,46–55,Near (≤10 km),6–8 yrs,Medium Risk,Average,Low,Excellent,N/A (Still Employed),Female,Single
+295,4,1,2,44,5,40,126,2,2016,8,1,2,4.0,3.73,0,Band 1 – Low,3–5 yrs,36–45,Far (26–50 km),6–8 yrs,High Risk,Below Average,Low,Very Poor,Low Dissatisfaction,Female,Divorced
+296,5,2,3,51,15,13,171,1,2021,3,4,4,,2.276,0,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),3–5 yrs,Low Risk,Needs Improvement,High,Good,N/A (Still Employed),Female,Single
+297,1,4,3,38,3,48,198,1,2022,2,5,2,,2.646,0,Band 1 – Low,3–5 yrs,36–45,Far (26–50 km),0–2 yrs,Medium Risk,Needs Improvement,Low,Excellent,N/A (Still Employed),Male,Divorced
+298,1,1,3,35,13,1,141,4,2011,13,1,2,,3.502,0,Band 3 – Mid-High,11–20 yrs,26–35,Near (≤10 km),12+ yrs,High Risk,Good,Low,Very Poor,N/A (Still Employed),Female,Married
+299,4,2,3,51,20,46,182,3,2017,7,3,4,,2.392,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),6–8 yrs,Medium Risk,Average,High,Fair,N/A (Still Employed),Female,Divorced
+300,6,4,3,41,8,28,28,3,2016,8,3,2,,3.006,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),6–8 yrs,High Risk,Average,Low,Fair,N/A (Still Employed),Male,Married
+301,1,5,3,55,17,45,190,2,2023,1,4,4,,2.04,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),0–2 yrs,Low Risk,Below Average,High,Good,N/A (Still Employed),Male,Single
+302,4,5,2,47,11,35,186,2,2016,8,4,4,,2.37,0,Band 2 – Mid-Low,11–20 yrs,46–55,Far (26–50 km),6–8 yrs,Medium Risk,Below Average,High,Good,N/A (Still Employed),Male,Single
+303,4,2,3,59,19,48,90,3,2012,12,1,5,,2.846,0,Band 4 – High,11–20 yrs,55+,Far (26–50 km),9–12 yrs,Medium Risk,Average,Very High,Very Poor,N/A (Still Employed),Male,Divorced
+304,5,5,3,28,16,23,19,4,2010,14,2,2,,3.346,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),12+ yrs,High Risk,Good,Low,Poor,N/A (Still Employed),Male,Divorced
+305,6,2,3,22,15,16,120,4,2014,10,3,2,,2.882,0,Band 4 – High,11–20 yrs,18–25,Medium (11–25 km),9–12 yrs,Medium Risk,Good,Low,Fair,N/A (Still Employed),Male,Single
+306,1,6,2,54,15,48,35,4,2017,7,1,3,,2.996,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),6–8 yrs,High Risk,Good,Neutral,Very Poor,N/A (Still Employed),Non-Binary / Other,Married
+307,6,1,2,45,19,43,190,5,2011,13,4,1,,2.936,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),12+ yrs,Medium Risk,Outstanding,Very Low,Good,N/A (Still Employed),Female,Married
+308,6,5,2,57,2,34,143,2,2019,5,1,2,2.0,3.568,1,Band 1 – Low,0–2 yrs,55+,Far (26–50 km),3–5 yrs,High Risk,Below Average,Low,Very Poor,High Dissatisfaction,Female,Divorced
+309,5,1,3,60,3,44,91,4,2016,8,2,3,,2.788,0,Band 1 – Low,3–5 yrs,55+,Far (26–50 km),6–8 yrs,Medium Risk,Good,Neutral,Poor,N/A (Still Employed),Male,Married
+310,6,1,3,60,10,39,58,3,2010,14,5,2,,2.828,0,Band 2 – Mid-Low,6–10 yrs,55+,Far (26–50 km),12+ yrs,Medium Risk,Average,Low,Excellent,N/A (Still Employed),Non-Binary / Other,Single
+311,1,1,3,40,15,3,152,5,2019,5,3,4,,1.806,0,Band 4 – High,11–20 yrs,36–45,Near (≤10 km),3–5 yrs,Low Risk,Outstanding,High,Fair,N/A (Still Employed),Female,Single
+312,1,3,3,41,12,39,179,4,2014,10,3,1,4.0,3.228,1,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,High Risk,Good,Very Low,Fair,Low Dissatisfaction,Female,Divorced
+313,3,4,3,28,10,29,170,1,2010,14,5,5,2.0,2.308,1,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),12+ yrs,Low Risk,Needs Improvement,Very High,Excellent,High Dissatisfaction,Female,Divorced
+314,2,6,3,52,13,11,19,5,2020,4,5,2,,1.872,0,Band 4 – High,11–20 yrs,46–55,Medium (11–25 km),3–5 yrs,Low Risk,Outstanding,Low,Excellent,N/A (Still Employed),Female,Married
+315,4,2,3,26,20,44,172,5,2020,4,5,2,,1.938,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),3–5 yrs,Low Risk,Outstanding,Low,Excellent,N/A (Still Employed),Female,Single
+316,2,6,2,43,6,49,170,2,2024,0,2,4,1.0,2.498,0,Band 1 – Low,6–10 yrs,36–45,Far (26–50 km),0–2 yrs,Medium Risk,Below Average,High,Poor,High Dissatisfaction,Female,Single
+317,5,1,3,39,14,34,12,1,2020,4,1,2,,3.718,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),3–5 yrs,High Risk,Needs Improvement,Low,Very Poor,N/A (Still Employed),Male,Married
+318,6,6,3,42,8,15,72,5,2019,5,3,3,,2.13,0,Band 3 – Mid-High,6–10 yrs,36–45,Medium (11–25 km),3–5 yrs,Low Risk,Outstanding,Neutral,Fair,N/A (Still Employed),Female,Divorced
+319,3,2,3,39,6,12,45,5,2017,7,5,3,,1.724,0,Band 2 – Mid-Low,6–10 yrs,36–45,Medium (11–25 km),6–8 yrs,Low Risk,Outstanding,Neutral,Excellent,N/A (Still Employed),Male,Divorced
+320,3,1,3,38,20,5,160,2,2010,14,4,1,,3.51,0,Band 4 – High,11–20 yrs,36–45,Near (≤10 km),12+ yrs,High Risk,Below Average,Very Low,Good,N/A (Still Employed),Female,Divorced
+321,5,4,1,41,14,24,106,3,2024,0,2,1,,3.148,0,Band 3 – Mid-High,11–20 yrs,36–45,Medium (11–25 km),0–2 yrs,High Risk,Average,Very Low,Poor,N/A (Still Employed),Female,Divorced
+322,4,6,2,34,15,9,66,3,2024,0,4,5,,1.418,0,Band 3 – Mid-High,11–20 yrs,26–35,Near (≤10 km),0–2 yrs,Low Risk,Average,Very High,Good,N/A (Still Employed),Male,Divorced
+323,4,5,3,31,13,33,182,1,2015,9,3,3,5.0,3.166,0,Band 2 – Mid-Low,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Neutral,Fair,Low Dissatisfaction,Male,Divorced
+324,2,2,1,55,6,23,60,2,2012,12,2,5,2.0,2.746,0,Band 1 – Low,6–10 yrs,46–55,Medium (11–25 km),9–12 yrs,Medium Risk,Below Average,Very High,Poor,High Dissatisfaction,Female,Divorced
+325,2,3,3,37,19,4,77,4,2017,7,3,1,4.0,3.008,1,Band 4 – High,11–20 yrs,36–45,Near (≤10 km),6–8 yrs,High Risk,Good,Very Low,Fair,Low Dissatisfaction,Female,Divorced
+326,1,2,3,25,4,28,130,2,2024,0,5,5,,1.406,0,Band 1 – Low,3–5 yrs,18–25,Far (26–50 km),0–2 yrs,Low Risk,Below Average,Very High,Excellent,N/A (Still Employed),Female,Married
+327,2,4,2,60,13,32,48,4,2021,3,1,4,,2.464,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),3–5 yrs,Medium Risk,Good,High,Very Poor,N/A (Still Employed),Male,Single
+328,2,6,1,47,2,25,134,3,2017,7,5,2,,2.45,0,Band 1 – Low,0–2 yrs,46–55,Medium (11–25 km),6–8 yrs,Medium Risk,Average,Low,Excellent,N/A (Still Employed),Female,Single
+329,6,1,1,42,8,11,57,1,2014,10,4,4,,2.622,0,Band 1 – Low,6–10 yrs,36–45,Medium (11–25 km),9–12 yrs,Medium Risk,Needs Improvement,High,Good,N/A (Still Employed),Male,Single
+330,5,6,3,30,6,24,197,4,2010,14,2,3,,3.048,0,Band 2 – Mid-Low,6–10 yrs,26–35,Medium (11–25 km),12+ yrs,High Risk,Good,Neutral,Poor,N/A (Still Employed),Male,Divorced
+331,3,2,3,23,9,8,137,3,2012,12,3,1,,3.466,0,Band 2 – Mid-Low,6–10 yrs,18–25,Near (≤10 km),9–12 yrs,High Risk,Average,Very Low,Fair,N/A (Still Employed),Female,Divorced
+332,2,4,1,53,18,22,82,5,2015,9,3,5,,1.744,0,Band 4 – High,11–20 yrs,46–55,Medium (11–25 km),9–12 yrs,Low Risk,Outstanding,Very High,Fair,N/A (Still Employed),Female,Divorced
+333,1,1,3,40,10,44,43,1,2018,6,1,5,,2.938,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),6–8 yrs,Medium Risk,Needs Improvement,Very High,Very Poor,N/A (Still Employed),Female,Divorced
+334,2,5,2,38,3,16,60,4,2023,1,4,4,,1.582,0,Band 1 – Low,3–5 yrs,36–45,Medium (11–25 km),0–2 yrs,Low Risk,Good,High,Good,N/A (Still Employed),Female,Married
+335,6,4,3,48,7,35,172,2,2023,1,2,2,,3.12,0,Band 1 – Low,6–10 yrs,46–55,Far (26–50 km),0–2 yrs,High Risk,Below Average,Low,Poor,N/A (Still Employed),Male,Divorced
+336,4,3,1,47,16,50,32,4,2018,6,1,1,,3.55,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),6–8 yrs,High Risk,Good,Very Low,Very Poor,N/A (Still Employed),Female,Single
+337,6,2,3,46,14,8,142,5,2013,11,4,3,,2.166,0,Band 4 – High,11–20 yrs,46–55,Near (≤10 km),9–12 yrs,Low Risk,Outstanding,Neutral,Good,N/A (Still Employed),Female,Divorced
+338,1,4,3,24,18,19,195,1,2015,9,2,3,,3.388,0,Band 3 – Mid-High,11–20 yrs,18–25,Medium (11–25 km),9–12 yrs,High Risk,Needs Improvement,Neutral,Poor,N/A (Still Employed),Male,Divorced
+339,4,1,1,59,4,20,64,1,2024,0,3,1,,3.29,0,Band 1 – Low,3–5 yrs,55+,Medium (11–25 km),0–2 yrs,High Risk,Needs Improvement,Very Low,Fair,N/A (Still Employed),Male,Married
+340,3,1,2,58,12,31,10,2,2021,3,3,4,,2.362,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),3–5 yrs,Medium Risk,Below Average,High,Fair,N/A (Still Employed),Male,Married
+341,1,3,2,34,3,19,121,2,2018,6,4,3,,2.538,0,Band 1 – Low,3–5 yrs,26–35,Medium (11–25 km),6–8 yrs,Medium Risk,Below Average,Neutral,Good,N/A (Still Employed),Male,Single
+342,1,2,3,43,4,17,27,4,2016,8,5,1,,2.584,0,Band 1 – Low,3–5 yrs,36–45,Medium (11–25 km),6–8 yrs,Medium Risk,Good,Very Low,Excellent,N/A (Still Employed),Female,Divorced
+343,5,1,3,36,17,14,135,5,2018,6,3,4,,1.878,0,Band 4 – High,11–20 yrs,36–45,Medium (11–25 km),6–8 yrs,Low Risk,Outstanding,High,Fair,N/A (Still Employed),Female,Divorced
+344,2,1,2,56,11,1,152,2,2011,13,1,4,,3.302,0,Band 2 – Mid-Low,11–20 yrs,55+,Near (≤10 km),12+ yrs,High Risk,Below Average,High,Very Poor,N/A (Still Employed),Male,Married
+345,1,1,1,52,14,48,166,5,2012,12,2,5,,2.196,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,Low Risk,Outstanding,Very High,Poor,N/A (Still Employed),Male,Single
+346,5,4,3,44,15,41,63,4,2020,4,2,2,,2.882,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),3–5 yrs,Medium Risk,Good,Low,Poor,N/A (Still Employed),Male,Single
+347,3,6,1,54,6,37,191,2,2012,12,1,4,,3.324,0,Band 1 – Low,6–10 yrs,46–55,Far (26–50 km),9–12 yrs,High Risk,Below Average,High,Very Poor,N/A (Still Employed),Female,Married
+348,3,4,2,41,9,26,55,3,2015,9,3,3,3.0,2.752,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),9–12 yrs,Medium Risk,Average,Neutral,Fair,Moderate Dissatisfaction,Male,Married
+349,5,2,1,32,7,14,19,2,2020,4,2,2,,3.228,0,Band 1 – Low,6–10 yrs,26–35,Medium (11–25 km),3–5 yrs,High Risk,Below Average,Low,Poor,N/A (Still Employed),Male,Divorced
+350,3,3,2,57,17,20,117,2,2021,3,1,5,,2.54,0,Band 4 – High,11–20 yrs,55+,Medium (11–25 km),3–5 yrs,Medium Risk,Below Average,Very High,Very Poor,N/A (Still Employed),Male,Single
+351,1,2,1,33,2,42,186,5,2019,5,5,1,,2.284,0,Band 1 – Low,0–2 yrs,26–35,Far (26–50 km),3–5 yrs,Low Risk,Outstanding,Very Low,Excellent,N/A (Still Employed),Non-Binary / Other,Single
+352,6,6,3,40,15,33,77,1,2015,9,3,1,,3.766,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Very Low,Fair,N/A (Still Employed),Male,Married
+353,1,3,1,28,1,3,167,3,2017,7,5,5,,1.506,0,Band 1 – Low,0–2 yrs,26–35,Near (≤10 km),6–8 yrs,Low Risk,Average,Very High,Excellent,N/A (Still Employed),Male,Married
+354,2,6,2,52,3,30,107,3,2021,3,4,5,,1.61,0,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),3–5 yrs,Low Risk,Average,Very High,Good,N/A (Still Employed),Female,Married
+355,3,5,1,30,15,40,171,1,2023,1,5,3,,2.28,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),0–2 yrs,Low Risk,Needs Improvement,Neutral,Excellent,N/A (Still Employed),Male,Single
+356,2,1,3,38,13,32,159,3,2022,2,4,2,,2.464,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),0–2 yrs,Medium Risk,Average,Low,Good,N/A (Still Employed),Male,Married
+357,5,3,3,57,11,4,70,3,2012,12,5,4,5.0,2.058,1,Band 3 – Mid-High,11–20 yrs,55+,Near (≤10 km),9–12 yrs,Low Risk,Average,High,Excellent,Low Dissatisfaction,Female,Single
+358,3,1,1,33,13,23,173,5,2014,10,3,4,,2.096,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),9–12 yrs,Low Risk,Outstanding,High,Fair,N/A (Still Employed),Female,Married
+359,2,6,2,43,7,1,99,1,2022,2,5,4,,1.952,0,Band 1 – Low,6–10 yrs,36–45,Near (≤10 km),0–2 yrs,Low Risk,Needs Improvement,High,Excellent,N/A (Still Employed),Male,Single
+360,4,3,3,27,13,40,133,4,2022,2,4,1,,2.58,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),0–2 yrs,Medium Risk,Good,Very Low,Good,N/A (Still Employed),Female,Married
+361,4,5,3,36,2,30,145,4,2020,4,4,1,,2.66,0,Band 1 – Low,0–2 yrs,36–45,Far (26–50 km),3–5 yrs,Medium Risk,Good,Very Low,Good,N/A (Still Employed),Female,Single
+362,3,3,1,44,1,22,178,4,2014,10,5,3,,2.094,0,Band 1 – Low,0–2 yrs,36–45,Medium (11–25 km),9–12 yrs,Low Risk,Good,Neutral,Excellent,N/A (Still Employed),Female,Divorced
+363,2,2,3,36,9,20,56,4,2024,0,1,3,,2.59,0,Band 3 – Mid-High,6–10 yrs,36–45,Medium (11–25 km),0–2 yrs,Medium Risk,Good,Neutral,Very Poor,N/A (Still Employed),Female,Divorced
+364,1,4,1,41,4,23,86,3,2016,8,3,3,4.0,2.696,0,Band 1 – Low,3–5 yrs,36–45,Medium (11–25 km),6–8 yrs,Medium Risk,Average,Neutral,Fair,Low Dissatisfaction,Female,Single
+365,5,1,1,48,5,7,69,3,2011,13,3,5,,2.314,0,Band 1 – Low,3–5 yrs,46–55,Near (≤10 km),12+ yrs,Low Risk,Average,Very High,Fair,N/A (Still Employed),Male,Divorced
+366,6,4,3,43,11,1,84,5,2024,0,3,3,,1.852,0,Band 3 – Mid-High,11–20 yrs,36–45,Near (≤10 km),0–2 yrs,Low Risk,Outstanding,Neutral,Fair,N/A (Still Employed),Female,Divorced
+367,1,3,3,45,15,23,181,4,2023,1,3,4,,1.846,0,Band 4 – High,11–20 yrs,36–45,Medium (11–25 km),0–2 yrs,Low Risk,Good,High,Fair,N/A (Still Employed),Male,Divorced
+368,1,2,3,38,16,47,134,5,2020,4,4,3,,1.894,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),3–5 yrs,Low Risk,Outstanding,Neutral,Good,N/A (Still Employed),Female,Single
+369,6,3,1,59,15,12,135,3,2017,7,2,3,,2.874,0,Band 3 – Mid-High,11–20 yrs,55+,Medium (11–25 km),6–8 yrs,Medium Risk,Average,Neutral,Poor,N/A (Still Employed),Female,Single
+370,6,5,1,40,3,26,171,1,2016,8,4,1,,3.452,0,Band 1 – Low,3–5 yrs,36–45,Far (26–50 km),6–8 yrs,High Risk,Needs Improvement,Very Low,Good,N/A (Still Employed),Female,Divorced
+371,2,5,3,51,3,23,110,2,2017,7,4,1,,3.196,0,Band 1 – Low,3–5 yrs,46–55,Medium (11–25 km),6–8 yrs,High Risk,Below Average,Very Low,Good,N/A (Still Employed),Female,Single
+372,6,5,3,29,18,1,163,4,2019,5,2,1,2.0,3.152,1,Band 4 – High,11–20 yrs,26–35,Near (≤10 km),3–5 yrs,High Risk,Good,Very Low,Poor,High Dissatisfaction,Male,Divorced
+373,4,3,3,52,8,7,101,4,2020,4,5,4,,1.464,0,Band 2 – Mid-Low,6–10 yrs,46–55,Near (≤10 km),3–5 yrs,Low Risk,Good,High,Excellent,N/A (Still Employed),Female,Single
+374,6,6,2,25,15,28,149,3,2012,12,2,2,,3.456,0,Band 3 – Mid-High,11–20 yrs,18–25,Far (26–50 km),9–12 yrs,High Risk,Average,Low,Poor,N/A (Still Employed),Male,Single
+375,5,5,3,59,5,32,133,2,2019,5,4,5,,1.914,0,Band 1 – Low,3–5 yrs,55+,Far (26–50 km),3–5 yrs,Low Risk,Below Average,Very High,Good,N/A (Still Employed),Non-Binary / Other,Divorced
+376,1,6,2,59,16,13,85,5,2021,3,3,4,,1.726,0,Band 4 – High,11–20 yrs,55+,Medium (11–25 km),3–5 yrs,Low Risk,Outstanding,High,Fair,N/A (Still Employed),Male,Single
+377,5,6,3,26,9,6,34,5,2024,0,4,2,,1.912,0,Band 3 – Mid-High,6–10 yrs,26–35,Near (≤10 km),0–2 yrs,Low Risk,Outstanding,Low,Good,N/A (Still Employed),Female,Divorced
+378,5,3,1,52,6,34,66,2,2018,6,1,5,,2.718,0,Band 1 – Low,6–10 yrs,46–55,Far (26–50 km),6–8 yrs,Medium Risk,Below Average,Very High,Very Poor,N/A (Still Employed),Male,Single
+379,5,3,3,34,6,33,38,5,2022,2,5,4,,1.216,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),0–2 yrs,Low Risk,Outstanding,High,Excellent,N/A (Still Employed),Non-Binary / Other,Married
+380,3,2,3,54,1,10,83,4,2020,4,1,3,,2.77,0,Band 1 – Low,0–2 yrs,46–55,Near (≤10 km),3–5 yrs,Medium Risk,Good,Neutral,Very Poor,N/A (Still Employed),Female,Married
+381,4,6,1,29,20,27,117,4,2018,6,4,1,,2.754,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),6–8 yrs,Medium Risk,Good,Very Low,Good,N/A (Still Employed),Female,Divorced
+382,6,1,1,46,4,8,124,3,2014,10,5,4,,1.966,0,Band 1 – Low,3–5 yrs,46–55,Near (≤10 km),9–12 yrs,Low Risk,Average,High,Excellent,N/A (Still Employed),Male,Married
+383,5,4,2,55,6,32,93,4,2012,12,3,5,3.0,2.114,1,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),9–12 yrs,Low Risk,Good,Very High,Fair,Moderate Dissatisfaction,Non-Binary / Other,Single
+384,6,6,2,41,10,1,73,3,2021,3,1,5,,2.302,0,Band 2 – Mid-Low,6–10 yrs,36–45,Near (≤10 km),3–5 yrs,Low Risk,Average,Very High,Very Poor,N/A (Still Employed),Female,Divorced
+385,3,1,1,48,4,10,179,5,2015,9,2,5,,1.97,0,Band 2 – Mid-Low,3–5 yrs,46–55,Near (≤10 km),9–12 yrs,Low Risk,Outstanding,Very High,Poor,N/A (Still Employed),Female,Single
+386,2,4,2,25,18,50,118,1,2019,5,5,4,,2.2,0,Band 3 – Mid-High,11–20 yrs,18–25,Far (26–50 km),3–5 yrs,Low Risk,Needs Improvement,High,Excellent,N/A (Still Employed),Female,Married
+387,1,4,1,31,13,43,39,1,2019,5,3,5,,2.386,0,Band 2 – Mid-Low,11–20 yrs,26–35,Far (26–50 km),3–5 yrs,Medium Risk,Needs Improvement,Very High,Fair,N/A (Still Employed),Male,Divorced
+388,3,3,1,30,6,17,55,1,2015,9,3,5,,2.534,0,Band 1 – Low,6–10 yrs,26–35,Medium (11–25 km),9–12 yrs,Medium Risk,Needs Improvement,Very High,Fair,N/A (Still Employed),Female,Divorced
+389,2,5,1,34,3,15,128,1,2019,5,3,4,,2.63,0,Band 1 – Low,3–5 yrs,26–35,Medium (11–25 km),3–5 yrs,Medium Risk,Needs Improvement,High,Fair,N/A (Still Employed),Male,Divorced
+390,1,5,2,43,1,31,91,1,2019,5,3,1,,3.562,0,Band 1 – Low,0–2 yrs,36–45,Far (26–50 km),3–5 yrs,High Risk,Needs Improvement,Very Low,Fair,N/A (Still Employed),Male,Married
+391,5,5,3,48,9,26,179,5,2023,1,4,5,,1.102,0,Band 3 – Mid-High,6–10 yrs,46–55,Far (26–50 km),0–2 yrs,Low Risk,Outstanding,Very High,Good,N/A (Still Employed),Female,Divorced
+392,6,1,1,58,5,24,39,4,2016,8,4,1,3.0,2.848,0,Band 2 – Mid-Low,3–5 yrs,55+,Medium (11–25 km),6–8 yrs,Medium Risk,Good,Very Low,Good,Moderate Dissatisfaction,Male,Married
+393,2,5,3,51,15,20,98,1,2011,13,1,5,,3.24,0,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),12+ yrs,High Risk,Needs Improvement,Very High,Very Poor,N/A (Still Employed),Male,Single
+394,3,6,3,31,12,24,188,4,2010,14,2,1,,3.648,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),12+ yrs,High Risk,Good,Very Low,Poor,N/A (Still Employed),Male,Single
+395,4,2,2,42,6,28,111,5,2010,14,5,5,,1.506,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),12+ yrs,Low Risk,Outstanding,Very High,Excellent,N/A (Still Employed),Female,Married
+396,5,3,1,33,7,12,190,5,2023,1,5,1,,2.024,0,Band 3 – Mid-High,6–10 yrs,26–35,Medium (11–25 km),0–2 yrs,Low Risk,Outstanding,Very Low,Excellent,N/A (Still Employed),Male,Divorced
+397,3,5,1,27,2,35,42,1,2021,3,2,1,,3.72,0,Band 1 – Low,0–2 yrs,26–35,Far (26–50 km),3–5 yrs,High Risk,Needs Improvement,Very Low,Poor,N/A (Still Employed),Male,Married
+398,3,6,3,53,18,18,133,4,2012,12,5,2,,2.486,0,Band 4 – High,11–20 yrs,46–55,Medium (11–25 km),9–12 yrs,Medium Risk,Good,Low,Excellent,N/A (Still Employed),Female,Divorced
+399,4,6,3,43,7,7,135,5,2013,11,3,3,,2.414,0,Band 3 – Mid-High,6–10 yrs,36–45,Near (≤10 km),9–12 yrs,Medium Risk,Outstanding,Neutral,Fair,N/A (Still Employed),Female,Single
+400,5,5,3,33,15,29,163,5,2011,13,5,5,5.0,1.458,1,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),12+ yrs,Low Risk,Outstanding,Very High,Excellent,Low Dissatisfaction,Male,Married
+401,2,5,3,42,2,43,115,1,2020,4,4,5,,2.086,0,Band 1 – Low,0–2 yrs,36–45,Far (26–50 km),3–5 yrs,Low Risk,Needs Improvement,Very High,Good,N/A (Still Employed),Male,Divorced
+402,5,1,3,25,17,29,185,3,2011,13,4,4,,2.408,0,Band 4 – High,11–20 yrs,18–25,Far (26–50 km),12+ yrs,Medium Risk,Average,High,Good,N/A (Still Employed),Female,Single
+403,5,3,3,22,4,11,70,4,2017,7,1,4,,2.622,0,Band 1 – Low,3–5 yrs,18–25,Medium (11–25 km),6–8 yrs,Medium Risk,Good,High,Very Poor,N/A (Still Employed),Male,Married
+404,2,2,1,50,13,9,17,2,2024,0,3,1,,3.068,0,Band 3 – Mid-High,11–20 yrs,46–55,Near (≤10 km),0–2 yrs,High Risk,Below Average,Very Low,Fair,N/A (Still Employed),Male,Married
+405,3,5,3,39,10,23,84,2,2020,4,5,3,,2.196,0,Band 2 – Mid-Low,6–10 yrs,36–45,Medium (11–25 km),3–5 yrs,Low Risk,Below Average,Neutral,Excellent,N/A (Still Employed),Female,Single
+406,3,4,3,35,15,48,78,4,2017,7,4,4,5.0,1.946,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),6–8 yrs,Low Risk,Good,High,Good,Low Dissatisfaction,Female,Divorced
+407,2,1,1,32,2,28,139,5,2015,9,2,4,,2.306,0,Band 1 – Low,0–2 yrs,26–35,Far (26–50 km),9–12 yrs,Low Risk,Outstanding,High,Poor,N/A (Still Employed),Female,Single
+408,5,5,2,58,20,1,65,4,2022,2,4,5,,1.302,0,Band 4 – High,11–20 yrs,55+,Near (≤10 km),0–2 yrs,Low Risk,Good,Very High,Good,N/A (Still Employed),Female,Married
+409,4,5,3,32,1,23,114,1,2013,11,5,5,3.0,2.146,0,Band 1 – Low,0–2 yrs,26–35,Medium (11–25 km),9–12 yrs,Low Risk,Needs Improvement,Very High,Excellent,Moderate Dissatisfaction,Non-Binary / Other,Divorced
+410,1,6,2,53,2,46,25,2,2022,2,2,1,,3.492,0,Band 1 – Low,0–2 yrs,46–55,Far (26–50 km),0–2 yrs,High Risk,Below Average,Very Low,Poor,N/A (Still Employed),Male,Married
+411,4,1,3,27,13,13,153,4,2022,2,4,4,,1.626,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),0–2 yrs,Low Risk,Good,High,Good,N/A (Still Employed),Female,Married
+412,6,2,3,30,7,8,92,1,2024,0,5,4,,1.866,0,Band 1 – Low,6–10 yrs,26–35,Near (≤10 km),0–2 yrs,Low Risk,Needs Improvement,High,Excellent,N/A (Still Employed),Female,Single
+413,5,6,1,49,8,13,76,3,2021,3,1,1,4.0,3.526,0,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),3–5 yrs,High Risk,Average,Very Low,Very Poor,Low Dissatisfaction,Female,Single
+414,3,4,1,49,12,19,182,4,2022,2,1,2,,2.988,0,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),0–2 yrs,High Risk,Good,Low,Very Poor,N/A (Still Employed),Female,Single
+415,2,4,3,47,8,3,91,4,2013,11,4,5,,1.756,0,Band 2 – Mid-Low,6–10 yrs,46–55,Near (≤10 km),9–12 yrs,Low Risk,Good,Very High,Good,N/A (Still Employed),Male,Single
+416,4,2,2,49,7,9,115,4,2011,13,2,2,,3.268,0,Band 2 – Mid-Low,6–10 yrs,46–55,Near (≤10 km),12+ yrs,High Risk,Good,Low,Poor,N/A (Still Employed),Female,Single
+417,6,6,1,52,3,26,110,1,2024,0,2,1,,3.552,0,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),0–2 yrs,High Risk,Needs Improvement,Very Low,Poor,N/A (Still Employed),Male,Single
+418,6,1,1,46,1,27,123,3,2024,0,1,3,,2.804,0,Band 1 – Low,0–2 yrs,46–55,Far (26–50 km),0–2 yrs,Medium Risk,Average,Neutral,Very Poor,N/A (Still Employed),Male,Married
+419,3,5,2,22,14,48,118,2,2012,12,5,1,,3.246,0,Band 3 – Mid-High,11–20 yrs,18–25,Far (26–50 km),9–12 yrs,High Risk,Below Average,Very Low,Excellent,N/A (Still Employed),Female,Married
+420,1,2,2,24,1,22,112,5,2021,3,3,3,,2.044,0,Band 1 – Low,0–2 yrs,18–25,Medium (11–25 km),3–5 yrs,Low Risk,Outstanding,Neutral,Fair,N/A (Still Employed),Female,Married
+421,1,6,3,56,1,3,76,3,2024,0,2,4,,2.206,0,Band 1 – Low,0–2 yrs,55+,Near (≤10 km),0–2 yrs,Low Risk,Average,High,Poor,N/A (Still Employed),Male,Divorced
+422,6,1,3,34,11,11,23,3,2016,8,2,1,,3.522,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),6–8 yrs,High Risk,Average,Very Low,Poor,N/A (Still Employed),Female,Single
+423,4,1,1,45,7,43,78,3,2022,2,4,4,,1.886,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),0–2 yrs,Low Risk,Average,High,Good,N/A (Still Employed),Female,Married
+424,6,1,3,22,3,13,134,3,2016,8,5,3,1.0,2.176,0,Band 1 – Low,3–5 yrs,18–25,Medium (11–25 km),6–8 yrs,Low Risk,Average,Neutral,Excellent,High Dissatisfaction,Male,Single
+425,5,1,1,42,8,31,196,4,2024,0,4,3,4.0,1.862,1,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),0–2 yrs,Low Risk,Good,Neutral,Good,Low Dissatisfaction,Female,Single
+426,3,4,1,55,4,43,66,2,2011,13,3,3,,3.186,0,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),12+ yrs,High Risk,Below Average,Neutral,Fair,N/A (Still Employed),Male,Married
+427,3,1,2,34,6,18,96,1,2010,14,2,3,2.0,3.636,0,Band 1 – Low,6–10 yrs,26–35,Medium (11–25 km),12+ yrs,High Risk,Needs Improvement,Neutral,Poor,High Dissatisfaction,Female,Married
+428,1,6,1,23,6,8,172,4,2019,5,4,2,,2.366,0,Band 2 – Mid-Low,6–10 yrs,18–25,Near (≤10 km),3–5 yrs,Medium Risk,Good,Low,Good,N/A (Still Employed),Female,Divorced
+429,6,2,1,22,2,27,21,1,2014,10,5,3,,2.704,0,Band 1 – Low,0–2 yrs,18–25,Far (26–50 km),9–12 yrs,Medium Risk,Needs Improvement,Neutral,Excellent,N/A (Still Employed),Male,Single
+430,2,5,1,37,14,32,88,1,2011,13,3,4,,3.064,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),12+ yrs,High Risk,Needs Improvement,High,Fair,N/A (Still Employed),Female,Married
+431,2,5,3,36,17,36,124,1,2010,14,3,1,,4.022,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),12+ yrs,High Risk,Needs Improvement,Very Low,Fair,N/A (Still Employed),Male,Married
+432,4,6,3,44,4,32,114,2,2023,1,3,3,3.0,2.564,1,Band 1 – Low,3–5 yrs,36–45,Far (26–50 km),0–2 yrs,Medium Risk,Below Average,Neutral,Fair,Moderate Dissatisfaction,Male,Divorced
+433,4,6,3,41,11,44,66,3,2021,3,1,4,,2.688,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),3–5 yrs,Medium Risk,Average,High,Very Poor,N/A (Still Employed),Female,Single
+434,5,3,2,30,11,46,156,5,2011,13,3,3,,2.592,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),12+ yrs,Medium Risk,Outstanding,Neutral,Fair,N/A (Still Employed),Male,Married
+435,1,6,3,28,18,9,52,5,2017,7,5,2,,2.018,0,Band 4 – High,11–20 yrs,26–35,Near (≤10 km),6–8 yrs,Low Risk,Outstanding,Low,Excellent,N/A (Still Employed),Male,Married
+436,3,6,1,46,7,21,147,3,2022,2,5,2,,2.192,0,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),0–2 yrs,Low Risk,Average,Low,Excellent,N/A (Still Employed),Female,Single
+437,2,2,1,54,20,49,62,3,2015,9,5,5,,1.698,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,Low Risk,Average,Very High,Excellent,N/A (Still Employed),Female,Single
+438,5,3,3,59,7,49,170,2,2019,5,4,5,,1.948,0,Band 1 – Low,6–10 yrs,55+,Far (26–50 km),3–5 yrs,Low Risk,Below Average,Very High,Good,N/A (Still Employed),Male,Divorced
+439,2,2,2,41,18,50,38,5,2020,4,2,3,5.0,2.4,1,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),3–5 yrs,Medium Risk,Outstanding,Neutral,Poor,Low Dissatisfaction,Non-Binary / Other,Single
+440,2,1,1,32,13,26,167,4,2023,1,4,4,,1.602,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),0–2 yrs,Low Risk,Good,High,Good,N/A (Still Employed),Non-Binary / Other,Divorced
+441,5,6,1,26,14,33,166,2,2010,14,4,3,,2.966,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),12+ yrs,High Risk,Below Average,Neutral,Good,N/A (Still Employed),Male,Single
+442,2,6,3,24,4,47,94,5,2024,0,4,2,,1.994,0,Band 2 – Mid-Low,3–5 yrs,18–25,Far (26–50 km),0–2 yrs,Low Risk,Outstanding,Low,Good,N/A (Still Employed),Male,Single
+443,1,3,1,41,8,48,43,4,2012,12,3,4,,2.446,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),9–12 yrs,Medium Risk,Good,High,Fair,N/A (Still Employed),Male,Single
+444,6,1,1,40,7,25,164,2,2015,9,4,1,,3.3,0,Band 1 – Low,6–10 yrs,36–45,Medium (11–25 km),9–12 yrs,High Risk,Below Average,Very Low,Good,N/A (Still Employed),Female,Single
+445,2,2,1,51,4,9,148,5,2011,13,2,3,,2.768,0,Band 2 – Mid-Low,3–5 yrs,46–55,Near (≤10 km),12+ yrs,Medium Risk,Outstanding,Neutral,Poor,N/A (Still Employed),Non-Binary / Other,Divorced
+446,3,4,3,55,12,8,15,4,2021,3,2,3,,2.466,0,Band 3 – Mid-High,11–20 yrs,46–55,Near (≤10 km),3–5 yrs,Medium Risk,Good,Neutral,Poor,N/A (Still Employed),Female,Divorced
+447,5,6,3,60,11,7,194,1,2017,7,4,5,,2.164,0,Band 2 – Mid-Low,11–20 yrs,55+,Near (≤10 km),6–8 yrs,Low Risk,Needs Improvement,Very High,Good,N/A (Still Employed),Female,Married
+448,2,4,1,55,6,2,15,5,2016,8,3,5,,1.654,0,Band 2 – Mid-Low,6–10 yrs,46–55,Near (≤10 km),6–8 yrs,Low Risk,Outstanding,Very High,Fair,N/A (Still Employed),Female,Married
+449,4,4,2,43,1,9,107,4,2012,12,1,2,,3.468,0,Band 1 – Low,0–2 yrs,36–45,Near (≤10 km),9–12 yrs,High Risk,Good,Low,Very Poor,N/A (Still Employed),Non-Binary / Other,Divorced
+450,3,4,1,49,13,10,33,2,2020,4,5,3,,2.17,0,Band 3 – Mid-High,11–20 yrs,46–55,Near (≤10 km),3–5 yrs,Low Risk,Below Average,Neutral,Excellent,N/A (Still Employed),Female,Divorced
+451,6,5,1,30,11,23,190,4,2019,5,3,3,2.0,2.346,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),3–5 yrs,Medium Risk,Good,Neutral,Fair,High Dissatisfaction,Male,Single
+452,2,4,2,43,1,33,95,2,2018,6,4,1,,3.166,0,Band 1 – Low,0–2 yrs,36–45,Far (26–50 km),6–8 yrs,High Risk,Below Average,Very Low,Good,N/A (Still Employed),Male,Single
+453,1,2,2,53,13,1,100,4,2013,11,2,1,,3.452,0,Band 3 – Mid-High,11–20 yrs,46–55,Near (≤10 km),9–12 yrs,High Risk,Good,Very Low,Poor,N/A (Still Employed),Female,Divorced
+454,1,4,2,44,7,50,151,3,2013,11,1,4,,3.1,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),9–12 yrs,High Risk,Average,High,Very Poor,N/A (Still Employed),Male,Single
+455,2,6,3,34,15,44,26,5,2014,10,4,3,,2.188,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,Low Risk,Outstanding,Neutral,Good,N/A (Still Employed),Male,Married
+456,4,5,3,32,8,16,177,2,2017,7,5,5,,1.732,0,Band 2 – Mid-Low,6–10 yrs,26–35,Medium (11–25 km),6–8 yrs,Low Risk,Below Average,Very High,Excellent,N/A (Still Employed),Non-Binary / Other,Divorced
+457,5,1,3,47,3,4,22,4,2017,7,4,4,,1.858,0,Band 1 – Low,3–5 yrs,46–55,Near (≤10 km),6–8 yrs,Low Risk,Good,High,Good,N/A (Still Employed),Female,Single
+458,1,3,3,23,9,44,142,2,2020,4,4,2,,2.788,0,Band 2 – Mid-Low,6–10 yrs,18–25,Far (26–50 km),3–5 yrs,Medium Risk,Below Average,Low,Good,N/A (Still Employed),Male,Married
+459,3,6,2,36,20,22,63,1,2014,10,4,4,,2.644,0,Band 4 – High,11–20 yrs,36–45,Medium (11–25 km),9–12 yrs,Medium Risk,Needs Improvement,High,Good,N/A (Still Employed),Female,Divorced
+460,5,1,2,36,12,28,102,2,2013,11,2,2,,3.606,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,High Risk,Below Average,Low,Poor,N/A (Still Employed),Female,Divorced
+461,4,1,3,30,2,39,147,5,2013,11,1,3,,2.978,0,Band 1 – Low,0–2 yrs,26–35,Far (26–50 km),9–12 yrs,High Risk,Outstanding,Neutral,Very Poor,N/A (Still Employed),Male,Divorced
+462,6,3,2,35,3,48,60,1,2021,3,5,4,,2.096,0,Band 1 – Low,3–5 yrs,26–35,Far (26–50 km),3–5 yrs,Low Risk,Needs Improvement,High,Excellent,N/A (Still Employed),Non-Binary / Other,Single
+463,5,4,1,23,7,1,50,5,2012,12,2,3,,2.702,0,Band 3 – Mid-High,6–10 yrs,18–25,Near (≤10 km),9–12 yrs,Medium Risk,Outstanding,Neutral,Poor,N/A (Still Employed),Male,Single
+464,6,4,3,59,14,28,147,4,2016,8,2,3,,2.756,0,Band 4 – High,11–20 yrs,55+,Far (26–50 km),6–8 yrs,Medium Risk,Good,Neutral,Poor,N/A (Still Employed),Male,Married
+465,5,2,1,54,10,31,111,3,2023,1,5,4,,1.562,0,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),0–2 yrs,Low Risk,Average,High,Excellent,N/A (Still Employed),Female,Single
+466,5,4,2,32,20,19,193,5,2018,6,5,3,,1.688,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),6–8 yrs,Low Risk,Outstanding,Neutral,Excellent,N/A (Still Employed),Male,Single
+467,1,4,2,29,16,19,68,2,2022,2,5,2,3.0,2.388,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),0–2 yrs,Medium Risk,Below Average,Low,Excellent,Moderate Dissatisfaction,Non-Binary / Other,Divorced
+468,4,2,1,45,4,32,84,3,2022,2,1,2,,3.214,0,Band 1 – Low,3–5 yrs,36–45,Far (26–50 km),0–2 yrs,High Risk,Average,Low,Very Poor,N/A (Still Employed),Female,Married
+469,1,6,2,24,18,6,51,2,2013,11,5,3,,2.512,0,Band 4 – High,11–20 yrs,18–25,Near (≤10 km),9–12 yrs,Medium Risk,Below Average,Neutral,Excellent,N/A (Still Employed),Female,Divorced
+470,6,3,3,46,19,49,105,1,2011,13,5,1,4.0,3.498,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),12+ yrs,High Risk,Needs Improvement,Very Low,Excellent,Low Dissatisfaction,Male,Single
+471,1,2,3,38,6,28,94,1,2019,5,4,1,,3.306,0,Band 1 – Low,6–10 yrs,36–45,Far (26–50 km),3–5 yrs,High Risk,Needs Improvement,Very Low,Good,N/A (Still Employed),Female,Divorced
+472,4,6,3,56,9,16,115,1,2010,14,1,2,,4.182,0,Band 2 – Mid-Low,6–10 yrs,55+,Medium (11–25 km),12+ yrs,High Risk,Needs Improvement,Low,Very Poor,N/A (Still Employed),Female,Single
+473,2,4,3,25,4,40,65,4,2020,4,3,5,,1.73,0,Band 1 – Low,3–5 yrs,18–25,Far (26–50 km),3–5 yrs,Low Risk,Good,Very High,Fair,N/A (Still Employed),Non-Binary / Other,Divorced
+474,6,6,2,60,20,10,151,1,2020,4,5,3,2.0,2.37,1,Band 4 – High,11–20 yrs,55+,Near (≤10 km),3–5 yrs,Medium Risk,Needs Improvement,Neutral,Excellent,High Dissatisfaction,Male,Married
+475,2,4,3,25,11,47,197,5,2011,13,2,5,,2.244,0,Band 3 – Mid-High,11–20 yrs,18–25,Far (26–50 km),12+ yrs,Low Risk,Outstanding,Very High,Poor,N/A (Still Employed),Male,Married
+476,4,4,3,28,13,33,73,2,2013,11,2,5,,2.716,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,Medium Risk,Below Average,Very High,Poor,N/A (Still Employed),Male,Divorced
+477,6,2,2,23,5,12,13,1,2010,14,5,3,,2.874,0,Band 1 – Low,3–5 yrs,18–25,Medium (11–25 km),12+ yrs,Medium Risk,Needs Improvement,Neutral,Excellent,N/A (Still Employed),Non-Binary / Other,Married
+478,1,3,3,25,11,16,19,5,2022,2,4,5,,1.132,0,Band 3 – Mid-High,11–20 yrs,18–25,Medium (11–25 km),0–2 yrs,Low Risk,Outstanding,Very High,Good,N/A (Still Employed),Female,Divorced
+479,1,5,2,29,6,18,15,5,2012,12,1,5,,2.386,0,Band 2 – Mid-Low,6–10 yrs,26–35,Medium (11–25 km),9–12 yrs,Medium Risk,Outstanding,Very High,Very Poor,N/A (Still Employed),Female,Divorced
+480,5,6,3,48,11,50,144,1,2024,0,3,2,,3.05,0,Band 2 – Mid-Low,11–20 yrs,46–55,Far (26–50 km),0–2 yrs,High Risk,Needs Improvement,Low,Fair,N/A (Still Employed),Male,Divorced
+481,1,6,3,50,16,8,36,5,2010,14,1,4,5.0,2.766,1,Band 4 – High,11–20 yrs,46–55,Near (≤10 km),12+ yrs,Medium Risk,Outstanding,High,Very Poor,Low Dissatisfaction,Male,Single
+482,6,2,2,46,3,17,138,4,2015,9,5,5,,1.434,0,Band 1 – Low,3–5 yrs,46–55,Medium (11–25 km),9–12 yrs,Low Risk,Good,Very High,Excellent,N/A (Still Employed),Male,Divorced
+483,6,3,3,29,11,45,111,1,2022,2,4,1,,3.19,0,Band 2 – Mid-Low,11–20 yrs,26–35,Far (26–50 km),0–2 yrs,High Risk,Needs Improvement,Very Low,Good,N/A (Still Employed),Male,Divorced
+484,5,4,1,57,1,16,134,2,2016,8,5,2,,2.682,0,Band 1 – Low,0–2 yrs,55+,Medium (11–25 km),6–8 yrs,Medium Risk,Below Average,Low,Excellent,N/A (Still Employed),Female,Married
+485,1,6,1,38,20,43,20,4,2019,5,5,1,,2.486,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),3–5 yrs,Medium Risk,Good,Very Low,Excellent,N/A (Still Employed),Female,Divorced
+486,1,3,1,52,19,28,50,3,2018,6,2,1,,3.456,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),6–8 yrs,High Risk,Average,Very Low,Poor,N/A (Still Employed),Female,Divorced
+487,2,1,2,31,15,13,82,2,2023,1,2,5,,2.176,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),0–2 yrs,Low Risk,Below Average,Very High,Poor,N/A (Still Employed),Non-Binary / Other,Married
+488,5,1,3,35,13,31,87,2,2011,13,4,4,,2.612,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),12+ yrs,Medium Risk,Below Average,High,Good,N/A (Still Employed),Male,Married
+489,5,5,1,22,17,46,16,2,2015,9,3,3,,2.992,0,Band 4 – High,11–20 yrs,18–25,Far (26–50 km),9–12 yrs,High Risk,Below Average,Neutral,Fair,N/A (Still Employed),Female,Divorced
+490,6,6,3,41,8,7,68,3,2012,12,2,2,,3.414,0,Band 2 – Mid-Low,6–10 yrs,36–45,Near (≤10 km),9–12 yrs,High Risk,Average,Low,Poor,N/A (Still Employed),Male,Divorced
+491,1,4,2,48,17,45,171,2,2020,4,2,3,,2.99,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),3–5 yrs,High Risk,Below Average,Neutral,Poor,N/A (Still Employed),Male,Divorced
+492,4,6,1,28,19,47,186,5,2021,3,4,5,,1.244,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),3–5 yrs,Low Risk,Outstanding,Very High,Good,N/A (Still Employed),Female,Married
+493,1,5,1,55,1,33,73,2,2024,0,2,3,,2.766,0,Band 1 – Low,0–2 yrs,46–55,Far (26–50 km),0–2 yrs,Medium Risk,Below Average,Neutral,Poor,N/A (Still Employed),Female,Divorced
+494,5,1,2,39,8,40,18,4,2021,3,3,4,,1.98,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),3–5 yrs,Low Risk,Good,High,Fair,N/A (Still Employed),Female,Divorced
+495,6,5,3,60,1,12,79,3,2020,4,2,2,,3.024,0,Band 1 – Low,0–2 yrs,55+,Medium (11–25 km),3–5 yrs,High Risk,Average,Low,Poor,N/A (Still Employed),Male,Married
+496,1,6,1,30,20,13,41,1,2018,6,3,4,,2.676,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),6–8 yrs,Medium Risk,Needs Improvement,High,Fair,N/A (Still Employed),Female,Single
+497,2,6,3,48,4,38,106,3,2017,7,1,1,2.0,3.776,1,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),6–8 yrs,High Risk,Average,Very Low,Very Poor,High Dissatisfaction,Female,Divorced
+498,3,1,3,28,10,41,177,1,2013,11,1,3,,3.782,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Neutral,Very Poor,N/A (Still Employed),Male,Married
+499,6,1,2,54,8,41,112,2,2023,1,2,5,,2.232,0,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),0–2 yrs,Low Risk,Below Average,Very High,Poor,N/A (Still Employed),Male,Married
+500,6,3,1,29,14,10,43,1,2013,11,5,5,,2.12,0,Band 3 – Mid-High,11–20 yrs,26–35,Near (≤10 km),9–12 yrs,Low Risk,Needs Improvement,Very High,Excellent,N/A (Still Employed),Female,Divorced
+501,5,4,2,40,8,15,199,5,2019,5,4,1,,2.48,0,Band 3 – Mid-High,6–10 yrs,36–45,Medium (11–25 km),3–5 yrs,Medium Risk,Outstanding,Very Low,Good,N/A (Still Employed),Male,Divorced
+502,3,1,3,29,20,8,79,1,2023,1,4,3,,2.466,0,Band 4 – High,11–20 yrs,26–35,Near (≤10 km),0–2 yrs,Medium Risk,Needs Improvement,Neutral,Good,N/A (Still Employed),Non-Binary / Other,Married
+503,1,4,2,28,3,9,31,1,2017,7,2,2,1.0,3.568,0,Band 1 – Low,3–5 yrs,26–35,Near (≤10 km),6–8 yrs,High Risk,Needs Improvement,Low,Poor,High Dissatisfaction,Female,Married
+504,2,5,2,53,2,26,29,4,2018,6,5,4,,1.602,0,Band 1 – Low,0–2 yrs,46–55,Far (26–50 km),6–8 yrs,Low Risk,Good,High,Excellent,N/A (Still Employed),Male,Single
+505,1,5,1,34,5,3,28,5,2015,9,4,1,3.0,2.656,1,Band 2 – Mid-Low,3–5 yrs,26–35,Near (≤10 km),9–12 yrs,Medium Risk,Outstanding,Very Low,Good,Moderate Dissatisfaction,Female,Married
+506,5,1,3,60,12,18,139,1,2015,9,2,2,,3.686,0,Band 2 – Mid-Low,11–20 yrs,55+,Medium (11–25 km),9–12 yrs,High Risk,Needs Improvement,Low,Poor,N/A (Still Employed),Male,Married
+507,3,4,1,34,16,13,194,1,2019,5,2,5,,2.576,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),3–5 yrs,Medium Risk,Needs Improvement,Very High,Poor,N/A (Still Employed),Non-Binary / Other,Divorced
+508,2,1,3,38,10,10,190,2,2024,0,4,2,,2.52,0,Band 2 – Mid-Low,6–10 yrs,36–45,Near (≤10 km),0–2 yrs,Medium Risk,Below Average,Low,Good,N/A (Still Employed),Male,Divorced
+509,4,1,3,55,7,28,197,3,2018,6,5,3,,2.106,0,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),6–8 yrs,Low Risk,Average,Neutral,Excellent,N/A (Still Employed),Non-Binary / Other,Single
+510,4,3,2,34,5,2,116,3,2023,1,1,1,,3.404,0,Band 1 – Low,3–5 yrs,26–35,Near (≤10 km),0–2 yrs,High Risk,Average,Very Low,Very Poor,N/A (Still Employed),Female,Married
+511,2,5,2,44,13,40,15,2,2012,12,5,4,2.0,2.33,1,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,Low Risk,Below Average,High,Excellent,High Dissatisfaction,Non-Binary / Other,Divorced
+512,4,4,3,48,7,13,13,1,2022,2,3,2,,3.076,0,Band 1 – Low,6–10 yrs,46–55,Medium (11–25 km),0–2 yrs,High Risk,Needs Improvement,Low,Fair,N/A (Still Employed),Female,Divorced
+513,5,5,2,40,2,6,200,1,2011,13,2,2,,3.862,0,Band 1 – Low,0–2 yrs,36–45,Near (≤10 km),12+ yrs,High Risk,Needs Improvement,Low,Poor,N/A (Still Employed),Female,Single
+514,5,3,1,32,8,4,148,4,2017,7,2,2,,2.958,0,Band 2 – Mid-Low,6–10 yrs,26–35,Near (≤10 km),6–8 yrs,High Risk,Good,Low,Poor,N/A (Still Employed),Male,Single
+515,5,2,3,24,20,25,164,3,2016,8,4,2,5.0,2.75,1,Band 4 – High,11–20 yrs,18–25,Medium (11–25 km),6–8 yrs,Medium Risk,Average,Low,Good,Low Dissatisfaction,Male,Divorced
+516,2,5,3,57,15,27,48,2,2020,4,1,4,,2.904,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),3–5 yrs,Medium Risk,Below Average,High,Very Poor,N/A (Still Employed),Male,Married
+517,1,3,3,53,11,34,34,4,2016,8,1,2,,3.318,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),6–8 yrs,High Risk,Good,Low,Very Poor,N/A (Still Employed),Female,Single
+518,1,6,2,35,5,20,198,1,2023,1,1,2,,3.54,0,Band 1 – Low,3–5 yrs,26–35,Medium (11–25 km),0–2 yrs,High Risk,Needs Improvement,Low,Very Poor,N/A (Still Employed),Female,Married
+519,3,5,2,52,9,45,160,4,2011,13,4,1,,3.14,0,Band 3 – Mid-High,6–10 yrs,46–55,Far (26–50 km),12+ yrs,High Risk,Good,Very Low,Good,N/A (Still Employed),Female,Single
+520,1,4,3,43,11,41,110,1,2019,5,5,3,,2.482,0,Band 2 – Mid-Low,11–20 yrs,36–45,Far (26–50 km),3–5 yrs,Medium Risk,Needs Improvement,Neutral,Excellent,N/A (Still Employed),Male,Single
+521,1,3,1,37,2,15,59,4,2011,13,4,2,,2.78,0,Band 1 – Low,0–2 yrs,36–45,Medium (11–25 km),12+ yrs,Medium Risk,Good,Low,Good,N/A (Still Employed),Female,Married
+522,3,2,1,22,17,15,165,1,2012,12,4,1,,3.63,0,Band 3 – Mid-High,11–20 yrs,18–25,Medium (11–25 km),9–12 yrs,High Risk,Needs Improvement,Very Low,Good,N/A (Still Employed),Male,Single
+523,6,5,3,22,14,22,89,4,2022,2,1,5,,2.094,0,Band 4 – High,11–20 yrs,18–25,Medium (11–25 km),0–2 yrs,Low Risk,Good,Very High,Very Poor,N/A (Still Employed),Female,Married
+524,6,3,2,27,10,28,92,1,2018,6,4,4,,2.456,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),6–8 yrs,Medium Risk,Needs Improvement,High,Good,N/A (Still Employed),Male,Divorced
+525,2,2,3,29,1,31,118,2,2014,10,3,4,,2.712,0,Band 1 – Low,0–2 yrs,26–35,Far (26–50 km),9–12 yrs,Medium Risk,Below Average,High,Fair,N/A (Still Employed),Male,Single
+526,6,6,2,58,8,4,141,4,2011,13,5,4,,1.908,0,Band 2 – Mid-Low,6–10 yrs,55+,Near (≤10 km),12+ yrs,Low Risk,Good,High,Excellent,N/A (Still Employed),Male,Single
+527,6,4,2,53,11,33,200,4,2011,13,1,5,,2.666,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),12+ yrs,Medium Risk,Good,Very High,Very Poor,N/A (Still Employed),Female,Single
+528,6,5,1,31,11,28,15,3,2017,7,5,5,,1.556,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),6–8 yrs,Low Risk,Average,Very High,Excellent,N/A (Still Employed),Female,Married
+529,1,6,2,27,8,42,87,4,2013,11,5,5,,1.584,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),9–12 yrs,Low Risk,Good,Very High,Excellent,N/A (Still Employed),Male,Married
+530,6,1,3,54,7,4,80,2,2010,14,1,2,,3.958,0,Band 1 – Low,6–10 yrs,46–55,Near (≤10 km),12+ yrs,High Risk,Below Average,Low,Very Poor,N/A (Still Employed),Female,Married
+531,1,4,1,26,18,20,127,2,2019,5,4,4,,2.19,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),3–5 yrs,Low Risk,Below Average,High,Good,N/A (Still Employed),Male,Divorced
+532,1,4,1,28,2,8,61,3,2018,6,4,2,,2.616,0,Band 1 – Low,0–2 yrs,26–35,Near (≤10 km),6–8 yrs,Medium Risk,Average,Low,Good,N/A (Still Employed),Male,Married
+533,5,4,2,38,8,18,35,1,2015,9,1,5,,3.036,0,Band 1 – Low,6–10 yrs,36–45,Medium (11–25 km),9–12 yrs,High Risk,Needs Improvement,Very High,Very Poor,N/A (Still Employed),Male,Single
+534,3,4,1,36,8,24,77,2,2010,14,3,5,,2.598,0,Band 2 – Mid-Low,6–10 yrs,36–45,Medium (11–25 km),12+ yrs,Medium Risk,Below Average,Very High,Fair,N/A (Still Employed),Male,Married
+535,2,2,3,51,20,18,177,5,2013,11,4,4,,1.886,0,Band 4 – High,11–20 yrs,46–55,Medium (11–25 km),9–12 yrs,Low Risk,Outstanding,High,Good,N/A (Still Employed),Female,Married
+536,3,6,3,40,13,23,157,5,2023,1,1,5,,1.846,0,Band 4 – High,11–20 yrs,36–45,Medium (11–25 km),0–2 yrs,Low Risk,Outstanding,Very High,Very Poor,N/A (Still Employed),Male,Single
+537,5,1,3,38,17,46,130,1,2014,10,3,4,,2.942,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,Medium Risk,Needs Improvement,High,Fair,N/A (Still Employed),Female,Married
+538,4,5,1,51,11,27,106,1,2024,0,4,3,,2.454,0,Band 2 – Mid-Low,11–20 yrs,46–55,Far (26–50 km),0–2 yrs,Medium Risk,Needs Improvement,Neutral,Good,N/A (Still Employed),Female,Married
+539,1,4,3,25,6,16,84,3,2023,1,5,3,,1.832,0,Band 2 – Mid-Low,6–10 yrs,18–25,Medium (11–25 km),0–2 yrs,Low Risk,Average,Neutral,Excellent,N/A (Still Employed),Male,Single
+540,6,5,1,28,15,21,119,3,2014,10,4,3,1.0,2.542,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),9–12 yrs,Medium Risk,Average,Neutral,Good,High Dissatisfaction,Male,Single
+541,6,3,2,33,1,4,33,4,2016,8,4,4,,1.908,0,Band 1 – Low,0–2 yrs,26–35,Near (≤10 km),6–8 yrs,Low Risk,Good,High,Good,N/A (Still Employed),Female,Divorced
+542,4,6,1,24,3,12,66,5,2021,3,1,3,,2.524,0,Band 2 – Mid-Low,3–5 yrs,18–25,Medium (11–25 km),3–5 yrs,Medium Risk,Outstanding,Neutral,Very Poor,N/A (Still Employed),Male,Married
+543,5,6,3,40,16,3,114,5,2015,9,1,3,,2.806,0,Band 4 – High,11–20 yrs,36–45,Near (≤10 km),9–12 yrs,Medium Risk,Outstanding,Neutral,Very Poor,N/A (Still Employed),Male,Married
+544,5,4,3,45,3,1,153,5,2011,13,2,2,,3.052,0,Band 2 – Mid-Low,3–5 yrs,36–45,Near (≤10 km),12+ yrs,High Risk,Outstanding,Low,Poor,N/A (Still Employed),Male,Divorced
+545,2,4,2,42,7,4,81,1,2023,1,3,3,,2.708,0,Band 1 – Low,6–10 yrs,36–45,Near (≤10 km),0–2 yrs,Medium Risk,Needs Improvement,Neutral,Fair,N/A (Still Employed),Female,Single
+546,1,6,1,49,2,43,133,2,2023,1,5,5,4.0,1.486,1,Band 1 – Low,0–2 yrs,46–55,Far (26–50 km),0–2 yrs,Low Risk,Below Average,Very High,Excellent,Low Dissatisfaction,Female,Married
+547,4,5,3,29,5,48,82,5,2012,12,1,3,,3.046,0,Band 2 – Mid-Low,3–5 yrs,26–35,Far (26–50 km),9–12 yrs,High Risk,Outstanding,Neutral,Very Poor,N/A (Still Employed),Male,Married
+548,4,1,3,28,7,21,189,3,2014,10,2,1,,3.642,0,Band 2 – Mid-Low,6–10 yrs,26–35,Medium (11–25 km),9–12 yrs,High Risk,Average,Very Low,Poor,N/A (Still Employed),Female,Divorced
+549,4,3,3,24,5,14,146,1,2011,13,3,2,,3.628,0,Band 1 – Low,3–5 yrs,18–25,Medium (11–25 km),12+ yrs,High Risk,Needs Improvement,Low,Fair,N/A (Still Employed),Male,Married
+550,1,6,2,22,3,19,139,2,2018,6,4,3,,2.538,0,Band 1 – Low,3–5 yrs,18–25,Medium (11–25 km),6–8 yrs,Medium Risk,Below Average,Neutral,Good,N/A (Still Employed),Male,Single
+551,1,1,1,30,6,31,72,5,2019,5,3,2,,2.462,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),3–5 yrs,Medium Risk,Outstanding,Low,Fair,N/A (Still Employed),Female,Single
+552,1,5,1,32,19,18,107,1,2013,11,2,5,,2.886,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),9–12 yrs,Medium Risk,Needs Improvement,Very High,Poor,N/A (Still Employed),Female,Married
+553,1,2,2,43,18,39,14,5,2023,1,2,5,,1.628,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),0–2 yrs,Low Risk,Outstanding,Very High,Poor,N/A (Still Employed),Female,Single
+554,3,4,3,44,7,7,137,1,2018,6,4,2,,3.014,0,Band 1 – Low,6–10 yrs,36–45,Near (≤10 km),6–8 yrs,High Risk,Needs Improvement,Low,Good,N/A (Still Employed),Male,Married
+555,4,2,3,50,8,28,196,5,2024,0,2,1,,2.756,0,Band 3 – Mid-High,6–10 yrs,46–55,Far (26–50 km),0–2 yrs,Medium Risk,Outstanding,Very Low,Poor,N/A (Still Employed),Non-Binary / Other,Single
+556,3,6,1,39,17,12,110,5,2019,5,3,5,4.0,1.524,1,Band 4 – High,11–20 yrs,36–45,Medium (11–25 km),3–5 yrs,Low Risk,Outstanding,Very High,Fair,Low Dissatisfaction,Non-Binary / Other,Single
+557,2,5,2,27,3,17,105,2,2018,6,1,4,4.0,2.984,1,Band 1 – Low,3–5 yrs,26–35,Medium (11–25 km),6–8 yrs,High Risk,Below Average,High,Very Poor,Low Dissatisfaction,Male,Single
+558,4,5,2,45,14,32,149,2,2014,10,3,5,,2.414,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,Medium Risk,Below Average,Very High,Fair,N/A (Still Employed),Male,Single
+559,1,5,3,43,15,24,192,3,2016,8,1,3,,3.198,0,Band 3 – Mid-High,11–20 yrs,36–45,Medium (11–25 km),6–8 yrs,High Risk,Average,Neutral,Very Poor,N/A (Still Employed),Non-Binary / Other,Married
+560,5,5,2,33,10,22,37,1,2019,5,4,1,,3.294,0,Band 2 – Mid-Low,6–10 yrs,26–35,Medium (11–25 km),3–5 yrs,High Risk,Needs Improvement,Very Low,Good,N/A (Still Employed),Female,Married
+561,5,6,3,29,6,20,125,2,2010,14,4,5,2.0,2.34,0,Band 1 – Low,6–10 yrs,26–35,Medium (11–25 km),12+ yrs,Low Risk,Below Average,Very High,Good,High Dissatisfaction,Male,Married
+562,1,4,1,47,7,8,67,1,2018,6,2,2,,3.516,0,Band 1 – Low,6–10 yrs,46–55,Near (≤10 km),6–8 yrs,High Risk,Needs Improvement,Low,Poor,N/A (Still Employed),Female,Married
+563,1,2,3,47,8,7,157,3,2021,3,3,3,,2.414,0,Band 2 – Mid-Low,6–10 yrs,46–55,Near (≤10 km),3–5 yrs,Medium Risk,Average,Neutral,Fair,N/A (Still Employed),Female,Divorced
+564,3,3,3,51,14,43,16,2,2024,0,3,5,,1.936,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),0–2 yrs,Low Risk,Below Average,Very High,Fair,N/A (Still Employed),Male,Divorced
+565,1,4,3,39,6,1,111,2,2011,13,3,2,,3.402,0,Band 1 – Low,6–10 yrs,36–45,Near (≤10 km),12+ yrs,High Risk,Below Average,Low,Fair,N/A (Still Employed),Female,Married
+566,4,5,3,46,20,44,69,1,2019,5,4,4,,2.438,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),3–5 yrs,Medium Risk,Needs Improvement,High,Good,N/A (Still Employed),Female,Single
+567,6,6,3,52,8,36,124,2,2017,7,3,3,,2.872,0,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),6–8 yrs,Medium Risk,Below Average,Neutral,Fair,N/A (Still Employed),Female,Divorced
+568,4,5,3,48,10,50,104,3,2024,0,4,5,,1.5,0,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),0–2 yrs,Low Risk,Average,Very High,Good,N/A (Still Employed),Female,Divorced
+569,5,4,2,32,10,9,132,3,2024,0,3,1,,2.868,0,Band 2 – Mid-Low,6–10 yrs,26–35,Near (≤10 km),0–2 yrs,Medium Risk,Average,Very Low,Fair,N/A (Still Employed),Male,Single
+570,2,2,1,29,19,22,154,4,2014,10,5,4,,1.794,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),9–12 yrs,Low Risk,Good,High,Excellent,N/A (Still Employed),Male,Married
+571,4,2,1,30,15,24,37,2,2020,4,3,5,,2.098,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),3–5 yrs,Low Risk,Below Average,Very High,Fair,N/A (Still Employed),Male,Single
+572,1,1,1,25,7,48,174,1,2010,14,5,4,,2.646,0,Band 1 – Low,6–10 yrs,18–25,Far (26–50 km),12+ yrs,Medium Risk,Needs Improvement,High,Excellent,N/A (Still Employed),Female,Married
+573,4,1,1,32,9,24,89,3,2010,14,1,4,,3.198,0,Band 2 – Mid-Low,6–10 yrs,26–35,Medium (11–25 km),12+ yrs,High Risk,Average,High,Very Poor,N/A (Still Employed),Female,Single
+574,4,6,3,28,16,48,95,5,2015,9,2,5,,2.046,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,Low Risk,Outstanding,Very High,Poor,N/A (Still Employed),Male,Single
+575,3,1,3,48,3,50,46,3,2016,8,2,4,,2.7,0,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),6–8 yrs,Medium Risk,Average,High,Poor,N/A (Still Employed),Non-Binary / Other,Divorced
+576,6,5,3,59,12,38,171,4,2014,10,5,1,,2.726,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),9–12 yrs,Medium Risk,Good,Very Low,Excellent,N/A (Still Employed),Male,Single
+577,5,4,2,52,13,34,31,4,2013,11,3,2,,2.968,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,High Risk,Good,Low,Fair,N/A (Still Employed),Female,Married
+578,4,6,3,58,13,39,34,4,2015,9,1,1,,3.678,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),9–12 yrs,High Risk,Good,Very Low,Very Poor,N/A (Still Employed),Male,Single
+579,5,6,3,50,6,24,153,5,2024,0,2,5,,1.548,0,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),0–2 yrs,Low Risk,Outstanding,Very High,Poor,N/A (Still Employed),Female,Married
+580,2,4,2,33,16,16,53,4,2022,2,3,4,5.0,1.882,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),0–2 yrs,Low Risk,Good,High,Fair,Low Dissatisfaction,Non-Binary / Other,Single
+581,4,1,2,46,15,42,63,2,2010,14,5,5,4.0,2.134,1,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),12+ yrs,Low Risk,Below Average,Very High,Excellent,Low Dissatisfaction,Female,Divorced
+582,6,2,3,44,14,18,135,3,2012,12,3,1,,3.486,0,Band 3 – Mid-High,11–20 yrs,36–45,Medium (11–25 km),9–12 yrs,High Risk,Average,Very Low,Fair,N/A (Still Employed),Male,Married
+583,5,1,3,23,17,14,161,2,2013,11,3,3,,3.028,0,Band 4 – High,11–20 yrs,18–25,Medium (11–25 km),9–12 yrs,High Risk,Below Average,Neutral,Fair,N/A (Still Employed),Female,Married
+584,6,4,1,30,20,38,73,2,2018,6,3,4,,2.526,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),6–8 yrs,Medium Risk,Below Average,High,Fair,N/A (Still Employed),Male,Single
+585,6,5,3,52,14,25,31,3,2023,1,2,2,,2.9,0,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),0–2 yrs,Medium Risk,Average,Low,Poor,N/A (Still Employed),Female,Divorced
+586,6,1,3,53,5,6,46,4,2021,3,5,1,,2.312,0,Band 2 – Mid-Low,3–5 yrs,46–55,Near (≤10 km),3–5 yrs,Low Risk,Good,Very Low,Excellent,N/A (Still Employed),Male,Divorced
+587,6,6,3,29,16,7,113,1,2015,9,3,3,,3.114,0,Band 3 – Mid-High,11–20 yrs,26–35,Near (≤10 km),9–12 yrs,High Risk,Needs Improvement,Neutral,Fair,N/A (Still Employed),Male,Divorced
+588,5,3,2,48,1,9,167,5,2024,0,4,1,,2.218,0,Band 1 – Low,0–2 yrs,46–55,Near (≤10 km),0–2 yrs,Low Risk,Outstanding,Very Low,Good,N/A (Still Employed),Female,Married
+589,5,3,2,50,13,41,131,5,2022,2,4,3,,1.782,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),0–2 yrs,Low Risk,Outstanding,Neutral,Good,N/A (Still Employed),Non-Binary / Other,Married
+590,3,2,3,24,14,48,143,3,2020,4,3,5,,1.946,0,Band 3 – Mid-High,11–20 yrs,18–25,Far (26–50 km),3–5 yrs,Low Risk,Average,Very High,Fair,N/A (Still Employed),Male,Divorced
+591,6,4,1,26,3,39,195,2,2024,0,2,3,,2.778,0,Band 1 – Low,3–5 yrs,26–35,Far (26–50 km),0–2 yrs,Medium Risk,Below Average,Neutral,Poor,N/A (Still Employed),Male,Divorced
+592,3,5,2,38,10,8,155,2,2024,0,2,1,,3.316,0,Band 2 – Mid-Low,6–10 yrs,36–45,Near (≤10 km),0–2 yrs,High Risk,Below Average,Very Low,Poor,N/A (Still Employed),Male,Married
+593,4,6,3,42,20,3,69,4,2010,14,2,5,,2.406,0,Band 4 – High,11–20 yrs,36–45,Near (≤10 km),12+ yrs,Medium Risk,Good,Very High,Poor,N/A (Still Employed),Male,Single
+594,4,3,1,22,18,38,25,4,2013,11,5,4,,1.876,0,Band 4 – High,11–20 yrs,18–25,Far (26–50 km),9–12 yrs,Low Risk,Good,High,Excellent,N/A (Still Employed),Female,Divorced
+595,3,1,3,55,5,42,136,4,2017,7,3,4,,2.184,0,Band 2 – Mid-Low,3–5 yrs,46–55,Far (26–50 km),6–8 yrs,Low Risk,Good,High,Fair,N/A (Still Employed),Male,Single
+596,1,6,3,58,18,13,74,4,2011,13,4,2,,2.776,0,Band 4 – High,11–20 yrs,55+,Medium (11–25 km),12+ yrs,Medium Risk,Good,Low,Good,N/A (Still Employed),Female,Single
+597,6,5,3,58,6,13,115,5,2022,2,3,4,,1.676,0,Band 2 – Mid-Low,6–10 yrs,55+,Medium (11–25 km),0–2 yrs,Low Risk,Outstanding,High,Fair,N/A (Still Employed),Female,Married
+598,6,4,3,36,9,46,89,3,2019,5,2,2,,3.142,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),3–5 yrs,High Risk,Average,Low,Poor,N/A (Still Employed),Male,Divorced
+599,4,6,2,43,13,29,199,3,2024,0,1,4,,2.508,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),0–2 yrs,Medium Risk,Average,High,Very Poor,N/A (Still Employed),Female,Divorced
+600,5,6,1,55,15,7,96,5,2019,5,2,3,,2.364,0,Band 4 – High,11–20 yrs,46–55,Near (≤10 km),3–5 yrs,Medium Risk,Outstanding,Neutral,Poor,N/A (Still Employed),Male,Married
+601,3,1,3,55,10,5,48,1,2021,3,5,5,,1.71,0,Band 2 – Mid-Low,6–10 yrs,46–55,Near (≤10 km),3–5 yrs,Low Risk,Needs Improvement,Very High,Excellent,N/A (Still Employed),Non-Binary / Other,Married
+602,6,5,3,28,15,35,19,5,2023,1,3,3,2.0,1.97,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),0–2 yrs,Low Risk,Outstanding,Neutral,Fair,High Dissatisfaction,Male,Single
+603,4,4,3,49,10,40,92,4,2022,2,2,3,4.0,2.48,0,Band 3 – Mid-High,6–10 yrs,46–55,Far (26–50 km),0–2 yrs,Medium Risk,Good,Neutral,Poor,Low Dissatisfaction,Male,Divorced
+604,6,6,2,37,13,22,186,4,2022,2,5,2,,1.994,0,Band 3 – Mid-High,11–20 yrs,36–45,Medium (11–25 km),0–2 yrs,Low Risk,Good,Low,Excellent,N/A (Still Employed),Female,Married
+605,5,5,2,52,18,20,154,2,2010,14,1,5,,3.09,0,Band 4 – High,11–20 yrs,46–55,Medium (11–25 km),12+ yrs,High Risk,Below Average,Very High,Very Poor,N/A (Still Employed),Male,Married
+606,3,6,1,44,20,47,163,5,2015,9,3,5,,1.794,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,Low Risk,Outstanding,Very High,Fair,N/A (Still Employed),Female,Divorced
+607,1,3,3,46,16,31,114,3,2011,13,3,4,,2.662,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),12+ yrs,Medium Risk,Average,High,Fair,N/A (Still Employed),Female,Single
+608,2,3,1,31,3,49,11,3,2016,8,5,2,1.0,2.548,0,Band 1 – Low,3–5 yrs,26–35,Far (26–50 km),6–8 yrs,Medium Risk,Average,Low,Excellent,High Dissatisfaction,Female,Divorced
+609,4,4,3,57,11,13,78,1,2019,5,5,5,,1.826,0,Band 2 – Mid-Low,11–20 yrs,55+,Medium (11–25 km),3–5 yrs,Low Risk,Needs Improvement,Very High,Excellent,N/A (Still Employed),Female,Single
+610,4,3,3,25,5,35,186,4,2021,3,4,5,,1.42,0,Band 2 – Mid-Low,3–5 yrs,18–25,Far (26–50 km),3–5 yrs,Low Risk,Good,Very High,Good,N/A (Still Employed),Female,Married
+611,2,4,3,22,16,47,63,2,2019,5,4,3,,2.544,0,Band 3 – Mid-High,11–20 yrs,18–25,Far (26–50 km),3–5 yrs,Medium Risk,Below Average,Neutral,Good,N/A (Still Employed),Female,Married
+612,2,6,3,32,7,10,153,1,2024,0,5,1,,2.77,0,Band 1 – Low,6–10 yrs,26–35,Near (≤10 km),0–2 yrs,Medium Risk,Needs Improvement,Very Low,Excellent,N/A (Still Employed),Female,Single
+613,4,2,3,54,5,3,135,5,2011,13,2,5,,2.156,0,Band 2 – Mid-Low,3–5 yrs,46–55,Near (≤10 km),12+ yrs,Low Risk,Outstanding,Very High,Poor,N/A (Still Employed),Female,Divorced
+614,1,3,2,52,7,9,149,3,2024,0,3,1,,2.868,0,Band 2 – Mid-Low,6–10 yrs,46–55,Near (≤10 km),0–2 yrs,Medium Risk,Average,Very Low,Fair,N/A (Still Employed),Female,Single
+615,4,5,1,53,1,13,137,5,2018,6,2,3,,2.426,0,Band 1 – Low,0–2 yrs,46–55,Medium (11–25 km),6–8 yrs,Medium Risk,Outstanding,Neutral,Poor,N/A (Still Employed),Female,Divorced
+616,2,5,1,32,1,27,90,4,2017,7,5,5,,1.354,0,Band 1 – Low,0–2 yrs,26–35,Far (26–50 km),6–8 yrs,Low Risk,Good,Very High,Excellent,N/A (Still Employed),Male,Married
+617,6,4,2,26,17,36,176,3,2012,12,5,1,,3.022,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,High Risk,Average,Very Low,Excellent,N/A (Still Employed),Female,Married
+618,3,2,3,53,12,46,70,5,2014,10,3,1,,3.042,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,High Risk,Outstanding,Very Low,Fair,N/A (Still Employed),Male,Married
+619,5,6,1,42,16,17,92,5,2021,3,5,5,,0.934,0,Band 4 – High,11–20 yrs,36–45,Medium (11–25 km),3–5 yrs,Low Risk,Outstanding,Very High,Excellent,N/A (Still Employed),Female,Single
+620,6,1,2,37,13,49,128,3,2010,14,3,1,,3.648,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),12+ yrs,High Risk,Average,Very Low,Fair,N/A (Still Employed),Non-Binary / Other,Single
+621,1,5,3,43,14,36,191,4,2011,13,4,5,,1.922,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),12+ yrs,Low Risk,Good,Very High,Good,N/A (Still Employed),Male,Divorced
+622,4,2,2,39,13,23,133,1,2010,14,4,4,,2.846,0,Band 2 – Mid-Low,11–20 yrs,36–45,Medium (11–25 km),12+ yrs,Medium Risk,Needs Improvement,High,Good,N/A (Still Employed),Male,Single
+623,5,5,1,25,12,24,141,1,2017,7,2,2,2.0,3.598,0,Band 2 – Mid-Low,11–20 yrs,18–25,Medium (11–25 km),6–8 yrs,High Risk,Needs Improvement,Low,Poor,High Dissatisfaction,Female,Divorced
+624,4,4,1,54,13,29,152,2,2018,6,5,2,,2.608,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),6–8 yrs,Medium Risk,Below Average,Low,Excellent,N/A (Still Employed),Female,Single
+625,3,4,3,36,16,41,199,3,2013,11,4,2,,2.932,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,Medium Risk,Average,Low,Good,N/A (Still Employed),Female,Single
+626,5,1,2,57,10,46,197,4,2020,4,2,5,,1.992,0,Band 3 – Mid-High,6–10 yrs,55+,Far (26–50 km),3–5 yrs,Low Risk,Good,Very High,Poor,N/A (Still Employed),Female,Divorced
+627,6,4,3,46,19,8,30,2,2015,9,4,2,,2.966,0,Band 4 – High,11–20 yrs,46–55,Near (≤10 km),9–12 yrs,High Risk,Below Average,Low,Good,N/A (Still Employed),Male,Married
+628,3,1,2,47,3,28,36,3,2016,8,4,2,5.0,2.756,1,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),6–8 yrs,Medium Risk,Average,Low,Good,Low Dissatisfaction,Female,Divorced
+629,1,6,1,37,14,5,118,2,2017,7,1,1,,3.91,0,Band 3 – Mid-High,11–20 yrs,36–45,Near (≤10 km),6–8 yrs,High Risk,Below Average,Very Low,Very Poor,N/A (Still Employed),Female,Divorced
+630,6,4,2,27,2,31,189,1,2014,10,1,4,,3.412,0,Band 1 – Low,0–2 yrs,26–35,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,High,Very Poor,N/A (Still Employed),Male,Single
+631,5,5,2,51,4,27,29,2,2022,2,3,1,,3.204,0,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),0–2 yrs,High Risk,Below Average,Very Low,Fair,N/A (Still Employed),Female,Married
+632,6,4,3,50,13,34,106,3,2023,1,2,3,,2.618,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),0–2 yrs,Medium Risk,Average,Neutral,Poor,N/A (Still Employed),Male,Married
+633,1,3,3,58,19,33,42,3,2024,0,3,1,,2.916,0,Band 4 – High,11–20 yrs,55+,Far (26–50 km),0–2 yrs,Medium Risk,Average,Very Low,Fair,N/A (Still Employed),Female,Divorced
+634,4,6,3,50,6,2,13,2,2013,11,2,1,,3.854,0,Band 1 – Low,6–10 yrs,46–55,Near (≤10 km),9–12 yrs,High Risk,Below Average,Very Low,Poor,N/A (Still Employed),Male,Divorced
+635,4,6,3,27,7,11,51,3,2010,14,2,4,,2.922,0,Band 2 – Mid-Low,6–10 yrs,26–35,Medium (11–25 km),12+ yrs,Medium Risk,Average,High,Poor,N/A (Still Employed),Male,Divorced
+636,2,2,2,53,14,39,143,1,2024,0,2,5,,2.378,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),0–2 yrs,Medium Risk,Needs Improvement,Very High,Poor,N/A (Still Employed),Male,Married
+637,4,5,1,50,9,18,41,1,2010,14,3,4,,3.086,0,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),12+ yrs,High Risk,Needs Improvement,High,Fair,N/A (Still Employed),Male,Single
+638,3,6,2,42,12,45,52,3,2010,14,5,4,,2.24,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),12+ yrs,Low Risk,Average,High,Excellent,N/A (Still Employed),Male,Married
+639,1,2,2,29,17,9,60,1,2022,2,1,4,,2.968,0,Band 3 – Mid-High,11–20 yrs,26–35,Near (≤10 km),0–2 yrs,High Risk,Needs Improvement,High,Very Poor,N/A (Still Employed),Female,Single
+640,4,3,3,53,16,19,122,3,2022,2,2,4,3.0,2.338,0,Band 4 – High,11–20 yrs,46–55,Medium (11–25 km),0–2 yrs,Low Risk,Average,High,Poor,Moderate Dissatisfaction,Non-Binary / Other,Divorced
+641,6,6,3,23,12,3,39,2,2022,2,3,2,,2.856,0,Band 3 – Mid-High,11–20 yrs,18–25,Near (≤10 km),0–2 yrs,Medium Risk,Below Average,Low,Fair,N/A (Still Employed),Female,Married
+642,5,2,1,28,2,37,19,4,2013,11,4,3,,2.424,0,Band 1 – Low,0–2 yrs,26–35,Far (26–50 km),9–12 yrs,Medium Risk,Good,Neutral,Good,N/A (Still Employed),Male,Married
+643,1,3,1,47,13,4,118,5,2018,6,4,2,,2.208,0,Band 4 – High,11–20 yrs,46–55,Near (≤10 km),6–8 yrs,Low Risk,Outstanding,Low,Good,N/A (Still Employed),Female,Divorced
+644,4,4,3,48,14,45,136,3,2019,5,5,1,,2.69,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),3–5 yrs,Medium Risk,Average,Very Low,Excellent,N/A (Still Employed),Male,Divorced
+645,3,4,1,24,8,13,53,2,2023,1,1,3,,3.026,0,Band 2 – Mid-Low,6–10 yrs,18–25,Medium (11–25 km),0–2 yrs,High Risk,Below Average,Neutral,Very Poor,N/A (Still Employed),Female,Single
+646,2,6,2,57,8,48,170,5,2016,8,5,3,,1.846,0,Band 3 – Mid-High,6–10 yrs,55+,Far (26–50 km),6–8 yrs,Low Risk,Outstanding,Neutral,Excellent,N/A (Still Employed),Male,Single
+647,2,3,2,57,16,26,144,1,2020,4,2,2,,3.452,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),3–5 yrs,High Risk,Needs Improvement,Low,Poor,N/A (Still Employed),Non-Binary / Other,Married
+648,5,5,3,22,2,32,134,4,2020,4,2,4,,2.264,0,Band 1 – Low,0–2 yrs,18–25,Far (26–50 km),3–5 yrs,Low Risk,Good,High,Poor,N/A (Still Employed),Male,Divorced
+649,5,6,3,27,12,44,45,3,2021,3,3,3,,2.488,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),3–5 yrs,Medium Risk,Average,Neutral,Fair,N/A (Still Employed),Non-Binary / Other,Divorced
+650,5,4,2,60,1,35,150,5,2010,14,1,4,5.0,2.82,0,Band 1 – Low,0–2 yrs,55+,Far (26–50 km),12+ yrs,Medium Risk,Outstanding,High,Very Poor,Low Dissatisfaction,Non-Binary / Other,Single
+651,1,5,3,41,5,33,117,2,2018,6,4,1,,3.166,0,Band 1 – Low,3–5 yrs,36–45,Far (26–50 km),6–8 yrs,High Risk,Below Average,Very Low,Good,N/A (Still Employed),Female,Divorced
+652,5,2,3,54,9,5,112,5,2017,7,1,2,,3.01,0,Band 3 – Mid-High,6–10 yrs,46–55,Near (≤10 km),6–8 yrs,High Risk,Outstanding,Low,Very Poor,N/A (Still Employed),Non-Binary / Other,Single
+653,5,4,1,57,20,11,12,2,2010,14,3,3,,3.172,0,Band 4 – High,11–20 yrs,55+,Medium (11–25 km),12+ yrs,High Risk,Below Average,Neutral,Fair,N/A (Still Employed),Female,Divorced
+654,3,3,2,35,15,29,85,1,2016,8,5,4,,2.308,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),6–8 yrs,Low Risk,Needs Improvement,High,Excellent,N/A (Still Employed),Non-Binary / Other,Single
+655,3,6,1,51,5,49,40,5,2022,2,1,2,,2.848,0,Band 2 – Mid-Low,3–5 yrs,46–55,Far (26–50 km),0–2 yrs,Medium Risk,Outstanding,Low,Very Poor,N/A (Still Employed),Male,Divorced
+656,3,6,3,43,9,33,121,3,2016,8,3,2,,3.016,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),6–8 yrs,High Risk,Average,Low,Fair,N/A (Still Employed),Male,Single
+657,5,3,2,45,8,25,85,5,2021,3,5,3,,1.55,0,Band 3 – Mid-High,6–10 yrs,36–45,Medium (11–25 km),3–5 yrs,Low Risk,Outstanding,Neutral,Excellent,N/A (Still Employed),Female,Single
+658,4,4,3,25,20,36,194,1,2012,12,5,1,,3.422,0,Band 4 – High,11–20 yrs,18–25,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Very Low,Excellent,N/A (Still Employed),Male,Married
+659,5,3,1,36,19,50,183,5,2016,8,5,3,,1.85,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),6–8 yrs,Low Risk,Outstanding,Neutral,Excellent,N/A (Still Employed),Male,Divorced
+660,2,6,1,51,6,25,79,4,2021,3,1,4,,2.45,0,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),3–5 yrs,Medium Risk,Good,High,Very Poor,N/A (Still Employed),Non-Binary / Other,Single
+661,3,4,1,43,1,26,143,4,2016,8,1,1,,3.602,0,Band 1 – Low,0–2 yrs,36–45,Far (26–50 km),6–8 yrs,High Risk,Good,Very Low,Very Poor,N/A (Still Employed),Female,Single
+662,6,1,2,57,4,39,92,3,2018,6,4,5,,1.778,0,Band 1 – Low,3–5 yrs,55+,Far (26–50 km),6–8 yrs,Low Risk,Average,Very High,Good,N/A (Still Employed),Male,Married
+663,5,4,1,60,3,18,167,3,2012,12,5,3,,2.386,0,Band 1 – Low,3–5 yrs,55+,Medium (11–25 km),9–12 yrs,Medium Risk,Average,Neutral,Excellent,N/A (Still Employed),Male,Single
+664,4,5,3,52,13,14,105,2,2011,13,5,1,,3.228,0,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),12+ yrs,High Risk,Below Average,Very Low,Excellent,N/A (Still Employed),Female,Divorced
+665,5,2,3,45,13,12,154,2,2017,7,2,5,,2.474,0,Band 3 – Mid-High,11–20 yrs,36–45,Medium (11–25 km),6–8 yrs,Medium Risk,Below Average,Very High,Poor,N/A (Still Employed),Male,Single
+666,6,3,2,50,19,1,176,1,2011,13,2,1,,4.152,0,Band 4 – High,11–20 yrs,46–55,Near (≤10 km),12+ yrs,High Risk,Needs Improvement,Very Low,Poor,N/A (Still Employed),Male,Married
+667,6,2,3,29,3,11,52,4,2024,0,3,5,,1.472,0,Band 1 – Low,3–5 yrs,26–35,Medium (11–25 km),0–2 yrs,Low Risk,Good,Very High,Fair,N/A (Still Employed),Male,Divorced
+668,1,4,2,28,17,37,46,4,2019,5,2,1,,3.224,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),3–5 yrs,High Risk,Good,Very Low,Poor,N/A (Still Employed),Non-Binary / Other,Married
+669,4,4,1,36,7,14,84,1,2024,0,2,3,,2.928,0,Band 1 – Low,6–10 yrs,36–45,Medium (11–25 km),0–2 yrs,Medium Risk,Needs Improvement,Neutral,Poor,N/A (Still Employed),Male,Divorced
+670,6,4,2,22,14,38,143,3,2015,9,2,1,5.0,3.626,0,Band 3 – Mid-High,11–20 yrs,18–25,Far (26–50 km),9–12 yrs,High Risk,Average,Very Low,Poor,Low Dissatisfaction,Female,Married
+671,4,5,1,43,6,45,185,4,2015,9,4,2,,2.64,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),9–12 yrs,Medium Risk,Good,Low,Good,N/A (Still Employed),Male,Divorced
+672,3,2,3,44,14,1,62,1,2013,11,2,1,,4.052,0,Band 3 – Mid-High,11–20 yrs,36–45,Near (≤10 km),9–12 yrs,High Risk,Needs Improvement,Very Low,Poor,N/A (Still Employed),Female,Single
+673,1,2,3,40,9,33,167,1,2015,9,1,5,,3.066,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Very High,Very Poor,N/A (Still Employed),Female,Married
+674,2,3,3,57,10,30,192,4,2016,8,5,1,3.0,2.61,0,Band 3 – Mid-High,6–10 yrs,55+,Far (26–50 km),6–8 yrs,Medium Risk,Good,Very Low,Excellent,Moderate Dissatisfaction,Female,Married
+675,6,4,1,55,17,33,105,2,2024,0,3,1,,3.116,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),0–2 yrs,High Risk,Below Average,Very Low,Fair,N/A (Still Employed),Female,Divorced
+676,5,3,3,45,18,46,142,5,2010,14,5,3,,2.142,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),12+ yrs,Low Risk,Outstanding,Neutral,Excellent,N/A (Still Employed),Female,Married
+677,1,5,3,28,13,47,164,3,2013,11,3,4,,2.594,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,Medium Risk,Average,High,Fair,N/A (Still Employed),Male,Single
+678,1,1,1,24,19,34,74,5,2013,11,1,3,,2.968,0,Band 4 – High,11–20 yrs,18–25,Far (26–50 km),9–12 yrs,High Risk,Outstanding,Neutral,Very Poor,N/A (Still Employed),Non-Binary / Other,Divorced
+679,1,6,3,32,10,17,130,4,2011,13,2,1,,3.584,0,Band 3 – Mid-High,6–10 yrs,26–35,Medium (11–25 km),12+ yrs,High Risk,Good,Very Low,Poor,N/A (Still Employed),Female,Divorced
+680,1,6,2,53,14,20,128,2,2019,5,1,5,,2.64,0,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),3–5 yrs,Medium Risk,Below Average,Very High,Very Poor,N/A (Still Employed),Non-Binary / Other,Divorced
+681,5,5,2,30,3,15,63,5,2010,14,2,5,,2.23,0,Band 2 – Mid-Low,3–5 yrs,26–35,Medium (11–25 km),12+ yrs,Low Risk,Outstanding,Very High,Poor,N/A (Still Employed),Female,Single
+682,3,1,3,48,4,19,94,1,2013,11,5,3,,2.738,0,Band 1 – Low,3–5 yrs,46–55,Medium (11–25 km),9–12 yrs,Medium Risk,Needs Improvement,Neutral,Excellent,N/A (Still Employed),Male,Single
+683,4,4,3,28,19,46,194,3,2016,8,3,1,,3.342,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),6–8 yrs,High Risk,Average,Very Low,Fair,N/A (Still Employed),Male,Divorced
+684,2,6,3,38,12,18,44,1,2021,3,1,2,3.0,3.636,1,Band 2 – Mid-Low,11–20 yrs,36–45,Medium (11–25 km),3–5 yrs,High Risk,Needs Improvement,Low,Very Poor,Moderate Dissatisfaction,Female,Married
+685,2,2,3,34,5,36,52,5,2022,2,2,2,,2.572,0,Band 2 – Mid-Low,3–5 yrs,26–35,Far (26–50 km),0–2 yrs,Medium Risk,Outstanding,Low,Poor,N/A (Still Employed),Male,Divorced
+686,5,2,3,34,9,8,144,1,2024,0,2,5,,2.316,0,Band 2 – Mid-Low,6–10 yrs,26–35,Near (≤10 km),0–2 yrs,Low Risk,Needs Improvement,Very High,Poor,N/A (Still Employed),Female,Divorced
+687,4,3,1,29,7,11,193,4,2022,2,2,4,3.0,2.122,1,Band 2 – Mid-Low,6–10 yrs,26–35,Medium (11–25 km),0–2 yrs,Low Risk,Good,High,Poor,Moderate Dissatisfaction,Male,Married
+688,2,1,2,47,13,15,131,3,2022,2,5,2,5.0,2.18,1,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),0–2 yrs,Low Risk,Average,Low,Excellent,Low Dissatisfaction,Male,Divorced
+689,5,3,1,35,10,3,12,2,2018,6,5,5,,1.656,0,Band 2 – Mid-Low,6–10 yrs,26–35,Near (≤10 km),6–8 yrs,Low Risk,Below Average,Very High,Excellent,N/A (Still Employed),Female,Married
+690,1,4,1,51,1,35,91,4,2019,5,4,2,,2.42,0,Band 1 – Low,0–2 yrs,46–55,Far (26–50 km),3–5 yrs,Medium Risk,Good,Low,Good,N/A (Still Employed),Male,Divorced
+691,3,2,3,34,6,16,116,1,2010,14,4,3,,3.132,0,Band 1 – Low,6–10 yrs,26–35,Medium (11–25 km),12+ yrs,High Risk,Needs Improvement,Neutral,Good,N/A (Still Employed),Non-Binary / Other,Single
+692,1,3,2,43,16,19,55,5,2022,2,1,1,,3.088,0,Band 4 – High,11–20 yrs,36–45,Medium (11–25 km),0–2 yrs,High Risk,Outstanding,Very Low,Very Poor,N/A (Still Employed),Female,Divorced
+693,1,1,3,28,1,3,48,5,2010,14,5,2,,2.356,0,Band 1 – Low,0–2 yrs,26–35,Near (≤10 km),12+ yrs,Medium Risk,Outstanding,Low,Excellent,N/A (Still Employed),Male,Married
+694,3,4,2,48,4,41,130,1,2023,1,1,5,,2.682,0,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),0–2 yrs,Medium Risk,Needs Improvement,Very High,Very Poor,N/A (Still Employed),Female,Single
+695,6,4,2,24,3,10,27,3,2021,3,3,3,,2.42,0,Band 1 – Low,3–5 yrs,18–25,Near (≤10 km),3–5 yrs,Medium Risk,Average,Neutral,Fair,N/A (Still Employed),Male,Single
+696,2,1,3,59,14,18,11,1,2013,11,1,5,,3.136,0,Band 3 – Mid-High,11–20 yrs,55+,Medium (11–25 km),9–12 yrs,High Risk,Needs Improvement,Very High,Very Poor,N/A (Still Employed),Female,Divorced
+697,3,3,3,29,17,9,89,1,2023,1,2,2,,3.268,0,Band 3 – Mid-High,11–20 yrs,26–35,Near (≤10 km),0–2 yrs,High Risk,Needs Improvement,Low,Poor,N/A (Still Employed),Male,Single
+698,4,5,1,50,14,18,189,4,2010,14,4,4,,2.236,0,Band 4 – High,11–20 yrs,46–55,Medium (11–25 km),12+ yrs,Low Risk,Good,High,Good,N/A (Still Employed),Female,Single
+699,4,3,2,51,10,4,58,1,2011,13,1,2,,4.108,0,Band 2 – Mid-Low,6–10 yrs,46–55,Near (≤10 km),12+ yrs,High Risk,Needs Improvement,Low,Very Poor,N/A (Still Employed),Female,Married
+700,4,6,3,59,14,42,61,4,2010,14,4,5,,1.984,0,Band 4 – High,11–20 yrs,55+,Far (26–50 km),12+ yrs,Low Risk,Good,Very High,Good,N/A (Still Employed),Male,Divorced
+701,6,1,1,54,6,16,187,3,2012,12,1,2,,3.682,0,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),9–12 yrs,High Risk,Average,Low,Very Poor,N/A (Still Employed),Female,Married
+702,3,2,1,30,6,14,34,3,2017,7,4,4,,2.078,0,Band 2 – Mid-Low,6–10 yrs,26–35,Medium (11–25 km),6–8 yrs,Low Risk,Average,High,Good,N/A (Still Employed),Male,Married
+703,6,3,3,53,12,35,147,3,2012,12,2,1,,3.77,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,High Risk,Average,Very Low,Poor,N/A (Still Employed),Male,Single
+704,4,5,3,22,6,8,127,3,2014,10,1,5,,2.666,0,Band 2 – Mid-Low,6–10 yrs,18–25,Near (≤10 km),9–12 yrs,Medium Risk,Average,Very High,Very Poor,N/A (Still Employed),Non-Binary / Other,Single
+705,1,3,3,55,5,1,94,4,2010,14,5,1,,2.852,0,Band 2 – Mid-Low,3–5 yrs,46–55,Near (≤10 km),12+ yrs,Medium Risk,Good,Very Low,Excellent,N/A (Still Employed),Female,Married
+706,1,2,3,25,7,42,34,1,2015,9,5,5,,2.084,0,Band 1 – Low,6–10 yrs,18–25,Far (26–50 km),9–12 yrs,Low Risk,Needs Improvement,Very High,Excellent,N/A (Still Employed),Non-Binary / Other,Single
+707,6,4,3,57,16,23,25,5,2015,9,2,1,,3.196,0,Band 4 – High,11–20 yrs,55+,Medium (11–25 km),9–12 yrs,High Risk,Outstanding,Very Low,Poor,N/A (Still Employed),Female,Married
+708,5,3,1,49,6,41,169,3,2019,5,5,3,,2.082,0,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),3–5 yrs,Low Risk,Average,Neutral,Excellent,N/A (Still Employed),Male,Married
+709,4,4,3,59,17,39,129,4,2020,4,4,3,,2.078,0,Band 4 – High,11–20 yrs,55+,Far (26–50 km),3–5 yrs,Low Risk,Good,Neutral,Good,N/A (Still Employed),Male,Divorced
+710,4,6,2,52,4,24,162,5,2024,0,3,1,,2.498,0,Band 2 – Mid-Low,3–5 yrs,46–55,Medium (11–25 km),0–2 yrs,Medium Risk,Outstanding,Very Low,Fair,N/A (Still Employed),Female,Married
+711,4,2,3,54,15,21,50,1,2013,11,5,3,,2.742,0,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),9–12 yrs,Medium Risk,Needs Improvement,Neutral,Excellent,N/A (Still Employed),Non-Binary / Other,Single
+712,4,5,3,33,19,6,27,4,2014,10,1,2,,3.362,0,Band 4 – High,11–20 yrs,26–35,Near (≤10 km),9–12 yrs,High Risk,Good,Low,Very Poor,N/A (Still Employed),Female,Divorced
+713,3,3,1,59,7,46,99,3,2012,12,5,5,,1.842,0,Band 2 – Mid-Low,6–10 yrs,55+,Far (26–50 km),9–12 yrs,Low Risk,Average,Very High,Excellent,N/A (Still Employed),Male,Divorced
+714,6,4,1,33,6,36,172,4,2019,5,4,5,,1.522,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),3–5 yrs,Low Risk,Good,Very High,Good,N/A (Still Employed),Female,Single
+715,6,5,2,30,7,17,153,4,2016,8,1,2,,3.284,0,Band 2 – Mid-Low,6–10 yrs,26–35,Medium (11–25 km),6–8 yrs,High Risk,Good,Low,Very Poor,N/A (Still Employed),Male,Married
+716,3,4,3,28,2,47,67,1,2017,7,4,1,1.0,3.444,1,Band 1 – Low,0–2 yrs,26–35,Far (26–50 km),6–8 yrs,High Risk,Needs Improvement,Very Low,Good,High Dissatisfaction,Female,Married
+717,1,4,3,46,6,9,98,3,2020,4,2,4,,2.418,0,Band 2 – Mid-Low,6–10 yrs,46–55,Near (≤10 km),3–5 yrs,Medium Risk,Average,High,Poor,N/A (Still Employed),Female,Divorced
+718,6,4,2,60,7,27,170,5,2011,13,5,2,,2.354,0,Band 3 – Mid-High,6–10 yrs,55+,Far (26–50 km),12+ yrs,Medium Risk,Outstanding,Low,Excellent,N/A (Still Employed),Male,Divorced
+719,2,3,3,60,9,40,13,1,2020,4,5,5,,1.83,0,Band 2 – Mid-Low,6–10 yrs,55+,Far (26–50 km),3–5 yrs,Low Risk,Needs Improvement,Very High,Excellent,N/A (Still Employed),Female,Single
+720,6,4,3,42,14,19,59,1,2011,13,4,2,,3.388,0,Band 3 – Mid-High,11–20 yrs,36–45,Medium (11–25 km),12+ yrs,High Risk,Needs Improvement,Low,Good,N/A (Still Employed),Female,Divorced
+721,5,6,3,54,15,21,80,2,2011,13,1,5,,3.042,0,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),12+ yrs,High Risk,Below Average,Very High,Very Poor,N/A (Still Employed),Female,Married
+722,6,6,1,46,20,4,82,1,2014,10,3,3,,3.158,0,Band 4 – High,11–20 yrs,46–55,Near (≤10 km),9–12 yrs,High Risk,Needs Improvement,Neutral,Fair,N/A (Still Employed),Female,Married
+723,1,2,1,48,4,41,119,1,2018,6,4,4,1.0,2.482,1,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),6–8 yrs,Medium Risk,Needs Improvement,High,Good,High Dissatisfaction,Male,Single
+724,3,1,1,60,6,1,159,2,2013,11,5,5,,1.902,0,Band 1 – Low,6–10 yrs,55+,Near (≤10 km),9–12 yrs,Low Risk,Below Average,Very High,Excellent,N/A (Still Employed),Female,Single
+725,1,5,3,37,3,23,196,1,2017,7,3,4,,2.746,0,Band 1 – Low,3–5 yrs,36–45,Medium (11–25 km),6–8 yrs,Medium Risk,Needs Improvement,High,Fair,N/A (Still Employed),Female,Married
+726,1,6,3,39,10,15,88,3,2021,3,4,4,,1.88,0,Band 2 – Mid-Low,6–10 yrs,36–45,Medium (11–25 km),3–5 yrs,Low Risk,Average,High,Good,N/A (Still Employed),Female,Single
+727,3,5,3,47,3,47,104,4,2021,3,2,1,3.0,3.144,1,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),3–5 yrs,High Risk,Good,Very Low,Poor,Moderate Dissatisfaction,Female,Single
+728,5,6,3,43,13,18,169,2,2023,1,3,5,,1.936,0,Band 3 – Mid-High,11–20 yrs,36–45,Medium (11–25 km),0–2 yrs,Low Risk,Below Average,Very High,Fair,N/A (Still Employed),Female,Divorced
+729,2,3,2,40,4,12,113,2,2015,9,5,1,1.0,3.024,0,Band 1 – Low,3–5 yrs,36–45,Medium (11–25 km),9–12 yrs,High Risk,Below Average,Very Low,Excellent,High Dissatisfaction,Female,Divorced
+730,3,3,2,50,9,17,75,1,2024,0,4,3,,2.434,0,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),0–2 yrs,Medium Risk,Needs Improvement,Neutral,Good,N/A (Still Employed),Male,Divorced
+731,1,3,1,30,3,2,153,2,2024,0,5,2,,2.254,0,Band 1 – Low,3–5 yrs,26–35,Near (≤10 km),0–2 yrs,Low Risk,Below Average,Low,Excellent,N/A (Still Employed),Female,Married
+732,3,6,1,30,11,35,148,3,2023,1,3,3,,2.37,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),0–2 yrs,Medium Risk,Average,Neutral,Fair,N/A (Still Employed),Male,Married
+733,5,1,3,48,1,43,174,5,2013,11,3,2,,2.786,0,Band 1 – Low,0–2 yrs,46–55,Far (26–50 km),9–12 yrs,Medium Risk,Outstanding,Low,Fair,N/A (Still Employed),Non-Binary / Other,Married
+734,6,2,1,60,19,50,178,1,2017,7,3,2,,3.4,0,Band 4 – High,11–20 yrs,55+,Far (26–50 km),6–8 yrs,High Risk,Needs Improvement,Low,Fair,N/A (Still Employed),Male,Divorced
+735,6,5,3,54,8,50,61,1,2021,3,5,4,,2.1,0,Band 1 – Low,6–10 yrs,46–55,Far (26–50 km),3–5 yrs,Low Risk,Needs Improvement,High,Excellent,N/A (Still Employed),Male,Single
+736,2,5,3,41,16,38,29,3,2014,10,2,2,,3.376,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,High Risk,Average,Low,Poor,N/A (Still Employed),Female,Married
+737,2,3,2,57,16,7,161,1,2015,9,3,4,,2.814,0,Band 3 – Mid-High,11–20 yrs,55+,Near (≤10 km),9–12 yrs,Medium Risk,Needs Improvement,High,Fair,N/A (Still Employed),Male,Single
+738,3,3,3,42,4,47,49,1,2022,2,3,1,,3.444,0,Band 1 – Low,3–5 yrs,36–45,Far (26–50 km),0–2 yrs,High Risk,Needs Improvement,Very Low,Fair,N/A (Still Employed),Non-Binary / Other,Divorced
+739,3,2,1,57,1,48,36,1,2018,6,5,3,,2.546,0,Band 1 – Low,0–2 yrs,55+,Far (26–50 km),6–8 yrs,Medium Risk,Needs Improvement,Neutral,Excellent,N/A (Still Employed),Male,Divorced
+740,3,6,3,35,2,45,197,3,2014,10,5,1,,2.94,0,Band 1 – Low,0–2 yrs,26–35,Far (26–50 km),9–12 yrs,Medium Risk,Average,Very Low,Excellent,N/A (Still Employed),Male,Single
+741,4,4,1,34,9,25,65,1,2023,1,3,4,,2.45,0,Band 2 – Mid-Low,6–10 yrs,26–35,Medium (11–25 km),0–2 yrs,Medium Risk,Needs Improvement,High,Fair,N/A (Still Employed),Female,Married
+742,1,2,3,35,1,42,81,3,2020,4,4,5,3.0,1.684,0,Band 1 – Low,0–2 yrs,26–35,Far (26–50 km),3–5 yrs,Low Risk,Average,Very High,Good,Moderate Dissatisfaction,Male,Divorced
+743,1,3,3,40,19,17,55,3,2013,11,1,1,1.0,3.934,0,Band 4 – High,11–20 yrs,36–45,Medium (11–25 km),9–12 yrs,High Risk,Average,Very Low,Very Poor,High Dissatisfaction,Non-Binary / Other,Married
+744,5,6,2,44,2,41,77,5,2018,6,2,5,,1.882,0,Band 1 – Low,0–2 yrs,36–45,Far (26–50 km),6–8 yrs,Low Risk,Outstanding,Very High,Poor,N/A (Still Employed),Female,Divorced
+745,2,5,2,30,4,41,154,4,2024,0,4,1,,2.482,0,Band 1 – Low,3–5 yrs,26–35,Far (26–50 km),0–2 yrs,Medium Risk,Good,Very Low,Good,N/A (Still Employed),Female,Divorced
+746,6,2,3,33,7,39,36,3,2014,10,1,3,,3.328,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),9–12 yrs,High Risk,Average,Neutral,Very Poor,N/A (Still Employed),Non-Binary / Other,Divorced
+747,5,4,1,54,17,36,42,2,2015,9,3,5,3.0,2.372,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,Medium Risk,Below Average,Very High,Fair,Moderate Dissatisfaction,Male,Divorced
+748,5,6,3,56,1,14,143,2,2021,3,5,5,,1.528,0,Band 1 – Low,0–2 yrs,55+,Medium (11–25 km),3–5 yrs,Low Risk,Below Average,Very High,Excellent,N/A (Still Employed),Female,Divorced
+749,5,1,2,42,13,29,160,5,2018,6,4,5,,1.358,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),6–8 yrs,Low Risk,Outstanding,Very High,Good,N/A (Still Employed),Female,Divorced
+750,6,1,1,29,20,15,175,4,2018,6,4,5,,1.53,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),6–8 yrs,Low Risk,Good,Very High,Good,N/A (Still Employed),Female,Divorced
+751,6,5,3,44,17,21,108,1,2011,13,2,5,,2.992,0,Band 3 – Mid-High,11–20 yrs,36–45,Medium (11–25 km),12+ yrs,High Risk,Needs Improvement,Very High,Poor,N/A (Still Employed),Male,Married
+752,6,4,3,57,9,18,94,2,2010,14,2,4,,3.136,0,Band 2 – Mid-Low,6–10 yrs,55+,Medium (11–25 km),12+ yrs,High Risk,Below Average,High,Poor,N/A (Still Employed),Female,Married
+753,1,2,1,52,16,14,157,3,2015,9,1,5,4.0,2.628,1,Band 4 – High,11–20 yrs,46–55,Medium (11–25 km),9–12 yrs,Medium Risk,Average,Very High,Very Poor,Low Dissatisfaction,Male,Divorced
+754,4,3,3,59,16,38,161,2,2024,0,4,2,,2.576,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),0–2 yrs,Medium Risk,Below Average,Low,Good,N/A (Still Employed),Male,Married
+755,5,3,2,58,11,41,164,5,2016,8,3,3,,2.332,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),6–8 yrs,Low Risk,Outstanding,Neutral,Fair,N/A (Still Employed),Non-Binary / Other,Divorced
+756,6,4,1,48,20,49,80,4,2021,3,1,3,,2.798,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),3–5 yrs,Medium Risk,Good,Neutral,Very Poor,N/A (Still Employed),Male,Married
+757,2,2,3,56,14,26,198,4,2019,5,4,2,,2.402,0,Band 4 – High,11–20 yrs,55+,Far (26–50 km),3–5 yrs,Medium Risk,Good,Low,Good,N/A (Still Employed),Female,Married
+758,3,4,1,40,11,10,167,1,2017,7,3,4,,2.72,0,Band 2 – Mid-Low,11–20 yrs,36–45,Near (≤10 km),6–8 yrs,Medium Risk,Needs Improvement,High,Fair,N/A (Still Employed),Female,Single
+759,3,2,1,49,12,29,181,5,2014,10,5,2,4.0,2.208,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,Low Risk,Outstanding,Low,Excellent,Low Dissatisfaction,Female,Divorced
+760,2,1,2,22,11,15,131,5,2011,13,2,3,,2.78,0,Band 3 – Mid-High,11–20 yrs,18–25,Medium (11–25 km),12+ yrs,Medium Risk,Outstanding,Neutral,Poor,N/A (Still Employed),Female,Married
+761,2,2,3,55,11,47,63,2,2013,11,2,4,,3.044,0,Band 2 – Mid-Low,11–20 yrs,46–55,Far (26–50 km),9–12 yrs,High Risk,Below Average,High,Poor,N/A (Still Employed),Female,Divorced
+762,2,2,3,28,8,47,53,5,2024,0,1,4,,2.144,0,Band 3 – Mid-High,6–10 yrs,26–35,Far (26–50 km),0–2 yrs,Low Risk,Outstanding,High,Very Poor,N/A (Still Employed),Male,Divorced
+763,4,3,3,23,12,28,10,4,2012,12,2,4,,2.656,0,Band 3 – Mid-High,11–20 yrs,18–25,Far (26–50 km),9–12 yrs,Medium Risk,Good,High,Poor,N/A (Still Employed),Female,Single
+764,3,5,3,46,13,24,69,4,2023,1,2,4,,2.098,0,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),0–2 yrs,Low Risk,Good,High,Poor,N/A (Still Employed),Female,Married
+765,4,6,2,31,13,10,65,3,2018,6,3,1,,3.17,0,Band 3 – Mid-High,11–20 yrs,26–35,Near (≤10 km),6–8 yrs,High Risk,Average,Very Low,Fair,N/A (Still Employed),Female,Divorced
+766,6,6,3,25,20,31,33,3,2013,11,5,4,,2.062,0,Band 4 – High,11–20 yrs,18–25,Far (26–50 km),9–12 yrs,Low Risk,Average,High,Excellent,N/A (Still Employed),Female,Married
+767,3,3,1,25,2,6,167,4,2014,10,3,1,,3.162,0,Band 1 – Low,0–2 yrs,18–25,Near (≤10 km),9–12 yrs,High Risk,Good,Very Low,Fair,N/A (Still Employed),Male,Divorced
+768,2,1,2,34,12,32,47,2,2021,3,3,4,,2.364,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),3–5 yrs,Medium Risk,Below Average,High,Fair,N/A (Still Employed),Male,Divorced
+769,4,4,3,39,11,12,46,1,2018,6,5,1,4.0,3.074,1,Band 2 – Mid-Low,11–20 yrs,36–45,Medium (11–25 km),6–8 yrs,High Risk,Needs Improvement,Very Low,Excellent,Low Dissatisfaction,Male,Divorced
+770,1,3,3,32,4,30,52,3,2013,11,4,3,5.0,2.61,1,Band 1 – Low,3–5 yrs,26–35,Far (26–50 km),9–12 yrs,Medium Risk,Average,Neutral,Good,Low Dissatisfaction,Female,Divorced
+771,3,4,2,40,1,12,131,3,2011,13,1,5,,2.824,0,Band 1 – Low,0–2 yrs,36–45,Medium (11–25 km),12+ yrs,Medium Risk,Average,Very High,Very Poor,N/A (Still Employed),Female,Single
+772,5,3,1,38,15,12,10,1,2015,9,3,4,,2.824,0,Band 3 – Mid-High,11–20 yrs,36–45,Medium (11–25 km),9–12 yrs,Medium Risk,Needs Improvement,High,Fair,N/A (Still Employed),Female,Divorced
+773,2,6,2,31,13,13,92,3,2021,3,5,5,,1.326,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),3–5 yrs,Low Risk,Average,Very High,Excellent,N/A (Still Employed),Male,Divorced
+774,2,5,1,25,5,37,29,5,2023,1,2,4,4.0,1.924,0,Band 2 – Mid-Low,3–5 yrs,18–25,Far (26–50 km),0–2 yrs,Low Risk,Outstanding,High,Poor,Low Dissatisfaction,Male,Single
+775,6,5,2,40,1,32,23,2,2022,2,5,3,,2.114,0,Band 1 – Low,0–2 yrs,36–45,Far (26–50 km),0–2 yrs,Low Risk,Below Average,Neutral,Excellent,N/A (Still Employed),Female,Married
+776,4,3,3,35,20,47,45,2,2012,12,2,4,,3.094,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,High Risk,Below Average,High,Poor,N/A (Still Employed),Male,Single
+777,6,3,3,56,4,12,140,1,2010,14,3,3,,3.374,0,Band 1 – Low,3–5 yrs,55+,Medium (11–25 km),12+ yrs,High Risk,Needs Improvement,Neutral,Fair,N/A (Still Employed),Female,Divorced
+778,1,6,3,24,17,42,122,1,2013,11,2,1,2.0,4.134,0,Band 3 – Mid-High,11–20 yrs,18–25,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Very Low,Poor,High Dissatisfaction,Female,Divorced
+779,5,4,2,44,9,19,118,4,2021,3,2,5,5.0,1.888,1,Band 3 – Mid-High,6–10 yrs,36–45,Medium (11–25 km),3–5 yrs,Low Risk,Good,Very High,Poor,Low Dissatisfaction,Male,Divorced
+780,1,4,3,50,8,2,180,1,2017,7,4,1,,3.354,0,Band 1 – Low,6–10 yrs,46–55,Near (≤10 km),6–8 yrs,High Risk,Needs Improvement,Very Low,Good,N/A (Still Employed),Male,Married
+781,6,6,1,28,12,20,130,2,2020,4,2,2,,3.24,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),3–5 yrs,High Risk,Below Average,Low,Poor,N/A (Still Employed),Female,Single
+782,3,1,2,57,15,11,93,1,2022,2,2,1,,3.622,0,Band 3 – Mid-High,11–20 yrs,55+,Medium (11–25 km),0–2 yrs,High Risk,Needs Improvement,Very Low,Poor,N/A (Still Employed),Non-Binary / Other,Single
+783,3,1,1,36,20,12,87,2,2017,7,5,3,,2.324,0,Band 4 – High,11–20 yrs,36–45,Medium (11–25 km),6–8 yrs,Low Risk,Below Average,Neutral,Excellent,N/A (Still Employed),Female,Single
+784,6,3,3,57,16,26,138,4,2011,13,2,5,,2.402,0,Band 4 – High,11–20 yrs,55+,Far (26–50 km),12+ yrs,Medium Risk,Good,Very High,Poor,N/A (Still Employed),Male,Single
+785,5,5,3,46,17,44,40,4,2010,14,3,5,,2.238,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),12+ yrs,Low Risk,Good,Very High,Fair,N/A (Still Employed),Female,Married
+786,5,1,2,37,14,39,71,2,2017,7,5,5,2.0,1.778,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),6–8 yrs,Low Risk,Below Average,Very High,Excellent,High Dissatisfaction,Male,Divorced
+787,6,1,1,54,7,13,153,4,2023,1,4,2,,2.176,0,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),0–2 yrs,Low Risk,Good,Low,Good,N/A (Still Employed),Female,Divorced
+788,3,2,3,40,1,5,110,1,2010,14,5,3,,2.86,0,Band 1 – Low,0–2 yrs,36–45,Near (≤10 km),12+ yrs,Medium Risk,Needs Improvement,Neutral,Excellent,N/A (Still Employed),Male,Single
+789,4,5,2,25,11,10,106,3,2014,10,4,1,,3.12,0,Band 3 – Mid-High,11–20 yrs,18–25,Near (≤10 km),9–12 yrs,High Risk,Average,Very Low,Good,N/A (Still Employed),Female,Single
+790,5,4,3,46,1,5,108,2,2014,10,3,5,2.0,2.36,1,Band 1 – Low,0–2 yrs,46–55,Near (≤10 km),9–12 yrs,Medium Risk,Below Average,Very High,Fair,High Dissatisfaction,Male,Single
+791,5,4,2,46,12,28,190,5,2019,5,2,1,,3.006,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),3–5 yrs,High Risk,Outstanding,Very Low,Poor,N/A (Still Employed),Non-Binary / Other,Divorced
+792,6,6,3,48,2,16,131,5,2016,8,3,1,,2.882,0,Band 1 – Low,0–2 yrs,46–55,Medium (11–25 km),6–8 yrs,Medium Risk,Outstanding,Very Low,Fair,N/A (Still Employed),Male,Married
+793,5,4,3,42,11,30,100,5,2014,10,4,3,,2.16,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,Low Risk,Outstanding,Neutral,Good,N/A (Still Employed),Male,Divorced
+794,2,2,1,57,15,42,89,3,2023,1,3,4,,2.084,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),0–2 yrs,Low Risk,Average,High,Fair,N/A (Still Employed),Male,Married
+795,4,3,2,25,8,26,143,3,2011,13,3,2,,3.252,0,Band 2 – Mid-Low,6–10 yrs,18–25,Far (26–50 km),12+ yrs,High Risk,Average,Low,Fair,N/A (Still Employed),Female,Married
+796,6,3,2,22,20,7,91,4,2010,14,2,3,,3.014,0,Band 4 – High,11–20 yrs,18–25,Near (≤10 km),12+ yrs,High Risk,Good,Neutral,Poor,N/A (Still Employed),Female,Single
+797,2,4,1,38,16,47,145,2,2014,10,3,5,,2.444,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,Medium Risk,Below Average,Very High,Fair,N/A (Still Employed),Male,Single
+798,2,5,2,34,13,34,30,5,2023,1,3,1,,2.568,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),0–2 yrs,Medium Risk,Outstanding,Very Low,Fair,N/A (Still Employed),Female,Divorced
+799,6,2,2,50,20,9,164,1,2019,5,3,4,,2.618,0,Band 4 – High,11–20 yrs,46–55,Near (≤10 km),3–5 yrs,Medium Risk,Needs Improvement,High,Fair,N/A (Still Employed),Female,Single
+800,6,4,2,36,3,47,64,2,2016,8,3,5,3.0,2.344,1,Band 1 – Low,3–5 yrs,36–45,Far (26–50 km),6–8 yrs,Low Risk,Below Average,Very High,Fair,Moderate Dissatisfaction,Male,Single
+801,6,4,2,45,12,49,52,2,2017,7,4,5,,2.048,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),6–8 yrs,Low Risk,Below Average,Very High,Good,N/A (Still Employed),Non-Binary / Other,Married
+802,2,3,1,59,14,1,172,3,2010,14,3,2,,3.252,0,Band 3 – Mid-High,11–20 yrs,55+,Near (≤10 km),12+ yrs,High Risk,Average,Low,Fair,N/A (Still Employed),Male,Single
+803,1,6,3,56,16,39,81,4,2023,1,4,5,,1.328,0,Band 4 – High,11–20 yrs,55+,Far (26–50 km),0–2 yrs,Low Risk,Good,Very High,Good,N/A (Still Employed),Female,Married
+804,6,5,2,60,4,7,192,4,2016,8,5,3,,1.964,0,Band 1 – Low,3–5 yrs,55+,Near (≤10 km),6–8 yrs,Low Risk,Good,Neutral,Excellent,N/A (Still Employed),Female,Single
+805,6,2,1,34,13,25,46,5,2016,8,4,1,,2.65,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),6–8 yrs,Medium Risk,Outstanding,Very Low,Good,N/A (Still Employed),Male,Married
+806,4,2,3,34,10,25,121,5,2017,7,4,2,,2.3,0,Band 3 – Mid-High,6–10 yrs,26–35,Medium (11–25 km),6–8 yrs,Low Risk,Outstanding,Low,Good,N/A (Still Employed),Male,Divorced
+807,6,1,1,40,20,2,153,2,2010,14,1,1,5.0,4.254,1,Band 4 – High,11–20 yrs,36–45,Near (≤10 km),12+ yrs,High Risk,Below Average,Very Low,Very Poor,Low Dissatisfaction,Male,Married
+808,5,5,3,50,7,8,123,4,2013,11,4,4,,2.066,0,Band 2 – Mid-Low,6–10 yrs,46–55,Near (≤10 km),9–12 yrs,Low Risk,Good,High,Good,N/A (Still Employed),Male,Divorced
+809,5,3,3,33,5,1,135,2,2013,11,1,2,,3.802,0,Band 1 – Low,3–5 yrs,26–35,Near (≤10 km),9–12 yrs,High Risk,Below Average,Low,Very Poor,N/A (Still Employed),Female,Married
+810,4,6,3,26,17,49,187,1,2016,8,4,2,,3.198,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),6–8 yrs,High Risk,Needs Improvement,Low,Good,N/A (Still Employed),Female,Divorced
+811,4,6,3,33,19,42,74,3,2012,12,3,3,,2.934,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,Medium Risk,Average,Neutral,Fair,N/A (Still Employed),Female,Single
+812,1,1,3,33,17,3,185,4,2020,4,2,1,,3.106,0,Band 4 – High,11–20 yrs,26–35,Near (≤10 km),3–5 yrs,High Risk,Good,Very Low,Poor,N/A (Still Employed),Male,Married
+813,6,3,3,54,2,9,40,2,2016,8,4,2,,2.918,0,Band 1 – Low,0–2 yrs,46–55,Near (≤10 km),6–8 yrs,Medium Risk,Below Average,Low,Good,N/A (Still Employed),Male,Married
+814,1,4,3,29,5,16,152,3,2018,6,3,4,,2.282,0,Band 1 – Low,3–5 yrs,26–35,Medium (11–25 km),6–8 yrs,Low Risk,Average,High,Fair,N/A (Still Employed),Male,Married
+815,5,1,1,46,16,50,121,5,2010,14,1,2,,3.45,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),12+ yrs,High Risk,Outstanding,Low,Very Poor,N/A (Still Employed),Female,Married
+816,2,3,2,24,3,6,176,1,2020,4,2,5,5.0,2.512,0,Band 1 – Low,3–5 yrs,18–25,Near (≤10 km),3–5 yrs,Medium Risk,Needs Improvement,Very High,Poor,Low Dissatisfaction,Non-Binary / Other,Single
+817,1,4,3,49,10,18,99,2,2014,10,2,5,1.0,2.636,1,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),9–12 yrs,Medium Risk,Below Average,Very High,Poor,High Dissatisfaction,Female,Single
+818,3,3,1,39,18,10,55,4,2010,14,3,1,,3.37,0,Band 4 – High,11–20 yrs,36–45,Near (≤10 km),12+ yrs,High Risk,Good,Very Low,Fair,N/A (Still Employed),Male,Married
+819,3,6,1,57,15,41,16,1,2018,6,3,1,,3.632,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),6–8 yrs,High Risk,Needs Improvement,Very Low,Fair,N/A (Still Employed),Non-Binary / Other,Divorced
+820,3,5,3,38,6,39,103,1,2022,2,3,4,,2.528,0,Band 1 – Low,6–10 yrs,36–45,Far (26–50 km),0–2 yrs,Medium Risk,Needs Improvement,High,Fair,N/A (Still Employed),Male,Divorced
+821,4,3,1,30,15,1,129,2,2015,9,1,2,,3.702,0,Band 3 – Mid-High,11–20 yrs,26–35,Near (≤10 km),9–12 yrs,High Risk,Below Average,Low,Very Poor,N/A (Still Employed),Female,Married
+822,5,5,3,32,4,1,181,1,2024,0,3,1,,3.252,0,Band 1 – Low,3–5 yrs,26–35,Near (≤10 km),0–2 yrs,High Risk,Needs Improvement,Very Low,Fair,N/A (Still Employed),Female,Married
+823,3,3,1,59,16,7,98,4,2010,14,4,3,,2.514,0,Band 4 – High,11–20 yrs,55+,Near (≤10 km),12+ yrs,Medium Risk,Good,Neutral,Good,N/A (Still Employed),Male,Single
+824,5,4,2,38,18,35,196,2,2024,0,4,1,,2.87,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),0–2 yrs,Medium Risk,Below Average,Very Low,Good,N/A (Still Employed),Female,Single
+825,1,5,1,22,8,48,118,3,2019,5,3,2,,2.896,0,Band 2 – Mid-Low,6–10 yrs,18–25,Far (26–50 km),3–5 yrs,Medium Risk,Average,Low,Fair,N/A (Still Employed),Male,Married
+826,6,2,1,43,8,22,64,1,2022,2,5,3,,2.294,0,Band 1 – Low,6–10 yrs,36–45,Medium (11–25 km),0–2 yrs,Low Risk,Needs Improvement,Neutral,Excellent,N/A (Still Employed),Male,Divorced
+827,4,5,1,51,7,46,167,4,2024,0,5,2,,1.942,0,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),0–2 yrs,Low Risk,Good,Low,Excellent,N/A (Still Employed),Female,Divorced
+828,4,4,3,31,6,6,153,5,2015,9,2,4,,2.262,0,Band 2 – Mid-Low,6–10 yrs,26–35,Near (≤10 km),9–12 yrs,Low Risk,Outstanding,High,Poor,N/A (Still Employed),Male,Single
+829,3,5,3,24,3,13,58,4,2024,0,2,2,5.0,2.626,1,Band 1 – Low,3–5 yrs,18–25,Medium (11–25 km),0–2 yrs,Medium Risk,Good,Low,Poor,Low Dissatisfaction,Female,Single
+830,2,3,3,31,4,9,107,3,2023,1,5,3,,1.818,0,Band 1 – Low,3–5 yrs,26–35,Near (≤10 km),0–2 yrs,Low Risk,Average,Neutral,Excellent,N/A (Still Employed),Non-Binary / Other,Married
+831,2,3,2,42,14,31,105,3,2024,0,5,4,,1.512,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),0–2 yrs,Low Risk,Average,High,Excellent,N/A (Still Employed),Male,Married
+832,6,2,3,60,1,49,55,1,2014,10,4,1,,3.598,0,Band 1 – Low,0–2 yrs,55+,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Very Low,Good,N/A (Still Employed),Female,Single
+833,5,5,3,25,6,37,12,5,2022,2,3,2,2.0,2.324,1,Band 2 – Mid-Low,6–10 yrs,18–25,Far (26–50 km),0–2 yrs,Low Risk,Outstanding,Low,Fair,High Dissatisfaction,Male,Married
+834,1,3,2,41,11,29,60,1,2022,2,1,2,,3.608,0,Band 2 – Mid-Low,11–20 yrs,36–45,Far (26–50 km),0–2 yrs,High Risk,Needs Improvement,Low,Very Poor,N/A (Still Employed),Female,Single
+835,3,5,3,53,13,11,123,3,2019,5,1,5,,2.422,0,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),3–5 yrs,Medium Risk,Average,Very High,Very Poor,N/A (Still Employed),Female,Married
+836,5,1,3,58,9,20,102,4,2013,11,2,2,,3.19,0,Band 3 – Mid-High,6–10 yrs,55+,Medium (11–25 km),9–12 yrs,High Risk,Good,Low,Poor,N/A (Still Employed),Female,Single
+837,1,3,2,57,8,22,144,2,2022,2,2,5,,2.244,0,Band 2 – Mid-Low,6–10 yrs,55+,Medium (11–25 km),0–2 yrs,Low Risk,Below Average,Very High,Poor,N/A (Still Employed),Male,Divorced
+838,5,5,3,44,9,31,59,2,2010,14,3,3,,3.212,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),12+ yrs,High Risk,Below Average,Neutral,Fair,N/A (Still Employed),Male,Married
+839,2,6,3,26,16,10,11,4,2015,9,4,4,,1.97,0,Band 4 – High,11–20 yrs,26–35,Near (≤10 km),9–12 yrs,Low Risk,Good,High,Good,N/A (Still Employed),Male,Married
+840,2,3,3,42,4,16,160,5,2021,3,5,5,,0.932,0,Band 2 – Mid-Low,3–5 yrs,36–45,Medium (11–25 km),3–5 yrs,Low Risk,Outstanding,Very High,Excellent,N/A (Still Employed),Male,Divorced
+841,3,6,1,55,5,4,89,4,2023,1,4,3,,1.858,0,Band 2 – Mid-Low,3–5 yrs,46–55,Near (≤10 km),0–2 yrs,Low Risk,Good,Neutral,Good,N/A (Still Employed),Female,Divorced
+842,2,1,3,36,18,35,94,5,2019,5,1,2,,2.97,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),3–5 yrs,High Risk,Outstanding,Low,Very Poor,N/A (Still Employed),Female,Single
+843,2,1,3,33,16,45,34,3,2016,8,4,3,,2.49,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),6–8 yrs,Medium Risk,Average,Neutral,Good,N/A (Still Employed),Male,Married
+844,6,3,1,55,3,18,104,1,2023,1,4,4,,2.186,0,Band 1 – Low,3–5 yrs,46–55,Medium (11–25 km),0–2 yrs,Low Risk,Needs Improvement,High,Good,N/A (Still Employed),Female,Divorced
+845,6,1,3,26,11,41,74,4,2016,8,2,1,3.0,3.382,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),6–8 yrs,High Risk,Good,Very Low,Poor,Moderate Dissatisfaction,Male,Single
+846,2,3,2,54,8,35,138,3,2022,2,3,4,,2.12,0,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),0–2 yrs,Low Risk,Average,High,Fair,N/A (Still Employed),Female,Divorced
+847,3,4,3,32,19,8,13,3,2021,3,5,4,,1.616,0,Band 4 – High,11–20 yrs,26–35,Near (≤10 km),3–5 yrs,Low Risk,Average,High,Excellent,N/A (Still Employed),Female,Married
+848,3,6,2,48,20,2,165,1,2024,0,5,4,,1.854,0,Band 4 – High,11–20 yrs,46–55,Near (≤10 km),0–2 yrs,Low Risk,Needs Improvement,High,Excellent,N/A (Still Employed),Female,Married
+849,5,2,3,56,3,3,79,1,2021,3,4,3,,2.556,0,Band 1 – Low,3–5 yrs,55+,Near (≤10 km),3–5 yrs,Medium Risk,Needs Improvement,Neutral,Good,N/A (Still Employed),Female,Married
+850,2,4,1,56,11,7,18,4,2022,2,1,2,,2.964,0,Band 3 – Mid-High,11–20 yrs,55+,Near (≤10 km),0–2 yrs,High Risk,Good,Low,Very Poor,N/A (Still Employed),Male,Married
+851,2,1,2,47,13,35,175,4,2010,14,1,4,,3.02,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),12+ yrs,High Risk,Good,High,Very Poor,N/A (Still Employed),Male,Single
+852,4,3,3,27,13,19,80,2,2022,2,1,3,,3.088,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),0–2 yrs,High Risk,Below Average,Neutral,Very Poor,N/A (Still Employed),Male,Single
+853,5,4,2,44,18,7,174,3,2011,13,3,5,,2.314,0,Band 4 – High,11–20 yrs,36–45,Near (≤10 km),12+ yrs,Low Risk,Average,Very High,Fair,N/A (Still Employed),Male,Divorced
+854,6,5,3,36,14,33,132,2,2018,6,3,1,,3.416,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),6–8 yrs,High Risk,Below Average,Very Low,Fair,N/A (Still Employed),Female,Married
+855,6,5,3,35,8,27,111,4,2016,8,5,4,,1.704,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),6–8 yrs,Low Risk,Good,High,Excellent,N/A (Still Employed),Female,Married
+856,3,5,3,43,8,10,21,2,2021,3,3,1,,3.22,0,Band 2 – Mid-Low,6–10 yrs,36–45,Near (≤10 km),3–5 yrs,High Risk,Below Average,Very Low,Fair,N/A (Still Employed),Male,Married
+857,1,3,1,43,9,1,188,5,2024,0,4,4,,1.302,0,Band 3 – Mid-High,6–10 yrs,36–45,Near (≤10 km),0–2 yrs,Low Risk,Outstanding,High,Good,N/A (Still Employed),Female,Single
+858,1,1,1,45,4,15,190,3,2020,4,3,2,,2.78,0,Band 1 – Low,3–5 yrs,36–45,Medium (11–25 km),3–5 yrs,Medium Risk,Average,Low,Fair,N/A (Still Employed),Male,Married
+859,2,3,1,40,10,2,74,5,2014,10,1,2,,3.154,0,Band 3 – Mid-High,6–10 yrs,36–45,Near (≤10 km),9–12 yrs,High Risk,Outstanding,Low,Very Poor,N/A (Still Employed),Male,Single
+860,2,1,2,35,3,15,80,5,2023,1,4,1,,2.28,0,Band 2 – Mid-Low,3–5 yrs,26–35,Medium (11–25 km),0–2 yrs,Low Risk,Outstanding,Very Low,Good,N/A (Still Employed),Female,Divorced
+861,5,2,3,55,4,28,170,4,2018,6,2,1,,3.256,0,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),6–8 yrs,High Risk,Good,Very Low,Poor,N/A (Still Employed),Female,Divorced
+862,4,3,2,52,3,25,24,5,2017,7,1,1,,3.35,0,Band 2 – Mid-Low,3–5 yrs,46–55,Medium (11–25 km),6–8 yrs,High Risk,Outstanding,Very Low,Very Poor,N/A (Still Employed),Non-Binary / Other,Single
+863,4,6,3,57,11,10,156,4,2016,8,3,2,,2.77,0,Band 3 – Mid-High,11–20 yrs,55+,Near (≤10 km),6–8 yrs,Medium Risk,Good,Low,Fair,N/A (Still Employed),Male,Married
+864,3,2,1,22,19,23,17,1,2019,5,4,4,,2.396,0,Band 4 – High,11–20 yrs,18–25,Medium (11–25 km),3–5 yrs,Medium Risk,Needs Improvement,High,Good,N/A (Still Employed),Female,Married
+865,5,3,2,29,7,42,193,1,2021,3,2,1,,3.734,0,Band 1 – Low,6–10 yrs,26–35,Far (26–50 km),3–5 yrs,High Risk,Needs Improvement,Very Low,Poor,N/A (Still Employed),Female,Divorced
+866,1,2,3,44,4,19,130,2,2019,5,2,2,,3.288,0,Band 1 – Low,3–5 yrs,36–45,Medium (11–25 km),3–5 yrs,High Risk,Below Average,Low,Poor,N/A (Still Employed),Female,Married
+867,4,2,3,50,19,15,165,1,2022,2,5,5,,1.68,0,Band 4 – High,11–20 yrs,46–55,Medium (11–25 km),0–2 yrs,Low Risk,Needs Improvement,Very High,Excellent,N/A (Still Employed),Non-Binary / Other,Divorced
+868,1,3,3,37,12,44,171,2,2018,6,3,3,,2.838,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),6–8 yrs,Medium Risk,Below Average,Neutral,Fair,N/A (Still Employed),Female,Married
+869,5,4,2,37,5,25,126,1,2014,10,5,2,,3.0,0,Band 1 – Low,3–5 yrs,36–45,Medium (11–25 km),9–12 yrs,High Risk,Needs Improvement,Low,Excellent,N/A (Still Employed),Female,Single
+870,4,5,2,24,11,44,135,1,2012,12,2,3,,3.588,0,Band 2 – Mid-Low,11–20 yrs,18–25,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Neutral,Poor,N/A (Still Employed),Female,Single
+871,6,2,3,42,13,46,54,1,2016,8,5,4,,2.342,0,Band 2 – Mid-Low,11–20 yrs,36–45,Far (26–50 km),6–8 yrs,Low Risk,Needs Improvement,High,Excellent,N/A (Still Employed),Male,Single
+872,2,5,3,46,19,8,131,5,2017,7,1,3,,2.716,0,Band 4 – High,11–20 yrs,46–55,Near (≤10 km),6–8 yrs,Medium Risk,Outstanding,Neutral,Very Poor,N/A (Still Employed),Non-Binary / Other,Married
+873,4,3,1,29,1,32,175,3,2021,3,4,5,,1.614,0,Band 1 – Low,0–2 yrs,26–35,Far (26–50 km),3–5 yrs,Low Risk,Average,Very High,Good,N/A (Still Employed),Female,Divorced
+874,4,2,3,46,10,11,149,2,2024,0,2,3,2.0,2.722,1,Band 2 – Mid-Low,6–10 yrs,46–55,Medium (11–25 km),0–2 yrs,Medium Risk,Below Average,Neutral,Poor,High Dissatisfaction,Non-Binary / Other,Single
+875,5,5,1,38,2,8,36,1,2013,11,3,3,,3.216,0,Band 1 – Low,0–2 yrs,36–45,Near (≤10 km),9–12 yrs,High Risk,Needs Improvement,Neutral,Fair,N/A (Still Employed),Male,Married
+876,3,5,2,56,19,15,19,5,2012,12,5,5,,1.38,0,Band 4 – High,11–20 yrs,55+,Medium (11–25 km),9–12 yrs,Low Risk,Outstanding,Very High,Excellent,N/A (Still Employed),Male,Divorced
+877,6,1,3,40,18,7,104,1,2024,0,5,3,,2.164,0,Band 3 – Mid-High,11–20 yrs,36–45,Near (≤10 km),0–2 yrs,Low Risk,Needs Improvement,Neutral,Excellent,N/A (Still Employed),Female,Divorced
+878,2,4,3,23,7,19,17,3,2010,14,3,1,,3.588,0,Band 2 – Mid-Low,6–10 yrs,18–25,Medium (11–25 km),12+ yrs,High Risk,Average,Very Low,Fair,N/A (Still Employed),Male,Divorced
+879,6,6,1,55,13,23,166,2,2014,10,5,1,,3.096,0,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),9–12 yrs,High Risk,Below Average,Very Low,Excellent,N/A (Still Employed),Female,Married
+880,5,5,3,45,14,5,192,5,2022,2,5,4,,1.16,0,Band 4 – High,11–20 yrs,36–45,Near (≤10 km),0–2 yrs,Low Risk,Outstanding,High,Excellent,N/A (Still Employed),Female,Single
+881,5,6,3,54,11,40,49,4,2020,4,3,2,,2.63,0,Band 3 – Mid-High,11–20 yrs,46–55,Far (26–50 km),3–5 yrs,Medium Risk,Good,Low,Fair,N/A (Still Employed),Male,Single
+882,2,3,3,54,12,22,190,4,2014,10,1,1,,3.694,0,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),9–12 yrs,High Risk,Good,Very Low,Very Poor,N/A (Still Employed),Male,Single
+883,6,3,3,50,5,8,198,4,2011,13,2,5,,2.366,0,Band 2 – Mid-Low,3–5 yrs,46–55,Near (≤10 km),12+ yrs,Medium Risk,Good,Very High,Poor,N/A (Still Employed),Male,Single
+884,6,1,1,53,17,24,55,1,2013,11,1,4,,3.448,0,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),9–12 yrs,High Risk,Needs Improvement,High,Very Poor,N/A (Still Employed),Male,Divorced
+885,3,5,1,24,20,6,43,2,2022,2,3,2,,2.862,0,Band 4 – High,11–20 yrs,18–25,Near (≤10 km),0–2 yrs,Medium Risk,Below Average,Low,Fair,N/A (Still Employed),Male,Divorced
+886,1,2,2,40,19,3,31,3,2018,6,3,2,,2.856,0,Band 4 – High,11–20 yrs,36–45,Near (≤10 km),6–8 yrs,Medium Risk,Average,Low,Fair,N/A (Still Employed),Female,Married
+887,6,3,3,34,8,39,117,4,2014,10,4,5,,1.778,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),9–12 yrs,Low Risk,Good,Very High,Good,N/A (Still Employed),Female,Single
+888,5,2,3,42,4,10,40,2,2015,9,2,1,,3.77,0,Band 1 – Low,3–5 yrs,36–45,Near (≤10 km),9–12 yrs,High Risk,Below Average,Very Low,Poor,N/A (Still Employed),Male,Divorced
+889,2,3,2,54,13,12,24,2,2019,5,2,4,3.0,2.674,1,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),3–5 yrs,Medium Risk,Below Average,High,Poor,Moderate Dissatisfaction,Female,Divorced
+890,2,2,1,27,1,28,123,2,2016,8,3,4,,2.606,0,Band 1 – Low,0–2 yrs,26–35,Far (26–50 km),6–8 yrs,Medium Risk,Below Average,High,Fair,N/A (Still Employed),Female,Married
+891,3,4,1,28,18,34,173,3,2010,14,4,1,3.0,3.368,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),12+ yrs,High Risk,Average,Very Low,Good,Moderate Dissatisfaction,Male,Single
+892,1,5,2,32,15,22,191,3,2019,5,2,1,,3.394,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),3–5 yrs,High Risk,Average,Very Low,Poor,N/A (Still Employed),Male,Divorced
+893,2,4,3,56,11,39,25,5,2014,10,4,2,,2.478,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),9–12 yrs,Medium Risk,Outstanding,Low,Good,N/A (Still Employed),Male,Single
+894,3,4,2,56,5,12,90,3,2015,9,3,1,,3.324,0,Band 1 – Low,3–5 yrs,55+,Medium (11–25 km),9–12 yrs,High Risk,Average,Very Low,Fair,N/A (Still Employed),Female,Divorced
+895,2,5,3,22,10,44,34,1,2014,10,3,4,,2.938,0,Band 2 – Mid-Low,6–10 yrs,18–25,Far (26–50 km),9–12 yrs,Medium Risk,Needs Improvement,High,Fair,N/A (Still Employed),Male,Married
+896,4,6,2,26,8,28,149,1,2020,4,2,2,,3.456,0,Band 1 – Low,6–10 yrs,26–35,Far (26–50 km),3–5 yrs,High Risk,Needs Improvement,Low,Poor,N/A (Still Employed),Male,Married
+897,5,2,3,35,16,10,81,2,2014,10,3,1,2.0,3.57,1,Band 3 – Mid-High,11–20 yrs,26–35,Near (≤10 km),9–12 yrs,High Risk,Below Average,Very Low,Fair,High Dissatisfaction,Non-Binary / Other,Married
+898,6,4,1,35,15,43,59,5,2022,2,3,1,,2.636,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),0–2 yrs,Medium Risk,Outstanding,Very Low,Fair,N/A (Still Employed),Male,Married
+899,1,5,1,49,5,44,177,5,2020,4,5,2,,1.938,0,Band 2 – Mid-Low,3–5 yrs,46–55,Far (26–50 km),3–5 yrs,Low Risk,Outstanding,Low,Excellent,N/A (Still Employed),Non-Binary / Other,Divorced
+900,6,2,1,28,20,20,167,4,2022,2,1,4,,2.39,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),0–2 yrs,Medium Risk,Good,High,Very Poor,N/A (Still Employed),Female,Divorced
+901,6,5,1,35,10,40,198,3,2022,2,2,5,,2.08,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),0–2 yrs,Low Risk,Average,Very High,Poor,N/A (Still Employed),Female,Married
+902,4,5,2,56,5,19,14,2,2019,5,1,3,,3.238,0,Band 1 – Low,3–5 yrs,55+,Medium (11–25 km),3–5 yrs,High Risk,Below Average,Neutral,Very Poor,N/A (Still Employed),Female,Divorced
+903,1,6,1,49,2,23,95,2,2010,14,4,4,,2.646,0,Band 1 – Low,0–2 yrs,46–55,Medium (11–25 km),12+ yrs,Medium Risk,Below Average,High,Good,N/A (Still Employed),Male,Married
+904,6,4,3,26,20,7,182,3,2011,13,4,2,,2.964,0,Band 4 – High,11–20 yrs,26–35,Near (≤10 km),12+ yrs,High Risk,Average,Low,Good,N/A (Still Employed),Female,Divorced
+905,3,5,1,31,11,18,91,1,2014,10,4,4,,2.636,0,Band 2 – Mid-Low,11–20 yrs,26–35,Medium (11–25 km),9–12 yrs,Medium Risk,Needs Improvement,High,Good,N/A (Still Employed),Female,Married
+906,2,5,2,23,10,32,191,2,2019,5,4,5,,1.914,0,Band 2 – Mid-Low,6–10 yrs,18–25,Far (26–50 km),3–5 yrs,Low Risk,Below Average,Very High,Good,N/A (Still Employed),Non-Binary / Other,Divorced
+907,5,3,3,51,17,43,53,2,2020,4,1,1,,3.836,0,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),3–5 yrs,High Risk,Below Average,Very Low,Very Poor,N/A (Still Employed),Male,Divorced
+908,2,4,1,43,4,24,160,3,2015,9,5,5,,1.648,0,Band 1 – Low,3–5 yrs,36–45,Medium (11–25 km),9–12 yrs,Low Risk,Average,Very High,Excellent,N/A (Still Employed),Female,Single
+909,5,2,1,24,9,17,194,4,2023,1,1,2,,2.934,0,Band 3 – Mid-High,6–10 yrs,18–25,Medium (11–25 km),0–2 yrs,Medium Risk,Good,Low,Very Poor,N/A (Still Employed),Male,Single
+910,3,4,3,27,19,46,103,2,2014,10,5,2,,2.842,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,Medium Risk,Below Average,Low,Excellent,N/A (Still Employed),Female,Single
+911,2,6,3,26,16,5,142,1,2023,1,3,3,,2.71,0,Band 3 – Mid-High,11–20 yrs,26–35,Near (≤10 km),0–2 yrs,Medium Risk,Needs Improvement,Neutral,Fair,N/A (Still Employed),Male,Single
+912,4,6,2,25,7,1,13,4,2012,12,1,1,,3.752,0,Band 2 – Mid-Low,6–10 yrs,18–25,Near (≤10 km),9–12 yrs,High Risk,Good,Very Low,Very Poor,N/A (Still Employed),Male,Divorced
+913,3,5,1,33,16,10,180,4,2017,7,5,5,,1.32,0,Band 4 – High,11–20 yrs,26–35,Near (≤10 km),6–8 yrs,Low Risk,Good,Very High,Excellent,N/A (Still Employed),Male,Divorced
+914,4,3,3,38,10,50,113,3,2017,7,4,1,,3.05,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),6–8 yrs,High Risk,Average,Very Low,Good,N/A (Still Employed),Male,Single
+915,1,3,3,57,13,42,116,1,2010,14,1,2,,4.234,0,Band 2 – Mid-Low,11–20 yrs,55+,Far (26–50 km),12+ yrs,High Risk,Needs Improvement,Low,Very Poor,N/A (Still Employed),Female,Married
+916,2,1,1,26,2,10,180,2,2017,7,5,3,1.0,2.32,1,Band 1 – Low,0–2 yrs,26–35,Near (≤10 km),6–8 yrs,Low Risk,Below Average,Neutral,Excellent,High Dissatisfaction,Male,Married
+917,4,1,3,58,11,21,181,3,2010,14,3,3,3.0,2.992,1,Band 3 – Mid-High,11–20 yrs,55+,Medium (11–25 km),12+ yrs,High Risk,Average,Neutral,Fair,Moderate Dissatisfaction,Female,Married
+918,2,3,2,36,5,10,25,1,2017,7,5,2,,2.82,0,Band 1 – Low,3–5 yrs,36–45,Near (≤10 km),6–8 yrs,Medium Risk,Needs Improvement,Low,Excellent,N/A (Still Employed),Non-Binary / Other,Married
+919,1,6,1,38,7,25,26,2,2010,14,4,3,,2.95,0,Band 1 – Low,6–10 yrs,36–45,Medium (11–25 km),12+ yrs,Medium Risk,Below Average,Neutral,Good,N/A (Still Employed),Female,Married
+920,6,4,1,48,8,29,59,1,2015,9,3,4,,2.858,0,Band 1 – Low,6–10 yrs,46–55,Far (26–50 km),9–12 yrs,Medium Risk,Needs Improvement,High,Fair,N/A (Still Employed),Female,Married
+921,2,4,3,46,2,47,138,5,2017,7,5,2,,2.094,0,Band 1 – Low,0–2 yrs,46–55,Far (26–50 km),6–8 yrs,Low Risk,Outstanding,Low,Excellent,N/A (Still Employed),Female,Single
+922,1,5,1,50,6,31,47,3,2020,4,3,1,,3.112,0,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),3–5 yrs,High Risk,Average,Very Low,Fair,N/A (Still Employed),Male,Divorced
+923,3,6,2,47,16,5,196,4,2023,1,1,4,,2.31,0,Band 4 – High,11–20 yrs,46–55,Near (≤10 km),0–2 yrs,Low Risk,Good,High,Very Poor,N/A (Still Employed),Female,Single
+924,2,1,3,49,13,8,78,5,2018,6,1,4,,2.366,0,Band 4 – High,11–20 yrs,46–55,Near (≤10 km),6–8 yrs,Medium Risk,Outstanding,High,Very Poor,N/A (Still Employed),Male,Divorced
+925,3,3,3,42,10,37,31,1,2013,11,5,2,,3.074,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Low,Excellent,N/A (Still Employed),Non-Binary / Other,Divorced
+926,1,6,2,23,6,28,54,4,2016,8,1,3,,3.006,0,Band 2 – Mid-Low,6–10 yrs,18–25,Far (26–50 km),6–8 yrs,High Risk,Good,Neutral,Very Poor,N/A (Still Employed),Non-Binary / Other,Single
+927,3,5,3,46,1,47,123,2,2010,14,5,5,,2.144,0,Band 1 – Low,0–2 yrs,46–55,Far (26–50 km),12+ yrs,Low Risk,Below Average,Very High,Excellent,N/A (Still Employed),Female,Single
+928,4,2,1,29,18,18,21,4,2019,5,1,1,,3.436,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),3–5 yrs,High Risk,Good,Very Low,Very Poor,N/A (Still Employed),Female,Divorced
+929,6,6,2,56,13,10,80,1,2011,13,5,2,2.0,3.12,1,Band 2 – Mid-Low,11–20 yrs,55+,Near (≤10 km),12+ yrs,High Risk,Needs Improvement,Low,Excellent,High Dissatisfaction,Male,Divorced
+930,3,2,3,22,11,6,165,1,2014,10,2,2,,3.712,0,Band 2 – Mid-Low,11–20 yrs,18–25,Near (≤10 km),9–12 yrs,High Risk,Needs Improvement,Low,Poor,N/A (Still Employed),Female,Married
+931,4,4,3,26,14,21,60,1,2024,0,5,2,,2.492,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),0–2 yrs,Medium Risk,Needs Improvement,Low,Excellent,N/A (Still Employed),Male,Married
+932,6,5,3,59,16,9,186,5,2019,5,1,3,,2.618,0,Band 4 – High,11–20 yrs,55+,Near (≤10 km),3–5 yrs,Medium Risk,Outstanding,Neutral,Very Poor,N/A (Still Employed),Male,Single
+933,1,5,3,24,12,12,139,3,2018,6,5,4,,1.774,0,Band 3 – Mid-High,11–20 yrs,18–25,Medium (11–25 km),6–8 yrs,Low Risk,Average,High,Excellent,N/A (Still Employed),Male,Single
+934,1,3,1,26,13,50,114,2,2015,9,4,1,,3.35,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,High Risk,Below Average,Very Low,Good,N/A (Still Employed),Male,Divorced
+935,2,6,1,44,13,25,54,5,2011,13,5,4,,1.75,0,Band 4 – High,11–20 yrs,36–45,Medium (11–25 km),12+ yrs,Low Risk,Outstanding,High,Excellent,N/A (Still Employed),Male,Single
+936,4,5,3,54,3,23,172,5,2017,7,2,1,,3.096,0,Band 2 – Mid-Low,3–5 yrs,46–55,Medium (11–25 km),6–8 yrs,High Risk,Outstanding,Very Low,Poor,N/A (Still Employed),Male,Single
+937,5,3,1,28,17,21,10,2,2012,12,1,2,,3.892,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),9–12 yrs,High Risk,Below Average,Low,Very Poor,N/A (Still Employed),Male,Single
+938,6,1,2,40,10,32,89,2,2014,10,4,5,1.0,2.164,1,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),9–12 yrs,Low Risk,Below Average,Very High,Good,High Dissatisfaction,Male,Married
+939,2,6,2,41,10,28,80,1,2022,2,3,5,,2.206,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),0–2 yrs,Low Risk,Needs Improvement,Very High,Fair,N/A (Still Employed),Non-Binary / Other,Divorced
+940,2,5,2,60,7,31,153,1,2022,2,4,3,,2.562,0,Band 1 – Low,6–10 yrs,55+,Far (26–50 km),0–2 yrs,Medium Risk,Needs Improvement,Neutral,Good,N/A (Still Employed),Female,Divorced
+941,1,6,3,27,18,45,99,3,2014,10,4,5,,1.99,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,Low Risk,Average,Very High,Good,N/A (Still Employed),Male,Divorced
+942,3,6,3,40,13,27,40,3,2014,10,2,2,,3.354,0,Band 3 – Mid-High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,High Risk,Average,Low,Poor,N/A (Still Employed),Female,Divorced
+943,6,4,3,50,4,39,97,4,2023,1,3,2,,2.478,0,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),0–2 yrs,Medium Risk,Good,Low,Fair,N/A (Still Employed),Female,Married
+944,5,6,1,46,5,41,129,4,2017,7,1,5,,2.382,0,Band 2 – Mid-Low,3–5 yrs,46–55,Far (26–50 km),6–8 yrs,Medium Risk,Good,Very High,Very Poor,N/A (Still Employed),Female,Married
+945,1,4,3,47,11,22,155,3,2012,12,2,3,,3.144,0,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),9–12 yrs,High Risk,Average,Neutral,Poor,N/A (Still Employed),Female,Married
+946,1,5,3,23,19,9,188,5,2013,11,5,1,,2.518,0,Band 4 – High,11–20 yrs,18–25,Near (≤10 km),9–12 yrs,Medium Risk,Outstanding,Very Low,Excellent,N/A (Still Employed),Female,Divorced
+947,5,6,1,52,2,42,32,3,2020,4,3,1,5.0,3.134,1,Band 1 – Low,0–2 yrs,46–55,Far (26–50 km),3–5 yrs,High Risk,Average,Very Low,Fair,Low Dissatisfaction,Male,Divorced
+948,3,1,3,32,10,16,154,4,2012,12,4,1,,3.032,0,Band 3 – Mid-High,6–10 yrs,26–35,Medium (11–25 km),9–12 yrs,High Risk,Good,Very Low,Good,N/A (Still Employed),Female,Married
+949,4,2,3,56,15,25,128,3,2012,12,5,4,,2.1,0,Band 3 – Mid-High,11–20 yrs,55+,Medium (11–25 km),9–12 yrs,Low Risk,Average,High,Excellent,N/A (Still Employed),Female,Single
+950,4,4,1,36,6,27,32,3,2023,1,4,5,,1.504,0,Band 2 – Mid-Low,6–10 yrs,36–45,Far (26–50 km),0–2 yrs,Low Risk,Average,Very High,Good,N/A (Still Employed),Male,Single
+951,5,1,2,30,19,36,39,4,2019,5,1,5,,2.272,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),3–5 yrs,Low Risk,Good,Very High,Very Poor,N/A (Still Employed),Male,Married
+952,6,5,2,47,5,32,33,1,2020,4,4,1,,3.264,0,Band 1 – Low,3–5 yrs,46–55,Far (26–50 km),3–5 yrs,High Risk,Needs Improvement,Very Low,Good,N/A (Still Employed),Female,Married
+953,3,1,1,56,15,35,56,3,2010,14,5,5,,1.92,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),12+ yrs,Low Risk,Average,Very High,Excellent,N/A (Still Employed),Male,Divorced
+954,3,6,1,40,16,35,196,3,2013,11,3,2,,3.17,0,Band 4 – High,11–20 yrs,36–45,Far (26–50 km),9–12 yrs,High Risk,Average,Low,Fair,N/A (Still Employed),Female,Married
+955,2,2,2,31,10,32,32,3,2011,13,1,3,,3.464,0,Band 2 – Mid-Low,6–10 yrs,26–35,Far (26–50 km),12+ yrs,High Risk,Average,Neutral,Very Poor,N/A (Still Employed),Male,Married
+956,3,2,2,41,5,35,57,5,2020,4,5,3,,1.62,0,Band 2 – Mid-Low,3–5 yrs,36–45,Far (26–50 km),3–5 yrs,Low Risk,Outstanding,Neutral,Excellent,N/A (Still Employed),Non-Binary / Other,Single
+957,5,2,3,45,7,35,91,5,2010,14,4,1,,2.97,0,Band 3 – Mid-High,6–10 yrs,36–45,Far (26–50 km),12+ yrs,High Risk,Outstanding,Very Low,Good,N/A (Still Employed),Male,Married
+958,6,3,3,22,7,15,161,4,2012,12,1,2,,3.48,0,Band 2 – Mid-Low,6–10 yrs,18–25,Medium (11–25 km),9–12 yrs,High Risk,Good,Low,Very Poor,N/A (Still Employed),Male,Divorced
+959,3,6,3,57,7,25,170,1,2020,4,1,1,5.0,4.0,1,Band 1 – Low,6–10 yrs,55+,Medium (11–25 km),3–5 yrs,High Risk,Needs Improvement,Very Low,Very Poor,Low Dissatisfaction,Female,Single
+960,2,4,3,57,1,6,15,3,2018,6,2,2,5.0,3.112,0,Band 1 – Low,0–2 yrs,55+,Near (≤10 km),6–8 yrs,High Risk,Average,Low,Poor,Low Dissatisfaction,Male,Divorced
+961,4,2,2,31,12,38,53,5,2023,1,3,1,4.0,2.576,0,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),0–2 yrs,Medium Risk,Outstanding,Very Low,Fair,Low Dissatisfaction,Male,Divorced
+962,3,1,3,29,19,46,12,1,2017,7,4,4,3.0,2.542,1,Band 4 – High,11–20 yrs,26–35,Far (26–50 km),6–8 yrs,Medium Risk,Needs Improvement,High,Good,Moderate Dissatisfaction,Female,Single
+963,3,6,1,24,4,27,65,2,2019,5,2,1,,3.604,0,Band 1 – Low,3–5 yrs,18–25,Far (26–50 km),3–5 yrs,High Risk,Below Average,Very Low,Poor,N/A (Still Employed),Female,Divorced
+964,6,4,3,22,5,34,173,4,2015,9,3,5,,1.968,0,Band 2 – Mid-Low,3–5 yrs,18–25,Far (26–50 km),9–12 yrs,Low Risk,Good,Very High,Fair,N/A (Still Employed),Male,Divorced
+965,5,2,3,58,13,37,105,2,2010,14,2,1,2.0,4.074,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),12+ yrs,High Risk,Below Average,Very Low,Poor,High Dissatisfaction,Female,Single
+966,5,6,1,60,14,50,127,2,2018,6,5,4,,2.05,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),6–8 yrs,Low Risk,Below Average,High,Excellent,N/A (Still Employed),Male,Divorced
+967,2,1,3,47,6,45,30,3,2021,3,3,5,,1.89,0,Band 2 – Mid-Low,6–10 yrs,46–55,Far (26–50 km),3–5 yrs,Low Risk,Average,Very High,Fair,N/A (Still Employed),Non-Binary / Other,Divorced
+968,3,4,3,56,2,48,195,4,2013,11,5,1,,2.796,0,Band 1 – Low,0–2 yrs,55+,Far (26–50 km),9–12 yrs,Medium Risk,Good,Very Low,Excellent,N/A (Still Employed),Female,Single
+969,6,4,3,57,4,15,73,1,2010,14,4,2,,3.43,0,Band 1 – Low,3–5 yrs,55+,Medium (11–25 km),12+ yrs,High Risk,Needs Improvement,Low,Good,N/A (Still Employed),Male,Divorced
+970,2,5,1,27,12,45,88,2,2021,3,2,1,,3.54,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),3–5 yrs,High Risk,Below Average,Very Low,Poor,N/A (Still Employed),Male,Single
+971,5,1,1,41,16,6,184,5,2014,10,5,5,,1.262,0,Band 4 – High,11–20 yrs,36–45,Near (≤10 km),9–12 yrs,Low Risk,Outstanding,Very High,Excellent,N/A (Still Employed),Female,Single
+972,1,5,1,35,6,16,174,4,2014,10,3,5,3.0,1.982,1,Band 2 – Mid-Low,6–10 yrs,26–35,Medium (11–25 km),9–12 yrs,Low Risk,Good,Very High,Fair,Moderate Dissatisfaction,Female,Single
+973,2,2,1,44,2,24,58,3,2010,14,5,1,,3.098,0,Band 1 – Low,0–2 yrs,36–45,Medium (11–25 km),12+ yrs,High Risk,Average,Very Low,Excellent,N/A (Still Employed),Male,Married
+974,1,4,2,35,4,1,198,2,2020,4,2,1,,3.502,0,Band 1 – Low,3–5 yrs,26–35,Near (≤10 km),3–5 yrs,High Risk,Below Average,Very Low,Poor,N/A (Still Employed),Female,Married
+975,1,1,2,48,17,14,43,1,2023,1,2,4,,2.678,0,Band 3 – Mid-High,11–20 yrs,46–55,Medium (11–25 km),0–2 yrs,Medium Risk,Needs Improvement,High,Poor,N/A (Still Employed),Male,Single
+976,2,1,1,54,11,2,89,2,2023,1,2,5,,2.154,0,Band 2 – Mid-Low,11–20 yrs,46–55,Near (≤10 km),0–2 yrs,Low Risk,Below Average,Very High,Poor,N/A (Still Employed),Male,Married
+977,2,3,2,31,19,24,23,4,2023,1,2,4,5.0,2.098,0,Band 4 – High,11–20 yrs,26–35,Medium (11–25 km),0–2 yrs,Low Risk,Good,High,Poor,Low Dissatisfaction,Male,Single
+978,6,6,3,32,14,36,107,1,2015,9,3,3,,3.172,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),9–12 yrs,High Risk,Needs Improvement,Neutral,Fair,N/A (Still Employed),Male,Married
+979,2,2,3,33,5,31,190,3,2018,6,2,5,,2.262,0,Band 1 – Low,3–5 yrs,26–35,Far (26–50 km),6–8 yrs,Low Risk,Average,Very High,Poor,N/A (Still Employed),Female,Married
+980,4,6,3,36,13,9,83,5,2021,3,1,4,,2.218,0,Band 4 – High,11–20 yrs,36–45,Near (≤10 km),3–5 yrs,Low Risk,Outstanding,High,Very Poor,N/A (Still Employed),Male,Divorced
+981,5,4,3,38,8,8,55,4,2010,14,1,4,,2.966,0,Band 2 – Mid-Low,6–10 yrs,36–45,Near (≤10 km),12+ yrs,High Risk,Good,High,Very Poor,N/A (Still Employed),Female,Married
+982,3,2,3,34,2,4,81,5,2019,5,5,2,,1.908,0,Band 1 – Low,0–2 yrs,26–35,Near (≤10 km),3–5 yrs,Low Risk,Outstanding,Low,Excellent,N/A (Still Employed),Male,Divorced
+983,2,6,3,29,4,23,45,2,2013,11,5,4,,2.246,0,Band 1 – Low,3–5 yrs,26–35,Medium (11–25 km),9–12 yrs,Low Risk,Below Average,High,Excellent,N/A (Still Employed),Female,Married
+984,1,3,3,33,8,24,154,3,2015,9,1,5,,2.648,0,Band 2 – Mid-Low,6–10 yrs,26–35,Medium (11–25 km),9–12 yrs,Medium Risk,Average,Very High,Very Poor,N/A (Still Employed),Male,Single
+985,1,3,3,58,13,50,90,3,2011,13,2,3,,3.25,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),12+ yrs,High Risk,Average,Neutral,Poor,N/A (Still Employed),Male,Divorced
+986,2,1,3,25,16,9,115,3,2011,13,5,3,,2.418,0,Band 4 – High,11–20 yrs,18–25,Near (≤10 km),12+ yrs,Medium Risk,Average,Neutral,Excellent,N/A (Still Employed),Female,Married
+987,3,3,3,57,10,19,67,4,2018,6,3,4,2.0,2.088,1,Band 3 – Mid-High,6–10 yrs,55+,Medium (11–25 km),6–8 yrs,Low Risk,Good,High,Fair,High Dissatisfaction,Non-Binary / Other,Married
+988,3,2,1,51,20,30,58,5,2017,7,1,4,5.0,2.46,1,Band 4 – High,11–20 yrs,46–55,Far (26–50 km),6–8 yrs,Medium Risk,Outstanding,High,Very Poor,Low Dissatisfaction,Male,Single
+989,6,4,3,57,6,10,79,4,2011,13,3,2,,3.02,0,Band 2 – Mid-Low,6–10 yrs,55+,Near (≤10 km),12+ yrs,High Risk,Good,Low,Fair,N/A (Still Employed),Female,Divorced
+990,6,6,3,26,13,36,61,3,2018,6,3,4,,2.322,0,Band 3 – Mid-High,11–20 yrs,26–35,Far (26–50 km),6–8 yrs,Low Risk,Average,High,Fair,N/A (Still Employed),Female,Single
+991,6,5,1,40,3,27,55,3,2011,13,2,5,,2.604,0,Band 1 – Low,3–5 yrs,36–45,Far (26–50 km),12+ yrs,Medium Risk,Average,Very High,Poor,N/A (Still Employed),Male,Divorced
+992,3,6,3,26,15,16,85,2,2013,11,2,3,,3.282,0,Band 3 – Mid-High,11–20 yrs,26–35,Medium (11–25 km),9–12 yrs,High Risk,Below Average,Neutral,Poor,N/A (Still Employed),Male,Single
+993,1,2,3,38,13,14,76,1,2013,11,2,2,,3.778,0,Band 2 – Mid-Low,11–20 yrs,36–45,Medium (11–25 km),9–12 yrs,High Risk,Needs Improvement,Low,Poor,N/A (Still Employed),Female,Married
+994,6,6,2,28,9,15,188,5,2015,9,3,2,,2.63,0,Band 3 – Mid-High,6–10 yrs,26–35,Medium (11–25 km),9–12 yrs,Medium Risk,Outstanding,Low,Fair,N/A (Still Employed),Male,Single
+995,2,3,1,34,15,4,122,5,2019,5,2,3,,2.358,0,Band 4 – High,11–20 yrs,26–35,Near (≤10 km),3–5 yrs,Medium Risk,Outstanding,Neutral,Poor,N/A (Still Employed),Female,Married
+996,6,6,3,59,12,48,77,3,2015,9,4,2,,2.846,0,Band 3 – Mid-High,11–20 yrs,55+,Far (26–50 km),9–12 yrs,Medium Risk,Average,Low,Good,N/A (Still Employed),Male,Married
+997,2,3,1,53,1,9,33,5,2023,1,3,4,,1.618,0,Band 1 – Low,0–2 yrs,46–55,Near (≤10 km),0–2 yrs,Low Risk,Outstanding,High,Fair,N/A (Still Employed),Male,Single
+998,2,1,1,43,4,8,135,1,2023,1,2,3,,2.966,0,Band 1 – Low,3–5 yrs,36–45,Near (≤10 km),0–2 yrs,High Risk,Needs Improvement,Neutral,Poor,N/A (Still Employed),Non-Binary / Other,Married
+999,1,1,3,44,4,45,100,4,2020,4,2,2,,2.89,0,Band 1 – Low,3–5 yrs,36–45,Far (26–50 km),3–5 yrs,Medium Risk,Good,Low,Poor,N/A (Still Employed),Male,Married
+1000,5,1,3,30,3,46,158,4,2016,8,3,3,,2.542,0,Band 1 – Low,3–5 yrs,26–35,Far (26–50 km),6–8 yrs,Medium Risk,Good,Neutral,Fair,N/A (Still Employed),Male,Single

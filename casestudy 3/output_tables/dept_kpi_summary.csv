@@ -1,0 +1,7 @@
+Department,Attrition_Rate_Pct,Retention_Rate_Pct,Avg_Performance,Avg_Satisfaction,Avg_WLB,Avg_Training_Hours,Avg_Tenure,Avg_Promo_Gap,Headcount
+Finance,4.12,95.88,2.74,2.94,3.2,107.43,10.58,6.9,194
+HR,6.67,93.33,2.88,2.87,3.0,107.27,10.27,6.72,165
+IT,6.1,93.9,3.07,3.2,3.06,99.26,10.13,6.33,164
+Marketing,6.0,94.0,2.95,2.94,2.99,109.87,10.68,7.35,150
+Operations,7.69,92.31,3.3,3.1,3.08,108.02,9.91,7.53,169
+Sales,8.23,91.77,2.58,2.91,3.13,103.91,10.24,7.59,158

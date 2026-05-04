@@ -1,0 +1,317 @@
+Employee_ID,first_name,last_name,Department,Job_Role,Job_Satisfaction,Work_Life_Balance,Performance_Rating,Years_Since_Promotion,Distance_From_Home,Attrition_Risk_Score,Risk_Segment
+43,Debby,McConaghy,HR,Manager,1,1,1,14,35,4.52,High Risk
+6,Nikolia,Buten,Marketing,Developer,1,1,1,13,15,4.43,High Risk
+177,Garrek,Elgood,IT,HR Specialist,1,2,1,14,50,4.3,High Risk
+241,Torrin,Aizic,Sales,HR Specialist,2,1,1,14,44,4.238,High Risk
+915,Marys,Epgrave,HR,Senior Developer,2,1,1,14,42,4.234,High Risk
+101,Price,Davidescu,IT,HR Specialist,1,2,1,12,45,4.19,High Risk
+288,Ofelia,Piddlehinton,Sales,Data Analyst,2,1,1,13,44,4.188,High Risk
+472,Gretna,Valentino,Marketing,Data Analyst,2,1,1,14,16,4.182,High Risk
+666,Verney,Friedlos,Finance,Senior Developer,1,2,1,13,1,4.152,High Risk
+778,Rani,Limrick,HR,Data Analyst,1,2,1,11,42,4.134,High Risk
+699,Glad,Drogan,Marketing,Senior Developer,2,1,1,13,4,4.108,High Risk
+59,Jervis,Golder,Marketing,Developer,1,1,2,10,21,4.092,High Risk
+965,Farica,Lehrer,Operations,Marketing Lead,1,2,2,14,37,4.074,High Risk
+672,Aloise,MacComiskey,Sales,Marketing Lead,1,2,1,11,1,4.052,High Risk
+431,Ethelred,Olyunin,IT,HR Specialist,1,3,1,14,36,4.022,High Risk
+115,Yul,Renyard,Sales,Senior Developer,1,2,1,8,38,3.976,High Risk
+530,Jordana,Giovannelli,Finance,Developer,2,1,2,14,4,3.958,High Risk
+743,Rosemarie,Sherston,HR,Senior Developer,1,1,3,11,17,3.934,High Risk
+629,Anne-marie,Derrington,HR,Data Analyst,1,1,2,7,5,3.91,High Risk
+937,Gabby,Pawlicki,Operations,Senior Developer,2,1,2,12,21,3.892,High Risk
+513,Emalia,Strettle,Operations,HR Specialist,2,2,1,13,6,3.862,High Risk
+634,Ulric,Metcalf,Marketing,Data Analyst,1,2,2,11,2,3.854,High Risk
+907,Jesse,Mannie,Operations,Senior Developer,1,1,2,4,43,3.836,High Risk
+113,Inesita,Lindores,Sales,Data Analyst,2,1,1,6,36,3.822,High Risk
+809,Paola,Garshore,Operations,Senior Developer,2,1,2,11,1,3.802,High Risk
+87,Kennedy,Bleasdale,Sales,Marketing Lead,2,2,1,10,43,3.786,High Risk
+227,Sofie,Crabb,HR,HR Specialist,1,1,4,11,43,3.786,High Risk
+498,Maxwell,McMullen,Sales,Developer,3,1,1,11,41,3.782,High Risk
+993,Lissie,Purse,HR,Marketing Lead,2,2,1,11,14,3.778,High Risk
+24,Saleem,Broz,Sales,Data Analyst,1,3,2,13,37,3.774,High Risk
+888,Halsey,McEvoy,Operations,Marketing Lead,1,2,2,9,10,3.77,High Risk
+703,Hercule,Brimblecomb,Finance,Senior Developer,1,2,3,12,35,3.77,High Risk
+352,Silas,Hourican,Finance,Data Analyst,1,3,1,9,33,3.766,High Risk
+912,Elliott,Ambage,Marketing,Data Analyst,1,1,4,12,1,3.752,High Risk
+865,Frank,Wanklyn,Operations,Senior Developer,1,2,1,3,42,3.734,High Risk
+295,Dion,Shawel,Marketing,Developer,2,1,2,8,40,3.73,High Risk
+397,James,Eskriet,Sales,HR Specialist,1,2,1,3,35,3.72,High Risk
+317,Jessie,Hayzer,Operations,Developer,2,1,1,4,34,3.718,High Risk
+266,Tiffi,Riha,HR,Data Analyst,2,1,3,13,6,3.712,High Risk
+930,Kelsey,Poor,Sales,Marketing Lead,2,2,1,10,6,3.712,High Risk
+821,Edithe,Tutchell,Marketing,Senior Developer,2,1,2,9,1,3.702,High Risk
+76,Davide,Alliberton,Sales,Developer,2,1,1,4,24,3.698,High Risk
+882,Kiel,Bruford,IT,Senior Developer,1,1,4,10,22,3.694,High Risk
+223,Retha,Drennan,Sales,Senior Developer,1,2,1,2,44,3.688,High Risk
+506,Farris,Lachaize,Operations,Developer,2,2,1,9,18,3.686,High Risk
+701,Lauren,Foote,Finance,Developer,2,1,3,12,16,3.682,High Risk
+140,Derby,Durram,IT,Developer,1,2,2,6,41,3.682,High Risk
+578,Ripley,Dunridge,Marketing,Data Analyst,1,1,4,9,39,3.678,High Risk
+152,Tiertza,Killshaw,IT,Data Analyst,1,1,3,5,33,3.666,High Risk
+620,Merl,Lyst,Finance,Developer,1,3,3,14,49,3.648,High Risk
+175,Idalia,Rothchild,Operations,Marketing Lead,1,3,1,7,24,3.648,High Risk
+394,Alleyn,Latta,Sales,Data Analyst,1,2,4,14,24,3.648,High Risk
+548,Windy,Hyam,Marketing,Developer,1,2,3,10,21,3.642,High Risk
+427,Fleur,Pipping,Sales,Developer,3,2,1,14,18,3.636,High Risk
+20,Massimiliano,Chattelaine,IT,Manager,2,3,1,12,42,3.634,High Risk
+819,Goraud,Rapp,Sales,Data Analyst,1,3,1,6,41,3.632,High Risk
+522,Bastian,Ratlee,Sales,Marketing Lead,1,4,1,12,15,3.63,High Risk
+549,Bondon,Fullun,Marketing,Senior Developer,2,3,1,13,14,3.628,High Risk
+670,Debee,Fairpool,Finance,Manager,1,2,3,9,38,3.626,High Risk
+52,Padget,Chetwynd,Operations,HR Specialist,1,2,2,6,12,3.624,High Risk
+782,Elianora,Hext,Sales,Developer,1,2,1,2,11,3.622,High Risk
+834,Cyndie,Scholefield,HR,Senior Developer,2,1,1,2,29,3.608,High Risk
+460,Penni,Sommerled,Operations,Developer,2,2,2,11,28,3.606,High Risk
+963,Alexandrina,Slatford,Sales,Data Analyst,1,2,2,5,27,3.604,High Risk
+661,Giacinta,La Croce,Sales,Manager,1,1,4,8,26,3.602,High Risk
+56,Baird,Vearnals,Finance,Senior Developer,1,4,1,12,1,3.602,High Risk
+623,Lora,Sigfrid,Operations,HR Specialist,2,2,1,7,24,3.598,High Risk
+832,Celinka,Bumphries,Finance,Marketing Lead,1,4,1,10,49,3.598,High Risk
+878,Reynard,Sworne,IT,Manager,1,3,3,14,19,3.588,High Risk
+870,Zandra,Wildgoose,Marketing,HR Specialist,3,2,1,12,44,3.588,High Risk
+679,Ernestine,Hitter,HR,Data Analyst,1,2,4,13,17,3.584,High Risk
+180,Filia,Truce,Marketing,Manager,1,3,2,10,15,3.58,High Risk
+100,Dehlia,Torrisi,Sales,Senior Developer,1,3,2,10,14,3.578,High Risk
+242,Riane,Gunningham,IT,Marketing Lead,2,1,1,1,39,3.578,High Risk
+503,Bettina,Culligan,HR,Manager,2,2,1,7,9,3.568,High Risk
+390,Dallas,Bakeup,HR,HR Specialist,1,3,1,5,31,3.562,High Risk
+170,Aharon,Prevett,Finance,Data Analyst,3,1,1,7,27,3.554,High Risk
+417,Sal,Giacomello,Finance,Data Analyst,1,2,1,0,26,3.552,High Risk
+336,Petronille,Giffard,Marketing,Senior Developer,1,1,4,6,50,3.55,High Risk
+184,Kermie,Barnard,IT,Manager,2,1,3,9,25,3.55,High Risk
+96,Celie,Van Saltsberg,Marketing,Senior Developer,3,2,1,12,23,3.546,High Risk
+970,Emilio,Tomich,IT,HR Specialist,1,2,2,3,45,3.54,High Risk
+33,Ariella,Fewell,Sales,Developer,2,2,1,5,45,3.54,High Risk
+518,Brandice,Madeley,HR,Data Analyst,2,1,1,1,20,3.54,High Risk
+107,Zorine,Capsey,Sales,Marketing Lead,4,1,1,13,13,3.526,High Risk
+413,Laurella,Mingus,Operations,Data Analyst,1,1,3,3,13,3.526,High Risk
+422,Harmonie,Robak,Finance,Developer,1,2,3,8,11,3.522,High Risk
+271,Kermie,Pettegree,Marketing,Data Analyst,3,2,1,12,11,3.522,High Risk
+179,Clarie,Petriello,Marketing,Developer,2,2,3,14,10,3.52,High Risk
+562,Cesya,Cousens,HR,Manager,2,2,1,6,8,3.516,High Risk
+320,Robinet,Brennen,Sales,Developer,1,4,2,14,5,3.51,High Risk
+974,Margy,Sturte,HR,Manager,1,2,2,4,1,3.502,High Risk
+35,Ula,Butland,Finance,Senior Developer,1,5,1,14,26,3.502,High Risk
+298,Ernaline,MacCheyne,HR,Developer,2,1,4,13,1,3.502,High Risk
+262,Kelila,Henzley,HR,Manager,1,3,2,7,50,3.5,High Risk
+470,Willem,Liverseege,Finance,Senior Developer,1,5,1,13,49,3.498,High Risk
+238,Case,McCurt,Finance,Senior Developer,2,1,4,11,46,3.492,High Risk
+410,Akim,Dalbey,HR,Data Analyst,1,2,2,2,46,3.492,High Risk
+582,Allistir,Dexter,Finance,Marketing Lead,1,3,3,12,18,3.486,High Risk
+958,Willey,Mapham,Finance,Senior Developer,2,1,4,12,15,3.48,High Risk
+449,Cammy,Ferrero,Marketing,Manager,2,1,4,12,9,3.468,High Risk
+331,Madlin,Minichillo,Sales,Marketing Lead,1,3,3,12,8,3.466,High Risk
+955,Allin,Auld,IT,Marketing Lead,3,1,3,13,32,3.464,High Risk
+896,Laurence,Gilluley,Marketing,Data Analyst,2,2,1,4,28,3.456,High Risk
+486,Roxane,Driscoll,HR,Senior Developer,1,2,3,6,28,3.456,High Risk
+374,Jonah,Trundle,Finance,Data Analyst,2,2,3,12,28,3.456,High Risk
+647,Chandler,Jiggen,IT,Senior Developer,2,2,1,4,26,3.452,High Risk
+453,Miriam,Brodeau,HR,Marketing Lead,1,2,4,11,1,3.452,High Risk
+370,Jacquelin,Kubik,Finance,HR Specialist,1,4,1,8,26,3.452,High Risk
+815,Collete,Bertouloume,Operations,Developer,2,1,5,14,50,3.45,High Risk
+884,Hoyt,Thowless,Finance,Developer,4,1,1,11,24,3.448,High Risk
+14,Filippa,Focke,HR,HR Specialist,2,3,2,12,48,3.446,High Risk
+738,Kerri,Oen,Sales,Senior Developer,1,3,1,2,47,3.444,High Risk
+44,Athene,Georges,IT,Data Analyst,1,3,4,14,46,3.442,High Risk
+244,Wylie,Dinneges,Marketing,HR Specialist,1,4,1,7,46,3.442,High Risk
+260,Desdemona,Finlan,Finance,Marketing Lead,3,1,1,5,20,3.44,High Risk
+928,Lana,Wear,Marketing,Marketing Lead,1,1,4,5,18,3.436,High Risk
+969,Mahmud,Leynagh,Finance,Manager,2,4,1,14,15,3.43,High Risk
+114,Alexandrina,Womack,IT,Senior Developer,2,2,3,12,14,3.428,High Risk
+658,Ferdinand,Cholwell,Marketing,Manager,1,5,1,12,36,3.422,High Risk
+854,Jessalyn,Eason,Finance,HR Specialist,1,3,2,6,33,3.416,High Risk
+490,Nicola,Bostick,Finance,Data Analyst,2,2,3,12,7,3.414,High Risk
+630,Hayes,Willis,Finance,Manager,4,1,1,10,31,3.412,High Risk
+89,Thebault,Wellwood,HR,Manager,1,2,3,5,29,3.408,High Risk
+510,Brenna,Chirm,Marketing,Senior Developer,1,1,3,1,2,3.404,High Risk
+217,Worden,Denisovich,Sales,Senior Developer,1,3,3,10,26,3.402,High Risk
+565,Dacie,Strafen,HR,Manager,2,3,2,13,1,3.402,High Risk
+734,Tedd,Redwood,Finance,Marketing Lead,2,3,1,7,50,3.4,High Risk
+892,Ive,Sammons,HR,HR Specialist,1,2,3,5,22,3.394,High Risk
+720,Franni,Strowthers,Finance,Manager,2,4,1,13,19,3.388,High Risk
+338,Lief,Cathenod,HR,Manager,3,2,1,9,19,3.388,High Risk
+845,Reynold,Easby,Finance,Developer,1,2,4,8,41,3.382,High Risk
+736,Jennica,Pellissier,IT,HR Specialist,2,2,3,10,38,3.376,High Risk
+777,Sheela,Bome,Finance,Senior Developer,3,3,1,14,12,3.374,High Risk
+169,Aurlie,Doswell,HR,HR Specialist,2,2,4,14,36,3.372,High Risk
+156,Veda,Dearn,Finance,Developer,1,2,3,5,10,3.37,High Risk
+818,Rudolf,Klimecki,Sales,Senior Developer,1,3,4,14,10,3.37,High Risk
+891,Tracey,Brewitt,Sales,Manager,1,4,3,14,34,3.368,High Risk
+183,Robbin,Augustin,Sales,Manager,2,4,1,13,7,3.364,High Risk
+712,Shell,Paynes,Marketing,HR Specialist,2,1,4,10,6,3.362,High Risk
+780,Judas,Larciere,HR,Manager,1,4,1,7,2,3.354,High Risk
+942,Ann-marie,Hassall,Sales,Data Analyst,2,2,3,10,27,3.354,High Risk
+222,Virginie,Scoates,Operations,Manager,2,1,5,14,1,3.352,High Risk
+934,Jefferson,Dufton,HR,Senior Developer,1,4,2,9,50,3.35,High Risk
+862,Mireielle,Elven,Marketing,Senior Developer,1,1,5,7,25,3.35,High Risk
+304,Burnard,Clarabut,Operations,HR Specialist,2,2,4,14,23,3.346,High Risk
+683,Ben,Scandred,Marketing,Manager,1,3,3,8,46,3.342,High Risk
+86,Deb,Freckelton,IT,Developer,2,1,3,5,19,3.338,High Risk
+236,Clyde,Force,Sales,HR Specialist,1,4,3,13,41,3.332,High Risk
+746,Rickey,Kehir,Finance,Marketing Lead,3,1,3,10,39,3.328,High Risk
+347,Theresina,Kendal,Sales,Data Analyst,4,1,2,12,37,3.324,High Risk
+894,Marion,Faulconbridge,Sales,Manager,1,3,3,9,12,3.324,High Risk
+517,Umeko,Churchward,HR,Senior Developer,2,1,4,8,34,3.318,High Risk
+1,Konstantin,Shutler,HR,Developer,1,3,2,5,8,3.316,High Risk
+592,Jamison,Aven,Sales,HR Specialist,1,2,2,0,8,3.316,High Risk
+471,Alika,Serrier,HR,Marketing Lead,1,4,1,5,28,3.306,High Risk
+344,Dallas,Daughton,IT,Developer,4,1,2,13,1,3.302,High Risk
+444,Jessa,Harwell,Finance,Developer,1,4,2,9,25,3.3,High Risk
+560,Myra,Bein,Operations,HR Specialist,1,4,1,5,22,3.294,High Risk
+339,Norrie,Kener,Marketing,Developer,1,3,1,0,20,3.29,High Risk
+257,Wilhelm,Corpe,Finance,Developer,2,3,1,6,20,3.29,High Risk
+866,Perla,Jeenes,HR,Marketing Lead,2,2,2,5,19,3.288,High Risk
+715,Percy,Lambal,Finance,HR Specialist,2,1,4,8,17,3.284,High Risk
+992,Aube,Ivons,Sales,Data Analyst,3,2,2,11,16,3.282,High Risk
+246,Hurleigh,Mateo,Sales,Senior Developer,3,1,4,14,12,3.274,High Risk
+416,Bonita,Wyles,Marketing,Marketing Lead,2,2,4,13,9,3.268,High Risk
+697,Michel,Furneaux,Sales,Senior Developer,2,2,1,1,9,3.268,High Risk
+952,Charlene,Tremontana,Finance,HR Specialist,1,4,1,4,32,3.264,High Risk
+861,Dottie,Gayler,Operations,Marketing Lead,1,2,4,6,28,3.256,High Risk
+802,Chrissie,Maffezzoli,IT,Senior Developer,2,3,3,14,1,3.252,High Risk
+822,Debra,Nisard,Operations,HR Specialist,1,3,1,0,1,3.252,High Risk
+795,Anne,Kemer,Marketing,Senior Developer,2,3,3,13,26,3.252,High Risk
+985,Donavon,Fidoe,HR,Senior Developer,3,2,3,13,50,3.25,High Risk
+419,Idette,Neild,Sales,HR Specialist,1,5,2,12,48,3.246,High Risk
+268,Millisent,Garralts,Sales,Manager,5,1,1,12,47,3.244,High Risk
+781,Thomasine,Whiteway,Finance,Data Analyst,2,2,2,4,20,3.24,High Risk
+393,Corbie,Crosskell,IT,HR Specialist,5,1,1,13,20,3.24,High Risk
+144,Ardisj,Garland,Operations,Manager,2,4,2,13,45,3.24,High Risk
+902,Amabelle,Imbrey,Marketing,HR Specialist,3,1,2,5,19,3.238,High Risk
+105,Jo,Dudny,IT,Senior Developer,1,2,5,10,16,3.232,High Risk
+349,Maddy,Wager,Operations,Marketing Lead,2,2,2,4,14,3.228,High Risk
+664,Allie,Sammons,Marketing,HR Specialist,1,5,2,13,14,3.228,High Risk
+138,Bartolemo,Treen,Operations,Marketing Lead,3,2,3,14,14,3.228,High Risk
+668,Sherman,Saphir,HR,Manager,1,2,4,5,37,3.224,High Risk
+108,Napoleon,Savoury,Finance,HR Specialist,1,2,5,10,10,3.22,High Risk
+856,Pearce,Potteridge,Sales,HR Specialist,1,3,2,3,10,3.22,High Risk
+37,Ferdinande,Nolder,Operations,Data Analyst,3,3,1,10,35,3.22,High Risk
+41,Nadya,Kenealy,IT,Marketing Lead,1,1,5,4,34,3.218,High Risk
+875,Hardy,Blundel,Operations,HR Specialist,3,3,1,11,8,3.216,High Risk
+468,Lynna,Jelf,Marketing,Marketing Lead,2,1,3,2,32,3.214,High Risk
+838,Sayres,Lagneaux,Operations,HR Specialist,3,3,2,14,31,3.212,High Risk
+631,Wini,Mille,Operations,HR Specialist,1,3,2,2,27,3.204,High Risk
+573,Dehlia,O'Feeny,Marketing,Developer,4,1,3,14,24,3.198,High Risk
+559,Ally,Benedetti,HR,HR Specialist,3,1,3,8,24,3.198,High Risk
+810,Krystle,Foukx,Marketing,Data Analyst,2,4,1,8,49,3.198,High Risk
+707,Jemie,Mitchelmore,Finance,Manager,1,2,5,9,23,3.196,High Risk
+371,Bathsheba,Faughnan,IT,HR Specialist,1,4,2,7,23,3.196,High Risk
+119,Giulietta,Yukhnev,Sales,Data Analyst,1,2,5,8,47,3.194,High Risk
+283,Benedikta,Hacard,IT,Manager,1,5,1,7,47,3.194,High Risk
+27,Giavani,Surmeyers,Marketing,Data Analyst,1,3,5,14,21,3.192,High Risk
+291,Giovanna,Stearn,IT,Data Analyst,1,3,4,9,45,3.19,High Risk
+836,Georgine,Gorbell,Operations,Developer,2,2,4,11,20,3.19,High Risk
+483,Emlen,Shower,Finance,Senior Developer,1,4,1,2,45,3.19,High Risk
+426,Sherwynd,Fasler,Sales,Manager,3,3,2,13,43,3.186,High Risk
+653,Alyson,Kopfen,Operations,Manager,3,3,2,14,11,3.172,High Risk
+978,Duane,Boothby,Finance,Data Analyst,3,3,1,9,36,3.172,High Risk
+954,Thomasine,Heild,Sales,Data Analyst,2,3,3,11,35,3.17,High Risk
+765,Marietta,Bavage,Marketing,Data Analyst,1,3,3,6,10,3.17,High Risk
+90,Marshal,Finlay,Finance,Developer,2,3,2,8,9,3.168,High Risk
+452,Henrik,Oakenfall,IT,Manager,1,4,2,6,33,3.166,High Risk
+292,Rosy,Speares,Sales,Data Analyst,1,1,5,4,8,3.166,High Risk
+323,Muffin,Domney,Marketing,HR Specialist,3,3,1,9,33,3.166,High Risk
+651,Emmalynn,Iggo,HR,HR Specialist,1,4,2,6,33,3.166,High Risk
+187,Annabella,Spurrier,Finance,Developer,1,2,3,1,7,3.164,High Risk
+767,Kellby,Dowthwaite,Sales,Senior Developer,1,3,4,10,6,3.162,High Risk
+722,Persis,Bampton,Finance,Data Analyst,3,3,1,10,4,3.158,High Risk
+859,Salvatore,Silberschatz,IT,Senior Developer,2,1,5,10,2,3.154,High Risk
+321,Kellsie,Robillart,Operations,Manager,1,2,3,0,24,3.148,High Risk
+197,Bryant,Maillard,IT,Developer,4,1,1,5,23,3.146,High Risk
+945,Bev,Thonason,HR,Manager,3,2,3,12,22,3.144,High Risk
+598,Buddy,Fowkes,Finance,Manager,2,2,3,5,46,3.142,High Risk
+519,Ivy,Spread,Sales,HR Specialist,1,4,4,13,45,3.14,High Risk
+696,Celeste,Middleweek,IT,Developer,5,1,1,11,18,3.136,High Risk
+752,Krista,Plaschke,Finance,Manager,4,2,2,14,18,3.136,High Risk
+691,Eilis,Rack,Sales,Marketing Lead,3,4,1,14,16,3.132,High Risk
+120,Del,Wilshere,Operations,Data Analyst,4,2,2,13,40,3.13,High Risk
+161,Bram,Rosenbarg,IT,Senior Developer,3,1,4,10,39,3.128,High Risk
+146,Koenraad,Durram,Sales,Senior Developer,2,4,2,12,13,3.126,High Risk
+55,Amity,Banger,HR,Senior Developer,2,2,3,6,12,3.124,High Risk
+789,Nona,Grayham,Marketing,HR Specialist,1,4,3,10,10,3.12,High Risk
+335,Antonino,McKeaney,Finance,Manager,2,2,2,1,35,3.12,High Risk
+675,Marcile,Garcia,Finance,Manager,1,3,2,0,33,3.116,High Risk
+587,Daven,Deverell,Finance,Data Analyst,3,3,1,9,7,3.114,High Risk
+960,Maurie,McKee,IT,Manager,2,2,3,6,6,3.112,High Risk
+922,Gene,Wildish,HR,HR Specialist,1,3,3,4,31,3.112,High Risk
+249,Dominique,Seacroft,Operations,Marketing Lead,2,3,3,10,30,3.11,High Risk
+812,Kennith,Lamkin,HR,Developer,1,2,4,4,3,3.106,High Risk
+230,Rois,Mongin,Operations,Senior Developer,2,3,4,14,25,3.1,High Risk
+454,Reube,Colley,HR,Manager,4,1,3,11,50,3.1,High Risk
+973,Eugenio,Freegard,IT,Marketing Lead,1,5,3,14,24,3.098,High Risk
+879,Zena,Hupe,Finance,Data Analyst,1,5,2,10,23,3.096,High Risk
+936,Augy,Dillway,Marketing,HR Specialist,1,2,5,7,23,3.096,High Risk
+776,Christy,Begent,Marketing,Senior Developer,4,2,2,12,47,3.094,High Risk
+135,Onfre,Peart,Marketing,Marketing Lead,2,2,4,8,45,3.09,High Risk
+605,Jackie,Giacobo,Operations,HR Specialist,5,1,2,14,20,3.09,High Risk
+852,Laney,Gutierrez,Marketing,Senior Developer,3,1,2,2,19,3.088,High Risk
+692,Marrissa,Spires,HR,Senior Developer,1,1,5,2,19,3.088,High Risk
+637,Gaven,Spurret,Marketing,HR Specialist,4,3,1,14,18,3.086,High Risk
+202,Trey,Buckthought,Finance,HR Specialist,1,5,3,14,18,3.086,High Risk
+125,Vi,Lacotte,HR,Marketing Lead,4,2,1,9,17,3.084,High Risk
+512,Athene,Collins,Marketing,Manager,2,3,1,2,13,3.076,High Risk
+925,Sandor,Tayler,Sales,Senior Developer,2,5,1,11,37,3.074,High Risk
+277,Darryl,Whittaker,HR,Developer,4,2,2,12,36,3.072,High Risk
+404,Hillel,Woolway,IT,Marketing Lead,1,3,2,0,9,3.068,High Risk
+673,Marie-jeanne,Muckloe,HR,Marketing Lead,5,1,1,9,33,3.066,High Risk
+430,Eudora,Burgett,IT,HR Specialist,4,3,1,13,32,3.064,High Risk
+131,Zita,Gasnoll,HR,Senior Developer,3,2,2,7,6,3.062,High Risk
+544,Marten,Seavers,Operations,Manager,2,2,5,13,1,3.052,High Risk
+914,Jedidiah,Stummeyer,Marketing,Senior Developer,1,4,3,7,50,3.05,High Risk
+480,Shanan,Meeke,Operations,Data Analyst,2,3,1,0,50,3.05,High Risk
+330,Alley,Peddie,Operations,Data Analyst,3,2,4,14,24,3.048,High Risk
+547,Domingo,Swindle,Marketing,HR Specialist,3,1,5,12,48,3.046,High Risk
+761,Olga,Lingwood,IT,Marketing Lead,4,2,2,11,47,3.044,High Risk
+721,Dominica,Longbone,Operations,Data Analyst,5,1,2,13,21,3.042,High Risk
+618,Kareem,Gammage,Sales,Marketing Lead,1,3,5,10,46,3.042,High Risk
+533,Karney,Ormes,Operations,Manager,5,1,1,9,18,3.036,High Risk
+948,Lita,Sparsholt,Sales,Developer,1,4,4,12,16,3.032,High Risk
+583,Jerrilee,Lackie,Operations,Developer,3,3,2,11,14,3.028,High Risk
+645,Vannie,Satcher,Sales,Manager,3,1,2,1,13,3.026,High Risk
+729,Lindsay,Nicolson,IT,Senior Developer,1,5,2,9,12,3.024,High Risk
+495,Norton,Gabbotts,Finance,HR Specialist,2,2,3,4,12,3.024,High Risk
+31,Brig,Colter,IT,Marketing Lead,3,2,3,10,12,3.024,High Risk
+617,Elenore,de Quesne,Finance,Manager,1,5,3,12,36,3.022,High Risk
+68,Sherry,Shwalbe,HR,Manager,2,2,5,11,36,3.022,High Risk
+851,Henry,Bilbery,IT,Developer,4,1,4,14,35,3.02,High Risk
+229,Gradeigh,Foker,Operations,Manager,3,1,5,13,10,3.02,High Risk
+989,Cindi,Simko,Finance,Manager,2,3,4,13,10,3.02,High Risk
+656,Tanner,Romaines,Sales,Data Analyst,2,3,3,8,33,3.016,High Risk
+796,Bess,Carcass,Finance,Senior Developer,3,2,4,14,7,3.014,High Risk
+554,Vite,Wooller,Sales,Manager,2,4,1,6,7,3.014,High Risk
+26,Shepperd,Easlea,HR,Marketing Lead,2,4,2,10,7,3.014,High Risk
+19,Zelda,Dearth,Marketing,Manager,1,5,1,4,31,3.012,High Risk
+652,Mallissa,Pettingill,Operations,Marketing Lead,2,1,5,7,5,3.01,High Risk
+926,Corney,Rubega,HR,Data Analyst,3,1,4,8,28,3.006,High Risk
+121,Tarrah,Figgures,HR,Marketing Lead,1,5,3,12,28,3.006,High Risk
+300,Farley,Broggelli,Finance,Manager,2,3,3,8,28,3.006,High Risk
+791,Melita,Caughte,Operations,Manager,1,2,5,5,28,3.006,High Risk
+182,Barney,Dyet,Operations,Marketing Lead,1,4,2,4,1,3.002,High Risk
+869,Daniella,Lobb,Operations,Manager,2,5,1,10,25,3.0,High Risk
+306,Liza,Mitchelmore,HR,Data Analyst,3,1,4,7,48,2.996,High Risk
+489,Martha,Skocroft,Operations,HR Specialist,3,3,2,9,46,2.992,High Risk
+751,Penny,Hamer,Finance,HR Specialist,5,2,1,13,21,2.992,High Risk
+83,Claus,McAdam,Finance,HR Specialist,2,5,1,10,20,2.99,High Risk
+491,Tudor,Grafton,HR,Manager,3,2,2,4,45,2.99,High Risk
+414,Rosita,Ffoulkes,Sales,Manager,2,1,4,2,19,2.988,High Risk
+103,Oliy,Scotti,Operations,Manager,1,4,3,6,43,2.986,High Risk
+461,Hagan,Borzone,Marketing,Developer,3,1,5,11,39,2.978,High Risk
+16,Richmond,Cadlock,IT,Manager,4,2,2,10,38,2.976,High Risk
+957,Simeon,Keenlayside,Operations,Marketing Lead,1,4,5,14,35,2.97,High Risk
+77,Theo,Harkins,Finance,Developer,3,2,3,8,35,2.97,High Risk
+166,Therese,Wailes,Operations,Marketing Lead,5,2,1,12,35,2.97,High Risk
+842,Myrtie,Sample,IT,Developer,2,1,5,5,35,2.97,High Risk
+678,Niles,Clemenzo,HR,Developer,3,1,5,11,34,2.968,High Risk
+639,Marga,Ransom,HR,Marketing Lead,4,1,1,2,9,2.968,High Risk
+577,Mehetabel,Nuth,Operations,Manager,2,3,4,11,34,2.968,High Risk
+998,Curtis,Maxfield,IT,Developer,3,2,1,1,8,2.966,High Risk
+981,Demeter,Slafford,Operations,Manager,4,1,4,14,8,2.966,High Risk
+441,Harlin,Romans,Operations,Data Analyst,3,4,2,14,33,2.966,High Risk
+73,Britney,Hover,Marketing,HR Specialist,1,4,4,11,8,2.966,High Risk
+627,Price,Kybbye,Finance,Manager,2,4,2,9,8,2.966,High Risk
+850,Claudio,Russi,IT,Manager,2,1,4,2,7,2.964,High Risk
+904,Lusa,Peterken,Finance,Manager,2,4,3,13,7,2.964,High Risk
+122,Hillard,Exon,Finance,HR Specialist,1,3,4,6,5,2.96,High Risk
+514,Mahmud,Bowater,Operations,Senior Developer,2,2,4,7,4,2.958,High Risk
+34,Barnie,Flemmich,Operations,Developer,2,4,3,13,2,2.954,High Risk
+293,Phyllis,Tout,Marketing,Marketing Lead,4,2,2,10,26,2.952,High Risk
